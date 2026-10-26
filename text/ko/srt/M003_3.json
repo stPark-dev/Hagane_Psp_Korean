@@ -4,148 +4,148 @@
   {
    "id": "srt:M003_3:7",
    "src_sha1": "8fb526c1c361",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0033_edw01>@n알……!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_3:11",
    "src_sha1": "f949ab1c26d4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0033_alp01>@n형!@n안 돼, 도망치는 게……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_3:15",
    "src_sha1": "a8f4783a3289",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0033_etc01a>@n오토메일……그렇군.@n인체 파괴로는 부술 수 없을 터.@n동생 쪽은 몸속이 비어 있고.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_3:19",
    "src_sha1": "e2658df234e7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0033_etc01b>@n별난 놈들이로군…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_3:23",
    "src_sha1": "9fdf44237c5d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0033_edw02>@n당신이 노리는 건 나뿐이야?@n동생……알도 죽일 셈이냐?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_3:27",
    "src_sha1": "535489b256c5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0033_etc02>@n방해하는 자가 있으면 제거하겠지만,@n심판을 내리는 건 강철의 연금술사……@n네놈뿐이다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_3:31",
    "src_sha1": "9f7bfe1cca72",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0033_edw03>@n그래……그럼 약속해!@n동생한테는 손대지 않겠다고!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_3:35",
    "src_sha1": "1ec9ffe68996",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0033_etc03>@n약속은 지키지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_3:39",
    "src_sha1": "48f61aa7602b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0033_alp02a>@n무슨 소리야……형!@n포기하지 마, 도망쳐!@n일어나서 도망치라고!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_3:46",
    "src_sha1": "7d070de40415",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0033_alp02b>@n……그만둬어어어어어!!!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_3:54",
    "src_sha1": "49443ea16199",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~M0033_roy01a>@n거기까지다!@n……꽤나 요란하게 날뛰어 줬군,@n스카.@n⊿@n",
+   "state": "draft",
+   "flag": "傷の男（スカー）→ ‘스카’만 사용(G017 비고: 한국어판은 스카만 씀). 첫 등장 병기(예: 상처 입은 남자(스카)) 여부 결정 필요"
   },
   {
    "id": "srt:M003_3:59",
    "src_sha1": "a489380ee8f0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0033_roy01b>@n터커 저택 습격을 포함한 일련의@n국가 연금술사 살해범으로서@n네놈을 구속한다!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_3:63",
    "src_sha1": "ab36c81550f2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0033_edw04>@n스카?@n이 녀석이……니나를!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_3:67",
    "src_sha1": "1377f19830ec",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0033_sca01a>@n……연금술사란 본래 있어야 할 모습을@n이형으로 바꾸는 자, 즉 만물의@n창조주인 신에 대한 모독.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_3:71",
    "src_sha1": "9d491a3a95cd",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0033_sca01b>@n나는 신의 대행자로서@n심판을 내리는 자다! 방해한다면@n네놈들도 제거할 뿐이다!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_3:75",
    "src_sha1": "a55dc50f1360",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0033_roy02>@n재미있군……불꽃의 연금술사,@n이 로이 머스탱이 상대해 주마!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_3:79",
    "src_sha1": "b712249bfc04",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0033_haw01>@n안 됩니다, 대령님!@n비 오는 날엔 무능하시니까@n물러나 계십시오!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_3:83",
    "src_sha1": "7437345f2cbd",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0033_roy03>@n무, 무능…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_3:87",
    "src_sha1": "5798a749789d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0033_etc04a>@n그렇다면! 이 ‘호완의 연금술사’@n알렉스 루이 암스트롱이@n상대해 드리리다!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_3:91",
    "src_sha1": "ef4cd2a9b256",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0033_etc04b>@n에드워드 엘릭, 이 몸의@n뒤에 숨어 있거라!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_3:98",
    "src_sha1": "de43fa8307d8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0033_sca02>@n국가 연금술사!@n내 사명을 방해하는 자!@n이곳의 전원을 멸하겠다!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

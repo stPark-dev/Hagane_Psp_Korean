@@ -4,22 +4,22 @@
   {
    "id": "srt:M003_1_t:8",
    "src_sha1": "31f8b0f05c68",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~nar10>@n생체연성 지식을 얻기 위해@n‘철명의 연금술사’@n쇼우 터커를 찾아간 에드와 알.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1_t:16",
    "src_sha1": "bc7ea438194d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~nar11>@n터커의 연구실에서 자료를 뒤지는 사이@n딸 니나, 개 알렉산더와도@n마음을 터놓고 친해져 간다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1_t:21",
    "src_sha1": "98d07060ab0b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~nar12>@n한편, 터커에게는 국가 연금술사@n자격 갱신 심사일이 다가온다.@n궁지에 몰린 터커의 속마음은?@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

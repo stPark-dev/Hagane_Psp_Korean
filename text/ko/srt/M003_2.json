@@ -4,29 +4,29 @@
   {
    "id": "srt:M003_2:8",
    "src_sha1": "87e8b5d4a34f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0032_edw01a>@n(위험해, 위험해, 위험해!)@n⊥@n<~M0032_edw01b>@n(온몸이 “도망쳐”라고 비명을@n　지르고 있어! 이 녀석은 위험해!!)@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_2:10",
    "src_sha1": "68ff1ed7d683",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0032_etc01>@n…………@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_2:12",
    "src_sha1": "5bdc33bb992c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0032_edw02>@n알, 도망치자!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_2:13",
    "src_sha1": "c5cf5f822269",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0032_alp01>@n응, 형!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

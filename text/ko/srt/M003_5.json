@@ -4,134 +4,134 @@
   {
    "id": "srt:M003_5:9",
    "src_sha1": "10169dae7e90",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……보렴, 글러트니.@n인간은 구제할 길 없이 어리석어.@n서로 죽이고 증오하고 피를 흘리지.@n⊥@n내가 살짝 정보를 조작해서@n신자들을 부추긴 것만으로@n이렇게 쉽게 싸움이 나다니.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_5:15",
    "src_sha1": "e941b8076163",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "어리석어, 어리석어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_5:22",
    "src_sha1": "76179dfacc17",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "아아, 그렇고말고.@n이렇게 잘 풀리니 그 어리석음도@n상쾌하기까지 하군.@n⊿@n",
+   "state": "draft",
+   "flag": "화자 라벨은 コーネロ지만 실제로는 코네로로 변신한 엔비(M003_5:31 참조). 코네로 말투로 처리"
   },
   {
    "id": "srt:M003_5:23",
    "src_sha1": "dc1e257aacf3",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "어머어머, “교주님”.@n미안해, 수고를 끼쳐서.@n⊥@n강철의 꼬마한테 방해받았을 땐@n어쩌나 했는데, 교주님 덕분에@n오히려 일이 빨리 끝날 것 같아.@n⊥@n유혈은 유혈을, 증오는 증오를 부르고,@n부풀어 오른 거대한 에너지는@n이 땅에 “피의 문장”을 새기지…….@n⊿@n",
+   "state": "draft",
+   "flag": "血の紋 → ‘피의 문장’, 鋼の坊や → ‘강철의 꼬마’ 제안"
   },
   {
    "id": "srt:M003_5:29",
    "src_sha1": "50330e51f0b8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "인간이 몇 번을 되풀이해도 배우지@n않는 어리석은 생물이니까, 우리@n뜻대로 되는 거겠지?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_5:31",
    "src_sha1": "42161d5f0073",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……그런데 엔비.@n언제까지 그 말투랑 모습으로 있을래?@n징그러워.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_5:33",
    "src_sha1": "b56729b840bf",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "에이~.@n분위기잖아, 분위기.@n그래도 어차피 변신할 거라면……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_5:46",
    "src_sha1": "dee19ffed91d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "칙칙한 할아범보다 젊고 귀여운@n이런 모습이 좋잖아.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_5:53",
    "src_sha1": "81c04a529699",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "괴……괴물!?@n⊥@n어떻게 된 거냐……교주님은……@n진짜 코네로 교주님은 어디 가셨지?!@n너희는 대체 정체가 뭐냐…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_5:59",
    "src_sha1": "a2e226d48fc1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "괴물이래.@n실례잖아, 그치?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_5:61",
    "src_sha1": "c0e3d5836712",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "있잖아 있잖아, 러스트.@n저 녀석 먹어도 돼?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_5:72",
    "src_sha1": "802300da39ba",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……남기지 말고 먹으렴.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_5:73",
    "src_sha1": "446f11d02237",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……!?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_5:95",
    "src_sha1": "960c535933d2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그러고 보니 이스트 시티의@n터커라는 피라미 연금술사가@n또 “그 녀석”한테 살해당했다지?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_5:97",
    "src_sha1": "e5a19220d792",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……이스트 시티라면@n불꽃의 대령과 강철의 꼬마가@n머물고 있을 텐데.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_5:99",
    "src_sha1": "9f30be5cf065",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "강철의 꼬마……우리 일을 방해한 건@n괘씸하지만, 죽게 둘 수는@n없겠네.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_5:105",
    "src_sha1": "8c2f85484e72",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "소중한 ‘제물’이니까.@n⊿@n",
+   "state": "draft",
+   "flag": "人柱 → ‘제물’로 초벌. 정발 용어 확인 필요(대안: 인주, 인간 기둥)"
   },
   {
    "id": "srt:M003_5:111",
    "src_sha1": "3d0468aaf76a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "이 마을도 대충 정리됐으니@n“그 녀석”……스카는@n나랑 글러트니가 어떻게든 할게.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_5:132",
    "src_sha1": "0325ce854b99",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "엔비의 타이틀 콜을@n입수했습니다. 타이틀 화면 또는@nGALLERY에서 들을 수 있습니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

@@ -4,29 +4,29 @@
   {
    "id": "srt:M005_2_e:19",
    "src_sha1": "6103dc13fc18",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0052_arm06>@n훌륭한 연계 공격이로다!@n너희 형제의 끈끈한 유대,@n똑똑히 보았노라!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M005_2_e:21",
    "src_sha1": "61ef554c9dfb",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0052_alp02>@n고마워요, 소령님.@n……형, 드디어구나.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M005_2_e:23",
    "src_sha1": "d2dd0e2229d7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0052_edw02>@n……그래. 센트럴에 가서@n마르코 씨의 책을 손에 넣는다!@n내일 아침 일찍 출발이야!!@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M005_2_e:25",
    "src_sha1": "fb458fc958ca",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0052_edw03>@n……그 전에.@n돌아가서 밥 먹자!@n배고파!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

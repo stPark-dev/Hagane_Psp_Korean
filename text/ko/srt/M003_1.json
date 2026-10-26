@@ -4,330 +4,330 @@
   {
    "id": "srt:M003_1:19",
    "src_sha1": "707d09a49fb0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……비 오겠네, 이거.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:22",
    "src_sha1": "b3b3433bc030",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "터커 씨~.@n오늘도 잘 부탁드려요~.@n⊥@n……어라?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:23",
    "src_sha1": "bd8e12daebd2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아무도 없나.@n터커 씨~?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:24",
    "src_sha1": "2d29ee837177",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "어이, 니나~?@n알렉산더?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:26",
    "src_sha1": "84c3c8ddf22a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "연구실인가?@n“심사”가 가깝다고 했으니까…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:32",
    "src_sha1": "028a170b56ad",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아, 열려 있어……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:45",
    "src_sha1": "96fc178590ad",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "터커 씨……@n……아.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:49",
    "src_sha1": "3a17bc696fe0",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "아아, 자네들이었나.@n마침 잘 왔네.@n봐 주게, 완성품이야.@n⊿@n",
+   "state": "draft",
+   "flag": "터커→에드 君 → ‘자네’로 처리(코네로와 같은 방식). 대안 ‘너’"
   },
   {
    "id": "srt:M003_1:62",
    "src_sha1": "7fc45938edb7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "이게 사람 말을 알아듣는@n합성수(키메라)라네.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:63",
    "src_sha1": "4d90c9ff8bf1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:69",
    "src_sha1": "905ab132c484",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "이, 이게……?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:70",
    "src_sha1": "4d37ec61a437",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "잘 보게.@n⊥@n……알겠니?@n이 사람은 에드워드야.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:71",
    "src_sha1": "2b0876f5294e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "에드……@n……워드?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:72",
    "src_sha1": "e281596cba35",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그래.@n잘했구나.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:73",
    "src_sha1": "69f033f3ace6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……믿을 수가 없어!@n정말로 말을 하고 있어…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:75",
    "src_sha1": "a0cf20b1bb9f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아~, “심사”에 늦지 않아 다행이야.@n이걸로 국가 자격을 잃지 않아도 돼.@n연구비 걱정도 필요 없고…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:76",
    "src_sha1": "1c4561020f88",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……에드워드,@n에드워드…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:78",
    "src_sha1": "561678888f3a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:79",
    "src_sha1": "d76bbc1703fb",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "에드……워드……@n“오……빠……”.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:93",
    "src_sha1": "570db21b6ca6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……?!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:98",
    "src_sha1": "cbec6ed7646f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……터커 씨. 사람 말을 알아듣는@n합성수 연구를 인정받아서 국가@n연금술사 자격을 딴 게 언제였지?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:100",
    "src_sha1": "f3d6fd48ed6c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "글쎄……“2년 전”이지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:101",
    "src_sha1": "8b6cc3e9a4aa",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "부인이@n없어진 건?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:102",
    "src_sha1": "d57895702b96",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……“2년 전”이지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:103",
    "src_sha1": "7a18378fc84b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "하나 더 물어봐도 될까……?@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:109",
    "src_sha1": "e31abc35effe",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……니나랑 알렉산더는@n어디 갔어!?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:115",
    "src_sha1": "aeb1d7ca342d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:122",
    "src_sha1": "3dcd124081c7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……자네처럼@n눈치 빠른 꼬맹이는 질색이야.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:138",
    "src_sha1": "739b65c2af31",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "형……@n역시, 이 합성수는…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:139",
    "src_sha1": "53941728764b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그래, 그런 거야!@n기어이 저질렀구나……이 자식!!@n⊥@n“2년 전”엔 네 아내를!@n그리고 이번엔 딸이랑 개를 써서@n합성수를 연성했어!!@n⊥@n동물 실험엔 한계가 있으니까……@n사람을 쓰면 편하겠지!@n어엉?!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:140",
    "src_sha1": "5211217a6dcb",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "하……@n뭘 그렇게 화를 내지?@n⊥@n자네도 과학자라면 알 텐데?@n의학이 대표적이듯, 인류의@n진보는 무수한 인체 실험의……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:141",
    "src_sha1": "025542dfa9c7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "웃기지 마!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:150",
    "src_sha1": "a3827e8bb863",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "이런 짓이 용납될 줄 알아!@n이런……@n사람 목숨을 갖고 노는 짓이!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:151",
    "src_sha1": "3ec747398f88",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "사람 목숨……하하! 사람 목숨이라!!@n강철의 연금술사!@n자네의 그 팔다리와 동생!@n⊥@n그것도 자네가 말하는@n“사람 목숨을 갖고 논”@n결과잖나!?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:152",
    "src_sha1": "9d7ada48ab8f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아니야!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:165",
    "src_sha1": "c36d652427e6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "하하핫! 똑같아, 자네도 나도!!@n눈앞에 가능성이 있으니 시험했지!@n그게 “금기”라는 걸 알면서도!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:174",
    "src_sha1": "5a8e40710478",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아니야!@n우리 연금술사는……이런 짓은!!@n난……난!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:187",
    "src_sha1": "25c19d303a8f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "안 돼, 형……@n더 했다간 죽어 버려.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:188",
    "src_sha1": "c6c40a65a720",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아……빠……@n……아……파……?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:189",
    "src_sha1": "f78f41a84b90",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……큭!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:190",
    "src_sha1": "df40d8470002",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "하하……깨끗한 소리만 해서야@n살아갈 수 있겠냐고…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:191",
    "src_sha1": "5760f08252f2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "터커 씨……@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:193",
    "src_sha1": "d83d57d27966",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "더 지껄였다간……@n이번엔 내가 폭발할 거야.@n⊿@n",
+   "state": "draft",
+   "flag": "알의 존대 붕괴: 원문이 반말이고 격앙(ブチ切れる)이라 반말 처리"
   },
   {
    "id": "srt:M003_1:194",
    "src_sha1": "1e8bb4bd6228",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "윽…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:196",
    "src_sha1": "d41fd266016e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "니나……미안해.@n지금 우리 기술로는@n널 원래대로 돌려줄 수 없어…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:197",
    "src_sha1": "3165446cc381",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "놀……자……@n……오, 빠……@n놀자……응.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1:199",
    "src_sha1": "ba008fcffeed",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "뭐가……뭐가 국가 연금술사야!@n크윽……젠자아아아앙!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

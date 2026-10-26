@@ -4,64 +4,64 @@
   {
    "id": "srt:M005_2:9",
    "src_sha1": "046cda34728b",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~M0052_arm01>@n에드워드 엘릭,@n그리고 알폰스 엘릭.@n피나코 님께 들었다……@n⊥@n",
+   "state": "draft",
+   "flag": "암스트롱의 殿 → ‘님’(피나코 님, 윈리 님) 제안(대안: 공, 양)"
   },
   {
    "id": "srt:M005_2:11",
    "src_sha1": "246d48a536f9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0052_arm02a>@n어머니를 되살리려 한 순수한 사랑!@n게다가 목숨을 버릴 각오로 동생의@n영혼을 연성한, 엄청난 사랑!!@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M005_2:13",
    "src_sha1": "6b13ffda702f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0052_arm02b>@n더불어 초지일관하고자 추억이@n가득한 생가를 불태워 퇴로를 끊은,@n그 귀기 어린 결의!@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M005_2:15",
    "src_sha1": "92896af8a9ca",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0052_arm02c>@n이 몸, 크게 감동했다!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M005_2:17",
    "src_sha1": "d539fd4495ab",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0052_edw01>@n(으아……진짜 부담스럽네)@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M005_2:19",
    "src_sha1": "00bb98e2d2a9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0052_alp01>@n형, 모처럼이니까@n새 오토메일의@n성능을 마음껏 시험해 보자.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M005_2:22",
    "src_sha1": "5ed9caa17a43",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0052_arm03a>@n……듣자 하니 윈리 님의 부모님도@n내란으로 돌아가셨다지 않은가!!@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M005_2:24",
    "src_sha1": "836bf8c682b1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0052_arm03b>@n너희 형제와 윈리 님의@n힘이 되고 싶구나.@n……자, 마음껏 덤벼 오너라!@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M005_2:26",
    "src_sha1": "4944ed971909",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0052_arm05>@n이 몸에게 너희 형제의 뜨거운@n연계 공격을 마음껏 퍼부어라!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

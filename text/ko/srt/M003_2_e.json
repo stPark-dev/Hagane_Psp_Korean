@@ -4,37 +4,37 @@
   {
    "id": "srt:M003_2_e:9",
    "src_sha1": "b910ff892b3f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0032_edw05>@n……당신 뭐야!@n왜 우리를 노리는 거지?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_2_e:13",
    "src_sha1": "f56240c531af",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~M0032_etc03>@n……네놈들 “만드는 자”가 있다면@n“부수는 자”도 있다는 것이다.@n⊿@n",
+   "state": "draft",
+   "flag": "화자 라벨 없음. 내용과 음성 ID(etc)로 보아 스카로 판단"
   },
   {
    "id": "srt:M003_2_e:17",
    "src_sha1": "a203672d94f0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0032_edw06>@n해 볼 수밖에 없다……이거냐!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_2_e:21",
    "src_sha1": "fba27324f55d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0032_alp03>@n응!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_2_e:25",
    "src_sha1": "18d469ce3471",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~M0032_etc04>@n좋은 배짱이다……하지만!@n⊿@n",
+   "state": "draft",
+   "flag": "화자 라벨 없음. 스카로 판단"
   }
  ]
 }

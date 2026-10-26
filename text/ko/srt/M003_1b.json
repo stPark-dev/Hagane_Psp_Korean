@@ -4,288 +4,288 @@
   {
    "id": "srt:M003_1b:14",
    "src_sha1": "bc25fbd4df50",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……보고는 들었다.@n언제까지 그렇게@n풀 죽어 있을 생각이지?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:15",
    "src_sha1": "d44352fe6654",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……시끄러워.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:21",
    "src_sha1": "7427a6fc16cc",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "사람 목숨을 좌지우지한다는 점에선@n“군에 속한 인간 병기”인 우리나@n터커 씨의 행위나 별 차이 없다.@n⊥@n우리가 택한 길 끝에는 오늘보다@n더한 고난과 고뇌가 기다리겠지.@n억지로라도 납득하고@n나아가는 수밖에 없다.@n⊥@n군의 개다, 악마다@n욕을 먹더라도, 그 특권을 써서@n원래 몸으로 돌아가기로 한 건@n자네 자신이다.@n⊥@n",
+   "state": "draft",
+   "flag": "軍の狗 → ‘군의 개’ 제안(대안: 군견)"
   },
   {
    "id": "srt:M003_1b:23",
    "src_sha1": "8fea3e2159a3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "이 정도 일로@n멈춰 서 있을 틈이 있나?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:30",
    "src_sha1": "68e5a9490d9a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……그래, 맞아. 개다 악마다@n욕을 먹어도, 알이랑 둘이서@n꼭 원래 몸으로 돌아갈 거야!@n⊥@n……하지만 말이야.@n우리는 악마도, 하물며@n신도 아니야…….@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:32",
    "src_sha1": "60670e9a96d0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "인간이라고! 고작 여자애@n하나도 구해 주지 못하는……@n보잘것없는 인간이야……!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:34",
    "src_sha1": "2f8b977e5e31",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……그러고 있으면 감기 걸려요.@n두 사람 다, 오늘은 돌아가서 쉬어요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:35",
    "src_sha1": "4d90c9ff8bf1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:59",
    "src_sha1": "b67ab855aa15",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "엄마, 엄마!@n이거 봐, 내가 연성했어!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:62",
    "src_sha1": "15e4ef6cfc2d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "어머, 에드가? 역시 아빠 아들이네!@n이렇게 멋진 걸 만들다니.@n하지만……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:76",
    "src_sha1": "acbf4d5a0ac3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……엄마는 제대로@n만들어 주지 않았구나?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:77",
    "src_sha1": "d0c94aa53203",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아……으아……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:95",
    "src_sha1": "94bf68ae34d7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "우와아아악!?@n꾸, 꿈……?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:101",
    "src_sha1": "d7b873da1939",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "괜찮아? 형.@n계속……악몽에 시달리던데.@n⊥@n……이따가 대령님한테 가 보자.@n니나 일도 신경 쓰이고.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:102",
    "src_sha1": "2c0cecba5854",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그래…….@n젠장……왜 이런 꿈을…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:119",
    "src_sha1": "4d90c9ff8bf1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:125",
    "src_sha1": "d0f43c3e6c07",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "에드워드 군?@n무슨 일이에요, 이렇게 아침부터…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:126",
    "src_sha1": "eb9c051bdf5c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아, 저기……@n터커랑……니나는 어떻게 돼?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:128",
    "src_sha1": "39abe6c15190",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……말하지 않아도 언젠가는@n알게 될 테니까, 알려 줄게요.@n⊥@n터커 씨는 자격 박탈과 함께@n센트럴에서 재판을 받을@n예정이었는데……@n⊥@n……두 사람 다 죽었어요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:139",
    "src_sha1": "0da210816e13",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "뭐……@n주, 죽었다고!? 니나도!?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:140",
    "src_sha1": "48a102421073",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그럴 수가……어, 어째서요?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:142",
    "src_sha1": "fda2fc980eca",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "정확히 말하면 “살해당한” 거예요.@n이유는 아직 몰라요……@n저도 지금 현장에 가는 길이라서.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:148",
    "src_sha1": "58540e8de91f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "나, 나도 갈래!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:149",
    "src_sha1": "8c6c606ed979",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "안 돼요……안 보는 게 좋아요.@n꽤 처참한 현장인 것 같으니까.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:150",
    "src_sha1": "aeb1d7ca342d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:172",
    "src_sha1": "24da015e749b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……있잖아, 알. 어젯밤부터@n우리가 믿는 연금술이란 게@n뭘까……하고 계속 생각했어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:174",
    "src_sha1": "d84596783d8b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "“연금술이란, 물질 안에@n　존재하는 법칙과 흐름을 알고,@n　분해하고, 재구축하는 것”@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:176",
    "src_sha1": "76f06798c682",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "“이 세계도 법칙에 따라 흐르고@n　순환한다. 사람이 죽는 것도 그@n　흐름의 일부. 흐름을 받아들여라”@n⊥@n……선생님한테@n지겹도록 들었었지…….@n⊿@n",
+   "state": "draft",
+   "flag": "師匠（せんせい）→ ‘선생님’(이즈미 호칭, 정발 확인 필요. 대안 ‘스승님’)"
   },
   {
    "id": "srt:M003_1b:177",
    "src_sha1": "e9558e132991",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "응.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:179",
    "src_sha1": "3ad377603556",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "알고 있다고 생각했어.@n하지만 몰랐으니까@n그때……엄마를…….@n⊥@n그리고 지금도……니나와@n알렉산더를 어떻게든@n할 수 없을까 생각하고 있어…….@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:185",
    "src_sha1": "f2d363943f60",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……난 바보야.@n그때부터 조금도 성장하지 못했어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:187",
    "src_sha1": "c050f74a0828",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그래도……형.@n나는 역시 원래 몸으로……인간,@n알폰스 엘릭으로 돌아가고 싶어.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:188",
    "src_sha1": "31350a2a2c18",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……설령 그게 세상의@n흐름을 거스르는 일이라 해도.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:190",
    "src_sha1": "22c6620a72da",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……그렇지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:206",
    "src_sha1": "653e755204d8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "갑옷과 금발의 2인조에@n엘릭이라는 성……네놈이@n에드워드 엘릭이로군?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:212",
    "src_sha1": "efbc0b3cc234",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "어……?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:214",
    "src_sha1": "9d245d17ca84",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "강철의 연금술사……@n파괴하겠다!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:220",
    "src_sha1": "b5940552e977",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "(뭐……뭐야, 이 녀석은?!)@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:226",
    "src_sha1": "395badec2d53",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "형!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:228",
    "src_sha1": "6ed5a87b3a95",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……!@n아, 그래, 도망치자, 알!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M003_1b:247",
    "src_sha1": "789d9d85ac55",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……놓치지 않는다!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

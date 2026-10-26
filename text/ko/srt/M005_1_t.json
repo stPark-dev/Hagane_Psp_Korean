@@ -4,15 +4,15 @@
   {
    "id": "srt:M005_1_t:5",
    "src_sha1": "ecdadd122a68",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~nar16a>@n오토메일을 수리하러 고향@n리젠블로 향하던 에드 일행은@n어느 마을에서 닥터 마르코를 만난다.@n⊥@n<~nar16b>@n과거의 악몽 탓에 입을 다물던@n마르코는 이윽고 에드의 결의를@n헤아려 ‘현자의 돌’ 연구 자료의@n은닉처를 에드에게 맡긴다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M005_1_t:9",
    "src_sha1": "248bbe13025e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~nar17>@n그리고 마르코와 헤어진 에드 일행은@n형제의 고향 리젠블에 도착한다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]
