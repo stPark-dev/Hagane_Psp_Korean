@@ -4,757 +4,757 @@
   {
    "id": "srt:M001_1b:11",
    "src_sha1": "2bf8ab8239a7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_roz01>@n……에드워드는 대단한 분이네요.@n이름을 말한 것만으로 교주님과@n면회 약속이 잡혔어요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:21",
    "src_sha1": "0230b8422ce1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_sik01>@n이거 이거, 에드워드 님.@n국가 연금술사님께서 일부러 리올까지@n오시다니, 무슨 일이십니까?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:23",
    "src_sha1": "6f5945616a23",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_edw01>@n갑자기 무리한 부탁 해서 미안해.@n좀 물어보고 싶은 게 있어서 말이야.@n교주님도 바쁘신 분이겠지만.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:24",
    "src_sha1": "88cbb57688c0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_sik02>@n예, 그렇지요. 그러니@n금방 끝내 버리도록 하지요.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:25",
    "src_sha1": "e427175a7bec",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_sik03>@n……이렇게!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:54",
    "src_sha1": "56e5a0ec841e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_edw02>@n……!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:55",
    "src_sha1": "b77a900092b0",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~M0011b_roz02>@n꺄아아악!@n사……사형, 이게 무슨 짓이에요……!!@n⊿@n",
+   "state": "draft",
+   "flag": "師兄을 ‘사형’으로 옮김. 부교주에 대한 교단 내 호칭인데 한국어로 어색할 수 있음(대안: ‘형제님’, ‘부교주님’). 결정 필요."
   },
   {
    "id": "srt:M001_1b:56",
    "src_sha1": "a01213819dc0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_sik04>@n로제. 이자들은@n교주님을 모함하려는 이교도다.@n우리에게는 적이란 말이다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:57",
    "src_sha1": "204b8047c862",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_roz03>@n그럴 수가! 그렇다고 목숨까지 빼앗을@n필요가 있나요!? 이런 짓을@n교주님께서 허락하실 리가…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:58",
    "src_sha1": "3fbed3b890d3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_sik05a>@n그 교주님께서 허락하신 것이다!@n⊥@n<~M0011b_sik05b>@n교주님의 말씀은 곧 신의 말씀…….@n즉, 이것은 “신의 뜻”이다!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:59",
    "src_sha1": "4aff55b56c62",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_etc01>@n흐음……@n그거 참 지독한 신도 다 있네.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:61",
    "src_sha1": "44e4254884af",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_sik06>@n뭣……네 이놈!@n머리가 날아갔는데 왜 살아 있지!?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:62",
    "src_sha1": "e34f92307b4b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_roz04>@n어……어어어@n어떻게 된 거야……!?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:63",
    "src_sha1": "80006bd72b52",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_edw03>@n너희도 언제까지 이런 장난감으로@n날 붙잡아 둘 수 있을 것 같냐?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:72",
    "src_sha1": "35dcfefee18c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_kyo01>@n우와앗!@n이, 이 꼬맹이가!?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:90",
    "src_sha1": "6a31e3b284ff",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_edw04>@n스트라이크!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:111",
    "src_sha1": "db4ba9529576",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_alp01>@n내 머리 던지지 마!@n정말이지…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:120",
    "src_sha1": "a5a70d0ef159",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_roz05>@n당신들, 대체…….@n게다가 알폰스 군의@n그 갑옷으로 된 몸은…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:122",
    "src_sha1": "a8c300343c33",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_alp02>@n이건 말이야, 로제……@n사람이 침범해선 안 될 신의 영역인지@n뭔지에 발을 들인 죄라는 거야.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:124",
    "src_sha1": "dcbd268b89cf",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_alp03>@n나도……형도 말이야.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:125",
    "src_sha1": "8459ca0f8a86",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_roz06>@n에드워드……도?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:127",
    "src_sha1": "5a94c964a11b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_edw05>@n뭐, 그 얘긴 일단 접어 두고.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:129",
    "src_sha1": "79162f0104b9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_edw06>@n신의 정체, 이걸로 드러났군.@n국가 연금술사가 왔다는 것만으로@n이런 환영 인사라니.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:131",
    "src_sha1": "1c9c5339f293",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_edw07>@n이 교단, ‘기적의 힘’도 수상하지만@n뭔가 구린 짓을 하고 있는 게@n틀림없어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:137",
    "src_sha1": "429d7726277f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_roz07>@n그럴 리가! 뭔가 잘못된 거예요!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:139",
    "src_sha1": "ff1a3d9702c1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_edw08>@n아 진짜, 이 아가씨는.@n이렇게까지 당하고도 아직@n이 교단을 믿는 거냐.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:141",
    "src_sha1": "f41dbe435ef7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_edw09>@n……로제.@n진실을 볼 용기는 있어?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:164",
    "src_sha1": "32f91334bd47",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_edw10>@n로제가 말했던@n교주의 방이란 게 여긴가.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:170",
    "src_sha1": "10198fd65f53",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_etc02>@n신성한 교단에 온 것을 환영하네,@n‘강철의 연금술사’.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:171",
    "src_sha1": "50adc43e8a64",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_edw11>@n당신이 코네로 씨야?@n졸개들이 당하니까 그제야@n교주님 납신다 이거군.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:172",
    "src_sha1": "4acff86b53be",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_cor01a>@n성급한 자들이 있었던 모양이군.@n무례를 범한 점, 사과하지.@n⊥@n<~M0011b_cor01b>@n교리를 들으러 왔나?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:173",
    "src_sha1": "98db01923945",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_edw12>@n치사한 연금술로 신자를 속이는 법이라도@n가르쳐 주시겠다는 건가?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:174",
    "src_sha1": "6d0f32c36763",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_cor02>@n……글쎄, 무슨 소린지?@n내 ‘기적의 힘’을 연금술과@n같은 것으로 취급하면 곤란하지…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:175",
    "src_sha1": "7f65b5f2fd19",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_edw13a>@n헛소리는 됐고.@n당신의 그 ‘기적의 힘’이란 건@n아무리 봐도 연금술이니까.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:176",
    "src_sha1": "629ab3ca9f31",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_edw13b>@n그런데 도무지 납득이 안 가는 건,@n연금술 법칙을 무시한 연성이@n이루어지고 있다는 거란 말이지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:177",
    "src_sha1": "bef96c45bd91",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_cor03>@n그러니까 연금술이 아니라고……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:178",
    "src_sha1": "162bbdfc135c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_alp04a>@n연금술은 뭐든지 무제한으로 꺼낼 수@n있는 편리한 술법이라고들 생각하지만,@n연금술의 기본은 “등가교환”.@n⊥@n<~M0011b_alp04b>@n무언가를 얻으려면 그와 동등한 대가가@n필요해. 즉, 질량이 1인 것에서는@n똑같이 1인 것밖에 연성할 수 없어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:179",
    "src_sha1": "367a08835e7e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_edw14>@n……당신은 그 법칙을 무시하고@n연성해 버리고 있어.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:180",
    "src_sha1": "78f79ed1721c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_edw15a>@n……‘현자의 돌’, 쓰고 있지?@n⊥@n<~M0011b_edw15b>@n예를 들면@n그 반지가 그거라든가?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:184",
    "src_sha1": "d823cbe3b879",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_cor04>@n이건 평범한 반지다. 나는 신으로부터@n‘기적의 힘’을 허락받은 것이다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:187",
    "src_sha1": "05b0566eacf6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_edw16>@n아직도 시치미 떼냐.@n아무래도 붙잡아서@n몸에 직접 물어봐야겠군.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:188",
    "src_sha1": "c08dbf54a11e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_cor05>@n자네는 구제할 길 없는 이교도로군.@n……로제.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:196",
    "src_sha1": "3447d6e1903a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_roz08>@n교주님……@n이 사람이 한 말이 사실인가요?@n저희를 속이셨던 건가요!?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:199",
    "src_sha1": "379c0a893981",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_roz09>@n제 소원을……그 사람을@n되살려 주시지 않는 건가요!?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:200",
    "src_sha1": "f0c40be9f43e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_cor06a>@n왜 그러느냐.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:201",
    "src_sha1": "7cc2eac88095",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_cor06b>@n작년에 연인을 사고로 잃고@n절망의 밑바닥에 있던 너를 구한 건@n누구냐?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:202",
    "src_sha1": "a0b7abe44f5b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_roz10>@n코네로 님입니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:203",
    "src_sha1": "500e0be74060",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_cor07>@n……그렇다.@n내가 너를 구해 주었다.@n그리고 무엇을 약속했지?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:204",
    "src_sha1": "f152f2f63801",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_roz11>@n그 사람을 되살려 주시겠다고!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:205",
    "src_sha1": "cb8a96709c51",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_alp05>@n로제, 듣지 마!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:206",
    "src_sha1": "cab8f485ad7a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_edw17>@n로제, 저쪽으로 가면@n다신 못 돌아온다!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:207",
    "src_sha1": "89d45fa6f851",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_roz12>@n두 사람 다…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:212",
    "src_sha1": "0fdc54687ed3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_edw18>@n…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:213",
    "src_sha1": "fb9924e3b814",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_roz13>@n미안해……@n하지만 나한텐 이것밖에……@n이것에 매달릴 수밖에 없어…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:215",
    "src_sha1": "dd8dc46c0c83",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_cor08>@n……그래야지, 신께서 기뻐하신다.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:217",
    "src_sha1": "f0a67d393a8e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_cor09>@n내 말은 곧 신의 말씀.@n이것은 신의 뜻이니라.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:228",
    "src_sha1": "c7f388ec50e6",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~M0011b_cor10>@n합성수(키메라)를 보는 건@n처음인가?@n⊿@n",
+   "state": "draft",
+   "flag": "合成獣（キメラ） 첫 등장이라 ST-03에 따라 ‘합성수(키메라)’로 병기함. EBOOT 튜토리얼 표본은 ‘키메라’만 씀. 정발 표기 확인 필요."
   },
   {
    "id": "srt:M001_1b:229",
    "src_sha1": "aba811af8e72",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_edw19>@n‘현자의 돌’을 써서 이런 것까지@n만들어 낸 거냐.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:230",
    "src_sha1": "3ef0f49454c0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_edw20>@n하여간 혈기 넘치는@n아저씨네.@n할 수 없지, 간다, 알.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:231",
    "src_sha1": "6a6bbe76cc99",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0011b_alp06>@n응!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:248",
    "src_sha1": "8b6575f978df",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "튜토리얼을 보시겠습니까?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:249",
    "src_sha1": "8a8650202b2b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "예@n아니요@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:261",
    "src_sha1": "3aaceeb9415c",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "여기선 나랑 알이 이 게임의@n‘미션 파트’에 대해@n설명해 줄게.@n⊿@n",
+   "state": "draft",
+   "flag": "튜토리얼 UI 용어(메뉴명·게이지명)는 실제 게임 메뉴 번역과 일치하는지 대조 필요."
   },
   {
    "id": "srt:M001_1b:262",
    "src_sha1": "a1d5ba442d91",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "‘미션 파트’라는 건,@n우리를 조작해서 게임을 진행하는@n파트를 말해.@n⊥@n참고로, 지금 우리가 이야기하고 있는@n파트는 ‘대화 파트’라고 해요.@n⊥@n이 ‘대화 파트’에서 이야기가 진행되면@n전투나 수색, 건물 수복 같은@n이벤트가 일어나요.@n⊥@n그 전투 같은 걸 실제로 하는 게,@n이제부터 설명할 ‘미션 파트’야.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:264",
    "src_sha1": "6d330f8c4f20",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그럼, 시작한다!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:272",
    "src_sha1": "cd2a503c44da",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "먼저 미션 준비부터야.@n전투 같은 이벤트가 발생하면@n이 ‘편성 화면’이 나와.@n⊥@n그 미션에서 뭘 해야 하는지,@n뭘 하면 실패가 되는지가@n설명되어 있어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:277",
    "src_sha1": "5f44033ada2f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "방향키 위아래로 항목을 바꿔서@n우리가 미션에서 쓸@n연금술이나 기술(스킬)을 고르거나……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:282",
    "src_sha1": "78abc79c9f16",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "우리 스테이터스를 확인할 수@n있어요. 자세한 건 설명서를 읽어@n보세요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:285",
    "src_sha1": "b0bedc74b065",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "참고로 처음엔 우리가 연금술이나@n기술을 별로 익히지 못했으니까@n초기 설정 그대로 시작해도 OK야.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:302",
    "src_sha1": "23bd63838932",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "미션 준비가 끝나면 드디어@n실전이야. 먼저 화면에 클리어 조건이@n표시되니까 잘 봐 둬.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:307",
    "src_sha1": "acdf57746a5e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "화면에는 플레이에 필요한 여러@n정보가 표시되어 있어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:312",
    "src_sha1": "cf6d25cee627",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "이건 캐릭터가 행동하는 순서를@n나타내는 ‘웨이트 턴 바’.@n⊥@n이 게임에서는 캐릭터의 민첩성@n순서대로 행동해. 이 게이지를 보고@n다음 행동을 생각해 봐.@n⊿@n",
+   "state": "draft",
+   "flag": "素早さ를 ‘민첩성’으로 옮김. 스테이터스 화면의 능력치 이름과 맞춰야 함."
   },
   {
    "id": "srt:M001_1b:313",
    "src_sha1": "197003cf5175",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "현재 턴 수랑, 턴 제한이 있는@n미션에서는 그것도 표시되니까@n항상 신경 써 두는 게 좋아.@n⊥@n참고로, 턴 제한이 없는 미션이라도@n99턴이 지나면 강제로 종료되니까@n주의해 줘.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:318",
    "src_sha1": "33512a055680",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그리고 이건 우리 조작 캐릭터의@nHP(체력)와 MP(정신력)@n표시야.@n⊥@nHP는 공격을 받으면 줄고, 0이 되면@n당해 버려……. MP는 연금술이나@n기술을 쓰면 줄어들어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:319",
    "src_sha1": "8f7996a72fb9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "MP는 턴이 지나면 자동으로 회복돼.@n하지만 HP는 스킬이나 구급상자를@n쓰지 않으면 회복되지 않아.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:324",
    "src_sha1": "8f8e5bbf0c13",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "이건 우리 행동을 정하는@n‘커맨드 메뉴’. ∈버튼을 누르면@n표시돼.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:333",
    "src_sha1": "6d54a81a39d6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "“싸운다”를 고르면 캐릭터가@n가진 무기나 체술로 공격할 수@n있어.@n⊥@n“스킬”은 캐릭터가 가진@n연금술이나 특수한 기술을 쓸 수 있어.@n고르는 스킬에 따라서는……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:344",
    "src_sha1": "5dbf8f538fb8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "“싸운다”로는 닿지 않는 거리의 적을@n공격하거나, 더 강력한 기술로@n공격할 수 있어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:345",
    "src_sha1": "36696c70740d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "“스테이터스”에서는 캐릭터의 능력을@n볼 수 있어요. “대기”는 아무것도@n하지 않고 행동 턴을 끝낼 때 써.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:354",
    "src_sha1": "5c615738b719",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "“대기”를 고르면 캐릭터가 바라볼@n방향을 지정하는데, 이 방향이라는@n게 나중에 중요해져.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:359",
    "src_sha1": "0f15ea90359a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "이건 커서로 고른 대상의@n정보가 표시되는 창이야.@n적의 스테이터스는@n여기서 확인할 수 있어.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:360",
    "src_sha1": "fad0bee28c8b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "이름 위에 있는 게이지를 주목해 줘.@n왼쪽부터 회피력, 공격력, 방어력을@n나타내는 마크가 붙어 있는데……@n⊥@n이 요소들은 공격 방향과 관계가@n있어. 같은 방향에서 계속 공격받으면@n“가드 브레이크”가 발생해.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:369",
    "src_sha1": "87fb1a570a69",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "“가드 브레이크”는 그 능력들이@n일시적으로 떨어지는 걸 말해.@n⊥@n예를 들어 옆에서 계속 공격받아서@n“가드 브레이크”가 발생하면@n공격력이 일시적으로 떨어지지.@n⊥@n가드 브레이크 중에는 각 마크가@n노랗게 켜지니까, 상대 입장에선@n그곳이 노릴 곳이라는 뜻이기도 해.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:370",
    "src_sha1": "f16a49c270a2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아까 “대기” 설명에서@n“캐릭터가 바라보는 방향이 중요하다”고@n한 게 이 얘기구나.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:371",
    "src_sha1": "d34dc814ac34",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "바로 그거야.@n공격할 때도, 이동할 때도@n방향을 의식하는 게 중요해.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:372",
    "src_sha1": "39d2d63a2cd6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그런데 이 화면 오른쪽 위에@n연성진이 그려져 있는데……@n구슬이 빛나고 있지?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:377",
    "src_sha1": "fa9a2df8439d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "이건 ‘러시 게이지’라고 해서,@n우리가 적에게 “가드 브레이크”를@n일으키면 쌓여 가.@n⊥@n최대 3개까지 이 빛나는 구슬을@n모을 수 있는데, 구슬이 모이면@n뭘 할 수 있냐면……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:378",
    "src_sha1": "9908cbcdc3c7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "‘연계 공격’이 가능해지는 거야!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:379",
    "src_sha1": "086b9ae0bff9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "‘연계 공격’은 ‘체인 러시’라고도@n하는데, 보통은 한 턴에@n한 번밖에 공격할 수 없는 게……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:388",
    "src_sha1": "3a84a76d48b9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "최대 7번이나 두들겨 팰 수 있다고!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:389",
    "src_sha1": "a07e2bedfd53",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "형, 너무 흥분했잖아!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:390",
    "src_sha1": "4479b13f2ac6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "게다가 공격 가능 범위 안에 동료@n캐릭터가 있으면 같이 공격해@n준다고!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:399",
    "src_sha1": "e9f3a2126690",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "“가드 브레이크”가 발생하면 화면에@n‘체인 러시’를 쓸 수 있게 됐다는@n표시가 나와.@n⊥@n표시가 나와 있는 타이밍(약 2초)에@nR 버튼을 누르면……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:404",
    "src_sha1": "1cdf41b483a5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "‘체인 러시’ 발동!@n화면 아래엔 ‘체인 러시 바’,@n화면 왼쪽엔 ‘연계 유닛’이 표시돼.@n⊥@n‘체인 러시 바’의 눈금이@n다 떨어질 때까지 공격을 퍼부을 수@n있게 되는 거야!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:405",
    "src_sha1": "3bf1d031ef44",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "러시 공격은 ‘연계 유닛’에@n표시된 캐릭터의 버튼을@n눌러서 펼칠 수 있어.@n⊥@n근처에 아군 캐릭터가 있으면@n최대 4명이 ‘연계 유닛’으로@n표시돼.@n⊥@n즉, 4명이서 연계 공격을@n할 수 있다는 거지.@n⊥@n참고로 범위 안에 한 명밖에 없을@n때는 혼자서 ‘체인 러시’를@n하게 돼.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:410",
    "src_sha1": "86ebe8b1d357",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아까 설명한 ‘러시 게이지’의@n구슬 수에 따라 ‘체인 러시’의@n위력이 달라져.@n⊥@n구슬 1개일 때 발동하면 레벨 1.@n구슬 2개일 때 발동하면 레벨 2.@n구슬 3개일 때 발동하면 레벨 3.@n⊥@n레벨이 오를 때마다 ‘러시 바’가@n길어져서, 그만큼 더 많은 공격을@n퍼부을 수 있어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:411",
    "src_sha1": "7e437b68905d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "레벨 1이면 최대 2번.@n레벨 2면 최대 5번.@n레벨 3이면 최대 7번 공격 가능해.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:420",
    "src_sha1": "e16e23e5cb45",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "게다가 레벨 3에선 러시 마지막에@n캐릭터의 필살기가 발동해서@n더 큰 대미지를 줄 수 있다고!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:425",
    "src_sha1": "943bc56c0be5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "레벨 2와 3의 ‘체인 러시’부터는@n“저스트 타이밍”이라는@n요소도 더해져.@n⊥@n‘러시 바’의 빨간 커서가 움직일 때@n톱니바퀴 모양의 ‘저스트 기어’가@n표시되게 돼.@n⊥@n딱 ‘저스트 기어’ 위에 커서가@n왔을 때 공격 버튼을 누르면……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:434",
    "src_sha1": "f6e21d4a25e1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "통상 공격보다 강력한 대미지를@n상대에게 줄 수 있어!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:435",
    "src_sha1": "1bef39394c3f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……이렇게 강력한 ‘체인 러시’지만,@n레벨 1을 여러 번 쓰는 게 좋은지@n레벨 3까지 모으는 게 좋은지는……@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:436",
    "src_sha1": "91096ef3d364",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "네 판단과 조작 테크닉에 달렸어.@n참고로 최대 대미지는 레벨 1을@n3번 쓰는 것보다 레벨 3 쪽이 셀걸.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:437",
    "src_sha1": "f1277d329034",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "한 번 ‘체인 러시’를@n발동하면 ‘러시 게이지’는@n0이 돼.@n⊥@n구슬이 3개 모였다고 해서@n레벨 1을 3연속으로 쓸 수는 없다는@n거니까, 기억해 둬.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:452",
    "src_sha1": "725898d059e8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "알, 그 밖에 설명해 두는 게@n좋은 거 있었나?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:458",
    "src_sha1": "caaf105e1a6b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "형……아직 “싸운다”밖에@n설명 안 했잖아.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:460",
    "src_sha1": "9afb13214f30",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "뭐, 그래도 이 이상 한꺼번에@n몰아넣어도 외우기 힘드니까@n나머지는 다음에 하자.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:462",
    "src_sha1": "9de08e743300",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그러자.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_1b:470",
    "src_sha1": "2de2f746fd0f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그럼, 첫 미션@n힘내라고!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

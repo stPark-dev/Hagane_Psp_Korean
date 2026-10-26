@@ -91,10 +91,10 @@ ISO 안 주요 파일:
 | R-FONT-CAP | 4,494 글리프 PPSSPP 확인. 실기 메모리·전투 등 무거운 장면에서의 여유는 미확인 | 실기 지원 주장 | 전투 장면 진입 확인, 가능하면 실기 |
 | R-FONT-CONS | 메뉴·전투 UI·로그 화면의 글꼴 소비자 | 검증 범위 | 각 화면에서 한글 표시 확인 |
 | R-SRT-BRANCH | case 0 + goto 한 경로만 런타임 확인 | 대사 재삽입 | 제품 빌드 후 다른 선택지·default 경로 |
-| R-NAME | 화자 이름판(노점 주인 등 한자 이름)이 별도 표에서 옴 — 한자 자리 재배정으로 깨짐 | 전 대사 | 이름 표 위치 확인(mes_j.bin 또는 EBOOT) |
+| R-NAME | 화자 이름판(노점 주인 등 한자 이름)이 깨짐. 화자 번호 = mes_j.bin 표 1 순서와 일치하지만 **CPK의 STR/mes_j.bin 두 사본을 바꿔도 이름판 불변(PoC-N1)** → 공급원 아님. EBOOT 0x15cfc4에 같은 이름 목록 존재(유력 후보) | 전 대사 | EBOOT 이름 목록 교체 PoC. mes_j.bin 소비 여부(R-MES)도 함께 |
 | R-KANJI-ROW | 한자 구 16–40을 한글이 차지 → 번역 안 된 한자는 모두 한글로 깨짐 | 미번역 텍스트 전부 | 출시 범위의 모든 표시 텍스트를 번역하거나, 남는 한자를 다른 칸으로 옮김 |
 | R-EBOOT-REF | EBOOT 문자열 참조 방식·공간 | UI 번역 | 정적 참조 추적 + 대표 문자열 교체 PoC |
-| R-INSTALL | 설치본 `ms0:/PSP/SAVEDATA/ULJS00292HAGINS/INS000.DNS` = DAT000.cpk의 PGD(drm 1, MAC 1, 블록 1024, EBOOT 0x1a5bb0의 키 `(EBOOT 0x1a5c50의 16바이트)`, sceIoIoctl 0x04100001). 원본 DAT000 → DNS 바이트 동일 재생성 확인(work/ext/pgdtool, 마지막 블록의 12바이트 패딩은 원본 값 사용). 내용을 바꾼 DNS의 런타임 수용·실기 MAC 검증 미확인 | 설치 사용자 전원 | D2 결정 후 설치→로드 PoC |
+| R-INSTALL | 설치본 `ms0:/PSP/SAVEDATA/ULJS00292HAGINS/INS000.DNS` = DAT000.cpk의 PGD(drm 1, MAC 1, 블록 1024, EBOOT 0x1a5bb0의 16바이트 키, sceIoIoctl 0x04100001). 원본 DAT000 → DNS 바이트 동일 재생성 확인(work/ext/pgdtool, 마지막 블록의 12바이트 패딩은 원본 값 사용). 내용을 바꾼 DNS의 런타임 수용·실기 MAC 검증 미확인 | 설치 사용자 전원 | D2 결정 후 설치→로드 PoC |
 | R-ISO | 배포용 ISO 재작성(DAT000 크기 증가) | 배포 | ISO 패처 + 무변경 왕복 |
 | R-GFX | 그래픽 글자 모집단 | 분량·일정 | pix 전수 렌더 후 글자 블록 목록 |
 | R-MOVIE | 동영상 속 글자·자막 | 분량 | PSMF 프레임 확인 |

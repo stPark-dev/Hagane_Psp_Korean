@@ -4,22 +4,22 @@
   {
    "id": "srt:M001_4:8",
    "src_sha1": "8d08b759f1ca",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0014_edw01>@n돌로 무기를 연성했단 말이지…….@n로제도 있으니 이대로 싸울@n수는 없겠군.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_4:10",
    "src_sha1": "eaa645ff322e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0014_alp01>@n그러네, 형.@n돌벽을 연성해서 공격을 막으면서@n저 출구까지 도망치자!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_4:20",
    "src_sha1": "fcfa9615709f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0014_cor01>@n흐하하하핫!@n어리석은 놈들!@n신의 곁으로 보내 주마!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

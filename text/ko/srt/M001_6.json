@@ -4,29 +4,29 @@
   {
    "id": "srt:M001_6:6",
    "src_sha1": "3dba14861bc7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0016_edw01a>@n느려!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_6:10",
    "src_sha1": "b99bcb08fea1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0016_edw01b>@n말했잖아, 격이 다르다고!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_6:14",
    "src_sha1": "d73164d6f04a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0016_cor01>@n아……아직 포기 못 한다.@n나는……나는……신의 대리인이다아앗!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_6:18",
    "src_sha1": "649757e58577",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0016_edw02>@n쳇……저런 것도 할 수 있나.@n좀 성가시겠는데.@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

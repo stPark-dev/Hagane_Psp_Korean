@@ -4,36 +4,36 @@
   {
    "id": "srt:M001_4_n1:11",
    "src_sha1": "6cfcde610a64",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0014_edw02>@n알, 일단 나가자!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_4_n1:13",
    "src_sha1": "65bfbc4a7ad0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0014_alp02>@n응, 형.@n자, 로제도 같이 가자!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_4_n1:14",
    "src_sha1": "53047ffe80c3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0014_roz01a>@n네, 네!@n⊥@n<~M0014_roz01b>@n하지만……출구는 코네로 님이@n조작하지 않으면 열리지 않게@n되어 있을 텐데……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_4_n1:16",
    "src_sha1": "1c95852ccacd",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0014_edw03>@n아, 그러셔!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_4_n1:25",
    "src_sha1": "a8fdf47f1f54",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0014_edw04>@n출구가 없으면 만들면 그만이지!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

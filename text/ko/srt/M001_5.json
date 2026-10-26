@@ -4,253 +4,253 @@
   {
    "id": "srt:M001_5:14",
    "src_sha1": "bc4dc2094deb",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_ka01>@n이교도가 숨어든 모양이다!@n찾아라!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:15",
    "src_sha1": "880b2f2747df",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_kb01>@n어린애라고 방심하지 마라!@n만만치 않은 놈이다!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:16",
    "src_sha1": "ff12c0e35177",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_edw01a>@n참 끈질기네…….@n⊥@n<~M0015_edw01b>@n……응?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:23",
    "src_sha1": "4a1ead38fd49",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_edw02>@n로제, 이 방은 뭐야?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:24",
    "src_sha1": "8fd7996b3d30",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_roz01>@n교주님이 라디오로 설교하실 때 쓰는@n방송실인데요…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:26",
    "src_sha1": "e73ec9839a8a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_edw03>@n호오오…….@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:27",
    "src_sha1": "bb0a6b1106e9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_edw04>@n알, 로제를 안전한 곳으로@n데려가 줘.@n난 여기서 할 일이 좀 생겼어!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:48",
    "src_sha1": "dd865157d9c2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_alp01>@n이제 알겠지? 로제.@n코네로는 네가 있는데도 쏴 댔어.@n그 녀석은 신자를 이용할 뿐이야.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:49",
    "src_sha1": "c28d46eb8125",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_roz02a>@n…….@n⊥@n<~M0015_roz02b>@n……아까 두 사람 얘기 말인데요,@n아직 믿기지 않아요. 그렇게까지@n해야만 인체연성을 할 수 있다니.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:50",
    "src_sha1": "f8c1c97fd8e1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_alp02a>@n말했잖아.@n연금술의 기본은 “등가교환”이라고.@n⊥@n<~M0015_alp02b>@n무언가를 얻으려면 그에 걸맞은@n대가를 치러야만 해.@n⊥@n<~M0015_alp02c>@n형도 천재 연금술사라고 불리지만,@n“노력”이라는 대가를 치렀기에@n지금의 형이 있는 거야.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:51",
    "src_sha1": "99bd4d9a9519",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_roz03>@n그, 그래도……@n그렇게까지 희생을 치렀다면@n어머니는 분명…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:53",
    "src_sha1": "4db6e330e3aa",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_alp03a>@n……사람의 형태를 하고 있지 않았어.@n⊥@n<~M0015_alp03b>@n엄마는 살아나지 않았고, 우리는@n잘못을 저지른 대가로@n몸을 빼앗긴 거야…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:59",
    "src_sha1": "fa11c859cbb4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_roz04>@n……!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:60",
    "src_sha1": "8f1325244c45",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_alp04a>@n인체연성은 포기했지만,@n나는 형의 팔과 다리를@n원래대로 되돌리고 싶어.@n⊥@n<~M0015_alp04b>@n형도 내 몸을 원래대로 되돌리고@n싶어 해. 하지만 그 대가로 벌을@n받아 목숨을 잃을지도 몰라.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:62",
    "src_sha1": "bed5768b143b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_alp05>@n우리가 고른 건 그런@n“업보의 길”이야. 그러니까 로제,@n너는 이쪽으로 와선 안 돼.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:64",
    "src_sha1": "7c21c4823ec1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_roz05>@n하지만……하지만, 당신들은@n못 해도, 코네로 님이라면!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:65",
    "src_sha1": "f885f5ae7d96",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_alp06>@n로제!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:92",
    "src_sha1": "1fcd6f60db5c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_cor01>@n이 꼬마 노오옴! 각오해라!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:94",
    "src_sha1": "2022a4583cb8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_edw05>@n아저씨, 터놓고 얘기하자고……@n난 그 돌의 비밀을 알고 싶을 뿐이야.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:96",
    "src_sha1": "3d84ac5b114a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_edw06>@n아니면 군에 출동을 요청할까?@n‘돌’을 조사하려고 말이야.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:97",
    "src_sha1": "351ffcdd15ca",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_cor02>@n크……좋다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:99",
    "src_sha1": "a638cd5d6107",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_edw07>@n‘현자의 돌’로 뭘 하려는 거야?@n그게 있으면 시시한 교단 따위@n필요 없잖아?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:105",
    "src_sha1": "8c848fdf1240",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_cor03a>@n……교단은 나를 위해서라면@n기꺼이 목숨도 버리는 신자를@n만들어 내 준다!@n⊥@n<~M0015_cor03b>@n죽음도 두려워하지 않는 최강의@n군단이다, 두고 보아라!@n⊥@n<~M0015_cor03c>@n앞으로 몇 년 뒤, 나는 이 나라를@n집어삼킬 것이다! ‘현자의 돌’과@n멍청한 신자 놈들을 써서 말이지!@n⊥@n<~M0015_cor03d>@n네놈에게도 떡고물 정도는@n나눠 주마! 와하하하하핫!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:107",
    "src_sha1": "a2841ba88207",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_edw08>@n큭……@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:113",
    "src_sha1": "b7d12177cfa3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_edw09>@n푸하하하하하하하핫!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:120",
    "src_sha1": "f98342689909",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_cor04>@n뭐가 우습나!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:121",
    "src_sha1": "9edc1d6605cf",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_edw10>@n그러니까아,@n당신은 삼류라는 거야.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:127",
    "src_sha1": "a76d82107cb6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_edw11>@n이게 뭐~게♪@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:137",
    "src_sha1": "fd84a0457c2b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_cor05>@n서, 설마……!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:138",
    "src_sha1": "857e02b17048",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_edw12>@n당신의 고마우신 교리라는 건@n이 마이크를 통해서, 평소처럼@n온 동네에 전해졌거든요?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:143",
    "src_sha1": "ae1b3f2b2e79",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_cor06>@n언제부터냐, 그 스위치……@n언제부터!?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:144",
    "src_sha1": "c43f8f7e8e02",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_edw13>@n처음부터 지금 떠든 것까지@n전~부 줄줄 샜지♪@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:146",
    "src_sha1": "36a21e5bbf41",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_alp07>@n‘기적의 힘’ 같은 건 없어.@n전부 ‘현자의 돌’의 힘이야…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:147",
    "src_sha1": "4bb83ee600d0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_roz06>@n…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:157",
    "src_sha1": "1542db0b86ee",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_cor07a>@n이 무슨 짓이냐아아앗!@n⊥@n<~M0015_cor07b>@n이 꼬맹이가……!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_5:159",
    "src_sha1": "c304235bc851",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0015_edw14>@n하, 이번에야말로 끝장을 내 주마,@n이 삼류 사기꾼아!@n밖으로 나와!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

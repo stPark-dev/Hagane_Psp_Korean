@@ -4,16 +4,16 @@
   {
    "id": "srt:M001_6_n1:11",
    "src_sha1": "0bdad7cbe667",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0016_cor02>@n내 말은 신의 말씀!@n이 주먹은 신의 주먹!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M001_6_n1:14",
    "src_sha1": "0f0324ae792c",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~M0016_edw03>@n신의 주먹은 무슨!@n그렇게 좋으면 옜다, 가져라!!@n⊿@n",
+   "state": "draft",
+   "flag": "くれてやる가 무엇을 주는지(연성한 주먹으로 되받아치는 장면인지) 화면 연출 확인 필요."
   }
  ]
 }
