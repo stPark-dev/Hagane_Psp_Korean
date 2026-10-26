@@ -94,7 +94,7 @@ ISO 안 주요 파일:
 | R-NAME | 화자 이름판(노점 주인 등 한자 이름)이 별도 표에서 옴 — 한자 자리 재배정으로 깨짐 | 전 대사 | 이름 표 위치 확인(mes_j.bin 또는 EBOOT) |
 | R-KANJI-ROW | 한자 구 16–40을 한글이 차지 → 번역 안 된 한자는 모두 한글로 깨짐 | 미번역 텍스트 전부 | 출시 범위의 모든 표시 텍스트를 번역하거나, 남는 한자를 다른 칸으로 옮김 |
 | R-EBOOT-REF | EBOOT 문자열 참조 방식·공간 | UI 번역 | 정적 참조 추적 + 대표 문자열 교체 PoC |
-| R-INSTALL | 설치 시 `ms0:/PSP/SAVEDATA/ULJS00292HAGINS/INS000.DNS`(PGD)에서 DAT000을 읽음. 패치된 DAT000과 불일치 | 설치 사용자 전원 | DNS가 DAT000의 PGD 사본인지 확인, PGD 키·재암호화 가능성, 아니면 설치 기능 처리 방안(사람 결정) |
+| R-INSTALL | 설치본 `ms0:/PSP/SAVEDATA/ULJS00292HAGINS/INS000.DNS` = DAT000.cpk의 PGD(drm 1, MAC 1, 블록 1024, EBOOT 0x1a5bb0의 키 `(EBOOT 0x1a5c50의 16바이트)`, sceIoIoctl 0x04100001). 원본 DAT000 → DNS 바이트 동일 재생성 확인(work/ext/pgdtool, 마지막 블록의 12바이트 패딩은 원본 값 사용). 내용을 바꾼 DNS의 런타임 수용·실기 MAC 검증 미확인 | 설치 사용자 전원 | D2 결정 후 설치→로드 PoC |
 | R-ISO | 배포용 ISO 재작성(DAT000 크기 증가) | 배포 | ISO 패처 + 무변경 왕복 |
 | R-GFX | 그래픽 글자 모집단 | 분량·일정 | pix 전수 렌더 후 글자 블록 목록 |
 | R-MOVIE | 동영상 속 글자·자막 | 분량 | PSMF 프레임 확인 |

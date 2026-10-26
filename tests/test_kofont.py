@@ -4,7 +4,7 @@ import pytest
 
 from tools import bdf, ffon, kofont
 
-GALMURI11 = Path(__file__).resolve().parent.parent.parent / "galmuri/Galmuri11.bdf"
+GALMURI = Path(__file__).resolve().parent.parent.parent / "galmuri"
 
 TINY_BDF = """STARTFONT 2.1
 FONT tiny
@@ -76,8 +76,11 @@ def test_add_hangul_appends_glyphs_and_remaps_codes():
     assert base.double[(16, 1)] == 2  # input left untouched
 
 
-@pytest.mark.skipif(not GALMURI11.exists(), reason="Galmuri11.bdf not present")
-def test_galmuri11_covers_ks_hangul():
-    f = bdf.parse(GALMURI11.read_text())
+@pytest.mark.parametrize("name", ["Galmuri11.bdf", "Galmuri11-Bold.bdf"])
+def test_galmuri_covers_ks_hangul(name):
+    path = GALMURI / name
+    if not path.exists():
+        pytest.skip(f"{name} not present")
+    f = bdf.parse(path.read_text())
     missing = [c for c in kofont.KS_HANGUL if ord(c) not in f.glyphs]
     assert missing == []
