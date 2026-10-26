@@ -84,8 +84,26 @@ def capture_window(path):
 
 
 class Debugger:
-    def __init__(self, port=None, host="127.0.0.1", timeout=30):
-        self.sock = socket.create_connection((host, port or find_port()), timeout=timeout)
+    def __init__(self, port=None, host="127.0.0.1", timeout=30, attempts=4):
+        # right after boot the server sometimes accepts but never answers the
+        # upgrade; a fresh connection a few seconds later succeeds
+        for i in range(attempts):
+            try:
+                self._connect(host, port or find_port(), handshake_timeout=30)
+                break
+            except (TimeoutError, ConnectionError):
+                # the server serves one client at a time; a stuck socket
+                # left open blocks every later attempt
+                if getattr(self, "sock", None):
+                    self.sock.close()
+                if i == attempts - 1:
+                    raise
+                time.sleep(2)
+        self.sock.settimeout(timeout)
+        self.ticket = 0
+
+    def _connect(self, host, port, handshake_timeout):
+        self.sock = socket.create_connection((host, port), timeout=handshake_timeout)
         key = base64.b64encode(os.urandom(16)).decode()
         self.sock.sendall((f"GET /debugger HTTP/1.1\r\nHost: {host}\r\nUpgrade: websocket\r\n"
                            f"Connection: Upgrade\r\nSec-WebSocket-Key: {key}\r\n"
@@ -98,8 +116,8 @@ class Debugger:
             resp += chunk
         head, self.buf = resp.split(b"\r\n\r\n", 1)
         if b" 101 " not in head.split(b"\r\n", 1)[0]:
+            self.sock.close()
             raise ConnectionError(head.decode(errors="replace"))
-        self.ticket = 0
 
     def _recv(self):
         while True:
