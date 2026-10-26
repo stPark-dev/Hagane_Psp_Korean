@@ -1,0 +1,17 @@
+# original game data and anything derived from it
+original/
+*.iso
+*.ISO
+*.zip
+*.cso
+*.xdelta
+*.ppst
+build/
+dist/
+
+# scratch work, extracted files, emulator dumps
+work/
+
+__pycache__/
+.pytest_cache/
+*.pyc
