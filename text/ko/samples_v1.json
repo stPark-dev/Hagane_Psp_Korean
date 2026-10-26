@@ -1,0 +1,661 @@
+{
+ "provenance": "Claude 초벌 — 표본 평가용(decisions D3). 평가 전에는 제품 빌드 입력 아님",
+ "glossary": "text/glossary.tsv",
+ "style": "docs/style.md",
+ "entries": [
+  {
+   "id": "srt:A004_048_1:7",
+   "src_sha1": "db6b38d4d0cc",
+   "ko": "저, 저기 휴즈 씨.@n이건……@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:A004_048_1:8",
+   "src_sha1": "d3bb0e91256a",
+   "ko": "잘 물어봤어!@n오늘은 나와 아내 그레이시아의 딸,@n엘리시아의 세 살 생일 파티다!@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:A004_048_1:9",
+   "src_sha1": "43742664d902",
+   "ko": "파티다아!@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:A004_048_1:10",
+   "src_sha1": "1f56b4f4d2fb",
+   "ko": "꺄아, 귀여워~♪@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:A004_048_1:11",
+   "src_sha1": "92976bb7bb12",
+   "ko": "어서 오렴, 윈리.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:A004_048_1:12",
+   "src_sha1": "04f702bb91f7",
+   "ko": "그래도 괜찮아요?@n처음 뵙는 제가 따님@n생일에 초대를 받아도요.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:A004_048_1:13",
+   "src_sha1": "e25e1823b846",
+   "ko": "좋은 일은 다 같이@n나누는 게 더 즐겁잖아?@n……휴즈 가에 온 걸 환영한다.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:A004_048_1:14",
+   "src_sha1": "a6f331b0c438",
+   "ko": "……실례하겠습니다.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:A004_048_1:32",
+   "src_sha1": "a00f0c93b5aa",
+   "ko": "……그러고 보니,@n에드의 정비사를 맡고 있다며?@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:A004_048_1:33",
+   "src_sha1": "449f90c28694",
+   "ko": "네, 걔네 형제랑은 집도 가깝고,@n어릴 때부터 늘 같이 있어서, 저도@n“남매” 같은 거예요.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:A051_010_2:7",
+   "src_sha1": "44fba052917a",
+   "ko": "……아버님.@n필립 가르강토스@n암스트롱 경.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:A051_010_2:21",
+   "src_sha1": "46b08e57e2cc",
+   "ko": "은거하시지요.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:A051_010_2:30",
+   "src_sha1": "a86a5be5b045",
+   "ko": "……올리비에.@n⊥@n오랜만에 집에 들렀나 했더니,@n갑자기 무슨 소리를 하는 게냐.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:A051_010_2:34",
+   "src_sha1": "801c064ce313",
+   "ko": "가주 자리를 제게 물려주시고,@n여생을 편히 보내시라고@n말씀드리는 겁니다.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:A051_010_2:35",
+   "src_sha1": "9074c7706cde",
+   "ko": "……내 뒤는@n알렉스에게 잇게 할 생각이다.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:A051_010_2:37",
+   "src_sha1": "f627a8aa6e7f",
+   "ko": "그런 겁쟁이에게요?@n제게 모든 걸 물려주시고, 외국에서@n느긋하게 휴가라도@n즐기시는 게 어떻습니까.@n⊥@n알렉스로는@n암스트롱 가의 이름에@n먹칠만 할 뿐입니다.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:A051_010_2:68",
+   "src_sha1": "0b48fd7fc066",
+   "ko": "누님!@n돌아오셨습니까!@n오실 거면 미리 말씀해 주셨으면……@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:A051_010_2:73",
+   "src_sha1": "e5c407277474",
+   "ko": "올리비에와 겨뤄라.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:A051_010_2:79",
+   "src_sha1": "033f584083e4",
+   "ko": "……예?@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:A051_010_2:80",
+   "src_sha1": "fb75acef2c0f",
+   "ko": "……이긴 쪽에 가주 자리를 물려주마.@n그걸로 됐느냐? 올리비에.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:A051_010_2:100",
+   "src_sha1": "571f9b5bd9ab",
+   "ko": "으으으……@n아버님께 이 무슨 무례란 말입니까!@n누님!!@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:A051_010_2:118",
+   "src_sha1": "32750afe6073",
+   "ko": "좋습니다!@n이 몸의 혼신의 힘과@n온 근육을 다해 상대해 드리리다!!@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:A051_010_2:123",
+   "src_sha1": "e54770be12f8",
+   "ko": "배짱 한번 좋구나, 알렉스!@n네 미숙함을 뼈저리게 깨닫게 해 주마!!@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M001_1:21",
+   "src_sha1": "a06ee6a1478c",
+   "ko": "<~M0011_rdi01a>@n이 땅에 살아가는 신의 자녀들이여.@n기도하고 믿으라. 그리하면 구원받으리라.@n⊥@n<~M0011_rdi01b>@n나는 태양신의 대리인이자,@n너희의 아버지……@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M001_1:28",
+   "src_sha1": "281ddbba79f1",
+   "ko": "<~M0011_alp01>@n……라디오에서 종교 방송?@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M001_1:29",
+   "src_sha1": "51dc4c0093d5",
+   "ko": "<~M0011_edw01>@n신의 대리인……이라니,@n이건 또 뭐야?@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M001_1:30",
+   "src_sha1": "1c01e2a9a45d",
+   "ko": "아니, 내가 보기엔 너희 쪽이야말로@n“이건 또 뭐야?” 싶은데…….@n⊥@n너희, 떠돌이 곡예사나 뭐 그런 거냐?@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M001_1:32",
+   "src_sha1": "62a15ae41996",
+   "ko": "<~M0011_edw02>@n……이봐, 아저씨.@n우리 어디가 곡예사로 보인다는@n거냐고!@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M001_1:33",
+   "src_sha1": "092242d0e0dd",
+   "ko": "새빨간 코트에 갑옷 입은 2인조니까……@n아무리 봐도 그렇게밖에 안 보여.@n⊥@n그건 그렇고, 이 근방에선@n못 보던 얼굴이군. 여행 왔나?@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M001_1:34",
+   "src_sha1": "012ee778711d",
+   "ko": "잠깐 찾는 게 있어서@n그건 말 못 해@n응, 여행이야@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M001_1:41",
+   "src_sha1": "e1fabee6ab5c",
+   "ko": "<~M0011_edw03>@n응, 좀 찾는 게 있어서.@n그나저나 이 라디오 방송은 뭐야?@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M001_1:44",
+   "src_sha1": "209da18974a9",
+   "ko": "<~M0011_edw04>@n그건 말 못 해.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M001_1:45",
+   "src_sha1": "cfcd547e3142",
+   "ko": "말 못 한다니, 그게 뭐야.@n무슨 대단한 신분이라도@n된다는 거냐?@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M001_1:51",
+   "src_sha1": "8e16ce5ebb38",
+   "ko": "<~M0011_edw05>@n뭐, 그런 셈이지.@n그나저나 이 라디오 방송은 뭐야?@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M001_1:54",
+   "src_sha1": "34ff080369a9",
+   "ko": "<~M0011_edw06>@n응, 여행이야. 볼일도 볼 겸.@n근데 여긴 아무것도 없네.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M001_1:55",
+   "src_sha1": "ed107bc37e89",
+   "ko": "하하하, 그렇지? 그래도 나름 좋은@n데도 있다고. 뭐니 뭐니 해도 미인이@n많거든. 천천히 둘러보고 가.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M001_1:62",
+   "src_sha1": "8058156c79e7",
+   "ko": "코네로 님을 모르는 거야?@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M001_1:64",
+   "src_sha1": "3c9b224e1ce4",
+   "ko": "<~M0011_edw08>@n……알, 너 알아?@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M001_1:65",
+   "src_sha1": "40c4b71d3b6b",
+   "ko": "<~M0011_alp02>@n전혀.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M001_1:66",
+   "src_sha1": "749967211305",
+   "ko": "코네로 교주님 말이야.@n태양신 레트의 대리인!@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M021_2:11",
+   "src_sha1": "b81cf1e5ebdf",
+   "ko": "……휴즈 중령님, 그 뒤로@n‘현자의 돌’ 정보 모으는 거@n해 주고 계시려나.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M021_2:12",
+   "src_sha1": "246ddc772778",
+   "ko": "대총통한테 못 박혔으니까……@n일단 우리가 알아낸 정보를@n전하자.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M021_2:21",
+   "src_sha1": "378fc79a86a0",
+   "ko": "어머, 에드워드 군, 알폰스 군.@n잘 지냈어요?@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M021_2:22",
+   "src_sha1": "281890e216ba",
+   "ko": "응, 여전하지 뭐.@n⊥@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M021_2:28",
+   "src_sha1": "b6f453984b6e",
+   "ko": "……근데 호크아이 중위가@n여기 있다는 건, 설마……@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M021_2:42",
+   "src_sha1": "36b92137b9bd",
+   "ko": "오오, 강철의.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M021_2:44",
+   "src_sha1": "f481783fbbd3",
+   "ko": "……왜 대령이 여기 있는 건데.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M021_2:46",
+   "src_sha1": "4bdc8c2016cd",
+   "ko": "얼마 전부터 센트럴 근무가@n됐거든.@n이른바 출세라는 거지.@n⊥@n그쪽이야말로 오늘은 무슨 일이지?@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M021_2:48",
+   "src_sha1": "5211e70ab0b8",
+   "ko": "아, 정보 수집하러 왔어.@n‘현자의 돌’이랑 인조인간@n(호문쿨루스)에 대해서.@n⊥@n“사람을 만들지 말라”가 신조인 군에선@n쓸 만한 정보가 안 나오겠지만. 그리고@n휴즈 중령한테 인사나 하려고.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M021_2:60",
+   "src_sha1": "a2abbca22bb7",
+   "ko": "중령, 잘 지내?@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M021_2:70",
+   "src_sha1": "8d1e11a4f50e",
+   "ko": "……없다.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M021_2:71",
+   "src_sha1": "033f584083e4",
+   "ko": "……뭐?@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M021_2:73",
+   "src_sha1": "26363980151c",
+   "ko": "……시골로 내려갔다. 요즘 센트럴도@n뒤숭숭해서 말이지. 부인과 아이를 데리고@n고향으로 돌아갔어……가업을 잇는다더군.@n⊥@n그러니까――이제 여기엔 없다.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M021_2:74",
+   "src_sha1": "3ab9ce540c9d",
+   "ko": "……그렇구나, 아쉽네.@n보고 싶었는데.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M021_2:76",
+   "src_sha1": "eea0ce26d630",
+   "ko": "‘현자의 돌’과 인조인간이었지.@n뭔가 정보가 있으면 연락하지.@n⊥@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M021_2:78",
+   "src_sha1": "f4450c3a4258",
+   "ko": "……강철의.@n혼자 앞서 나가서 무리하지 마라.@n⊥@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M021_2:80",
+   "src_sha1": "3c9ba596b8f3",
+   "ko": "가지, 중위.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M021_2:82",
+   "src_sha1": "13dca9b252b6",
+   "ko": "……네.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M041_1:50",
+   "src_sha1": "30ee698e9450",
+   "ko": "너……@n어, 메이 창이었지?@n벌써 일어나도 괜찮아?@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M041_1:81",
+   "src_sha1": "7f93f90d6ca6",
+   "ko": "……역시 야오 가의 충견 노릇을@n할 만하네요.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M041_1:85",
+   "src_sha1": "cd396ea48b2f",
+   "ko": "……그러는 너는,@n창 가의 후계자……로군?@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M041_1:86",
+   "src_sha1": "6620c4cc9b64",
+   "ko": "그렇습니다.@n제17황녀, 메이 창이에요.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M041_1:88",
+   "src_sha1": "7e4650d8d790",
+   "ko": "역시 너도 ‘불로불사’를 노리나.@n흥, 좋은 데서 정적을 만났군.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M041_1:89",
+   "src_sha1": "165bc56d8baf",
+   "ko": "네, 행운이라고밖에@n할 수 없네요. 약소 일족이 살아남으려면@n경쟁자는 쓰러뜨릴 수 있을 때@n쓰러뜨려 둬야죠!@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M041_1:90",
+   "src_sha1": "248648a6fb37",
+   "ko": "동감이다. 야오 가를 섬기는 자로서,@n화근은 아무리 작아도@n끊어 두어야 하는 법.@n⊥@n……다쳤다고 해서@n얕보지 마라!@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M041_1:121",
+   "src_sha1": "c635b2a1ae84",
+   "ko": "히익……@n남의 나라 사정에@n참견하지 마세……@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M041_1:122",
+   "src_sha1": "84159c6683d4",
+   "ko": "네 나라 사정 따위 알 게 뭐냐,@n이 멍청아! 환자는 어느 나라든@n환자야! ……나 원 참.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M047_1:43",
+   "src_sha1": "d09d58a74ff2",
+   "ko": "조급해해도 소용없어, 형.@n다음에 움직일 때를 위해서라도@n지금은 몸을 쉬어 두는 게……@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M047_1:45",
+   "src_sha1": "fd06f0b66992",
+   "ko": "……이렇게 별일이 다 일어나는데@n시간만 질질 흘러가잖아.@n가만히 있을 수가 없다고.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M047_1:57",
+   "src_sha1": "885d4b6c7ca8",
+   "ko": "안녕하십니까.@n당신이 강철의 연금술사님이시죠?@n면회하러 왔습니다.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M047_1:59",
+   "src_sha1": "a569c3340f48",
+   "ko": "……당신은?@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M047_1:61",
+   "src_sha1": "15e83ceed4b7",
+   "ko": "아아, 소개가 늦었군요.@n저는 졸프 J. 킴블리.@n잘 부탁드립니다, 강철의 연금술사님.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M047_1:67",
+   "src_sha1": "47ac1f7c02c3",
+   "ko": "(킴블리!?)@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M047_1:73",
+   "src_sha1": "9845bbbeae69",
+   "ko": "(그렇다면 홍련의 연금술사……@n 왜 우리한테!?)@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M047_1:74",
+   "src_sha1": "83226f635c99",
+   "ko": "레이븐 장군과 함께 센트럴에서@n왔습니다만……곤란하게도 장군께서@n행방불명이 되어 버렸지 뭡니까.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M047_1:78",
+   "src_sha1": "2ad678bd04d0",
+   "ko": "이런, 그 얼굴……저, 어쩐지@n미움받고 있는 걸까요?@n⊥@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M047_1:80",
+   "src_sha1": "2c649bd0ded0",
+   "ko": "오늘은 엘릭 형제에게@n손님을 모셔 왔답니다.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "srt:M047_1:82",
+   "src_sha1": "0091319bd74c",
+   "ko": "들어오셔도 괜찮습니다.@n자, 이쪽으로 오시죠.@n⊿@n",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x157ad4",
+   "src_sha1": "198562543f60",
+   "ko": "적을 쓰러뜨리자!",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x157ae4",
+   "src_sha1": "4686da60d1ba",
+   "ko": "브레이크 발생!",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x157af4",
+   "src_sha1": "12e1b9688758",
+   "ko": "스킬로 공격",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x157b04",
+   "src_sha1": "e98af63428fb",
+   "ko": "큰 벽을 연성하자",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x157b1c",
+   "src_sha1": "ec740afeb88d",
+   "ko": "카메라 조작",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x157b28",
+   "src_sha1": "80a39c9643e3",
+   "ko": "적의 움직임을 보자",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x157b3c",
+   "src_sha1": "e116b6950f71",
+   "ko": "특별한 연성",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x157b48",
+   "src_sha1": "6f6362f2cc0c",
+   "ko": "잘 도망치자",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x157b5c",
+   "src_sha1": "a60471052675",
+   "ko": "에드를 지키려면",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x157b6c",
+   "src_sha1": "047c263d0353",
+   "ko": "고급 체인 러시",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x157b84",
+   "src_sha1": "7366bb5ed78d",
+   "ko": "@c<00>@s<100>가이드를 OFF로 했습니다.@n컨피그에서 ON/OFF를@n바꿀 수도 있습니다.",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x157be8",
+   "src_sha1": "e2c6a7df1efb",
+   "ko": "@c<00>@s<100>키메라에게 다가가서@n@c<08>‘싸운다’@c<00>나 @c<08>‘스킬’@c<00>을 골라@n공격해 보세요.",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x157c58",
+   "src_sha1": "9d6c0d9c1386",
+   "ko": "@c<00>@s<100>이것이 @c<06>브레이크@c<00>입니다!@nR 버튼을 눌러 @c<06>체인 러시@c<00>를@n걸어 보세요!",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x157ccc",
+   "src_sha1": "e6b4f28793ac",
+   "ko": "@c<00>@s<100>스킬은 MP를 사용해 발동합니다.@n예를 들어 에드의 @c<08>‘창이여 꿰뚫어라’@c<00>는@n1칸 떨어진 적도 공격할 수 있습니다.",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x157d48",
+   "src_sha1": "de0160e55fd3",
+   "ko": "@c<00>@s<100>코네로가 @c<07>개틀링건@c<00>을@n연성한 것 같습니다.@n코네로의 공격을 막을 수 있도록@n벽을 연성해 보세요.",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x157dcc",
+   "src_sha1": "d95410618614",
+   "ko": "@c<00>@s<100>L・R 버튼과 아날로그 패드로@n카메라를 움직일 수 있습니다.@n⊇ 버튼으로 줌도 바꿀 수@n있습니다.",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x157e44",
+   "src_sha1": "82e73474bd96",
+   "ko": "@c<00>@s<100>적마다 잘하고 못하는@n공격 거리・범위가 있습니다.@n@c<08>코네로는 근거리가 위험@c<00>한 것 같습니다.@n큰 대미지를 받지 않도록@n잘 움직이며 공격하세요.",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x157ef8",
+   "src_sha1": "629f627c426a",
+   "ko": "@c<00>@s<100>@c<08>레트 신상으로 뭔가 할 수 있을@n것 같습니다.@c<00>@n빛나는 곳으로 에드를@n보내 보세요.",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x157f68",
+   "src_sha1": "425dfb2de701",
+   "ko": "@c<00>@s<100>수수께끼의 남자에게는@n이길 수 없을 것 같습니다.@n쓸 만한 물건을 잘 이용하며@n@c<06>도달 포인트@c<00>를 목표로 하세요.",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x157fe8",
+   "src_sha1": "972372b5187c",
+   "ko": "@c<00>@s<100>이 미션에서 에드는@n@c<08>조작할 수 없으므로@c<00> 쓰러지지 않게@n지켜 주세요.@n다른 유닛을 조작해 진행합니다.",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x15807c",
+   "src_sha1": "b9a0b07a12c2",
+   "ko": "@c<00>@s<100>스카를 상대로 위치를 잘 잡고@n3명이 함께하는 @c<06>체인 러시@c<00>를@n노려 보세요!",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x1580ec",
+   "src_sha1": "832f3cca8b14",
+   "ko": "싸운다",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x1580f8",
+   "src_sha1": "66f870133560",
+   "ko": "스킬",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x16a180",
+   "src_sha1": "706e5bdde25b",
+   "ko": "세이브 데이터가 없습니다.",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x16a19c",
+   "src_sha1": "5722ace3b8fc",
+   "ko": "시스템 파일을 만드시겠습니까?",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x16a1c0",
+   "src_sha1": "e28f0ac83531",
+   "ko": "만드는 중입니다.",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x16a1d4",
+   "src_sha1": "8afe4d44df02",
+   "ko": "만들었습니다.",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x16a1e4",
+   "src_sha1": "1e0fc0ff0d42",
+   "ko": "만들지 않았습니다.",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x16a1fc",
+   "src_sha1": "ab85db3d9035",
+   "ko": "만들 수 없었습니다.",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x16a214",
+   "src_sha1": "2dd0f4c433c3",
+   "ko": "메모리스틱仝를 찾을 수 없습니다.",
+   "state": "needs_human_review"
+  },
+  {
+   "id": "eboot:0x16a23c",
+   "src_sha1": "7ec9f6b06526",
+   "ko": "세이브 데이터를 저장할 수 없습니다.",
+   "state": "needs_human_review"
+  }
+ ]
+}
