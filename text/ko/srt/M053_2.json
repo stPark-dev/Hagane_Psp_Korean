@@ -1,0 +1,47 @@
+{
+ "source": "M053_2",
+ "entries": [
+  {
+   "id": "srt:M053_2:13",
+   "src_sha1": "066807954da3",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M053_2:15",
+   "src_sha1": "d50b60490c8a",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M053_2:17",
+   "src_sha1": "85c3271d74d8",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M053_2:19",
+   "src_sha1": "29920bd123f3",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M053_2:38",
+   "src_sha1": "3e54e91b12fa",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M053_2:41",
+   "src_sha1": "66132f7d356c",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  }
+ ]
+}

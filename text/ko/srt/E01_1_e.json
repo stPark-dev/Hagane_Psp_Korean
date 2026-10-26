@@ -1,0 +1,61 @@
+{
+ "source": "E01_1_e",
+ "entries": [
+  {
+   "id": "srt:E01_1_e:26",
+   "src_sha1": "87a6c17b55ec",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:E01_1_e:29",
+   "src_sha1": "815042c7a415",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:E01_1_e:33",
+   "src_sha1": "87b876d0200a",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:E01_1_e:37",
+   "src_sha1": "aff5edcbe2a9",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:E01_1_e:39",
+   "src_sha1": "269eb5c074ae",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:E01_1_e:41",
+   "src_sha1": "af10570c72be",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:E01_1_e:43",
+   "src_sha1": "03290b606aba",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:E01_1_e:45",
+   "src_sha1": "f498e26e287a",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  }
+ ]
+}

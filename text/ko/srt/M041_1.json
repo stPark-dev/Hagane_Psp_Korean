@@ -1,0 +1,194 @@
+{
+ "source": "M041_1",
+ "entries": [
+  {
+   "id": "srt:M041_1:15",
+   "src_sha1": "f9d3b1115640",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M041_1:16",
+   "src_sha1": "670646480d21",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M041_1:22",
+   "src_sha1": "e05ad480346d",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M041_1:35",
+   "src_sha1": "f7aedc4cb109",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M041_1:42",
+   "src_sha1": "a804526f5f4b",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M041_1:49",
+   "src_sha1": "4d90c9ff8bf1",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M041_1:50",
+   "src_sha1": "30ee698e9450",
+   "ko": "너……@n어, 메이 창이었지?@n벌써 일어나도 괜찮아?@n⊿@n",
+   "state": "needs_human_review",
+   "flag": ""
+  },
+  {
+   "id": "srt:M041_1:55",
+   "src_sha1": "40b35ac91958",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M041_1:77",
+   "src_sha1": "ada12416cf01",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M041_1:81",
+   "src_sha1": "7f93f90d6ca6",
+   "ko": "……역시 야오 가의 충견 노릇을@n할 만하네요.@n⊿@n",
+   "state": "needs_human_review",
+   "flag": ""
+  },
+  {
+   "id": "srt:M041_1:85",
+   "src_sha1": "cd396ea48b2f",
+   "ko": "……그러는 너는,@n창 가의 후계자……로군?@n⊿@n",
+   "state": "needs_human_review",
+   "flag": ""
+  },
+  {
+   "id": "srt:M041_1:86",
+   "src_sha1": "6620c4cc9b64",
+   "ko": "그렇습니다.@n제17황녀, 메이 창이에요.@n⊿@n",
+   "state": "needs_human_review",
+   "flag": ""
+  },
+  {
+   "id": "srt:M041_1:87",
+   "src_sha1": "d4bfead02255",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M041_1:88",
+   "src_sha1": "7e4650d8d790",
+   "ko": "역시 너도 ‘불로불사’를 노리나.@n흥, 좋은 데서 정적을 만났군.@n⊿@n",
+   "state": "needs_human_review",
+   "flag": ""
+  },
+  {
+   "id": "srt:M041_1:89",
+   "src_sha1": "165bc56d8baf",
+   "ko": "네, 행운이라고밖에@n할 수 없네요. 약소 일족이 살아남으려면@n경쟁자는 쓰러뜨릴 수 있을 때@n쓰러뜨려 둬야죠!@n⊿@n",
+   "state": "needs_human_review",
+   "flag": ""
+  },
+  {
+   "id": "srt:M041_1:90",
+   "src_sha1": "248648a6fb37",
+   "ko": "동감이다. 야오 가를 섬기는 자로서,@n화근은 아무리 작아도@n끊어 두어야 하는 법.@n⊥@n……다쳤다고 해서@n얕보지 마라!@n⊿@n",
+   "state": "needs_human_review",
+   "flag": ""
+  },
+  {
+   "id": "srt:M041_1:91",
+   "src_sha1": "2285104f9cf5",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M041_1:113",
+   "src_sha1": "f673a5301888",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M041_1:120",
+   "src_sha1": "2babf3529cb2",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M041_1:121",
+   "src_sha1": "c635b2a1ae84",
+   "ko": "히익……@n남의 나라 사정에@n참견하지 마세……@n⊿@n",
+   "state": "needs_human_review",
+   "flag": ""
+  },
+  {
+   "id": "srt:M041_1:122",
+   "src_sha1": "84159c6683d4",
+   "ko": "네 나라 사정 따위 알 게 뭐냐,@n이 멍청아! 환자는 어느 나라든@n환자야! ……나 원 참.@n⊿@n",
+   "state": "needs_human_review",
+   "flag": ""
+  },
+  {
+   "id": "srt:M041_1:123",
+   "src_sha1": "b871ad7f16c1",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M041_1:124",
+   "src_sha1": "495f7ba8c56c",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M041_1:125",
+   "src_sha1": "ad19169c6ca2",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M041_1:131",
+   "src_sha1": "1efb727aee11",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M041_1:133",
+   "src_sha1": "df6d6f2c0613",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M041_1:139",
+   "src_sha1": "3fef6b6d6e5a",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  }
+ ]
+}

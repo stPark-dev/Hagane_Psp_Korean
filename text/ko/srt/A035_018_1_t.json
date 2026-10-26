@@ -1,0 +1,26 @@
+{
+ "source": "A035_018_1_t",
+ "entries": [
+  {
+   "id": "srt:A035_018_1_t:5",
+   "src_sha1": "75e5c5619f4e",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:A035_018_1_t:11",
+   "src_sha1": "5125895fabab",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:A035_018_1_t:17",
+   "src_sha1": "b442eb5011a5",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "source": "F001_999_001_2",
+ "entries": [
+  {
+   "id": "srt:F001_999_001_2:9",
+   "src_sha1": "69b914bf7c29",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:F001_999_001_2:17",
+   "src_sha1": "feed36fb199c",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:F001_999_001_2:19",
+   "src_sha1": "c10cf344b162",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  }
+ ]
+}

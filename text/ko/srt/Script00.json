@@ -1,0 +1,33 @@
+{
+ "source": "Script00",
+ "entries": [
+  {
+   "id": "srt:Script00:2",
+   "src_sha1": "cdf59dc316d4",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:Script00:3",
+   "src_sha1": "3386780a0b85",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:Script00:8",
+   "src_sha1": "c7c852a13bb9",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:Script00:10",
+   "src_sha1": "7051253c2e90",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  }
+ ]
+}

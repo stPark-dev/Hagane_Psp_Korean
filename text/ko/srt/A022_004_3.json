@@ -1,0 +1,26 @@
+{
+ "source": "A022_004_3",
+ "entries": [
+  {
+   "id": "srt:A022_004_3:10",
+   "src_sha1": "6b14f868b45a",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:A022_004_3:12",
+   "src_sha1": "897931215ece",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:A022_004_3:19",
+   "src_sha1": "01cf26283e3f",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  }
+ ]
+}

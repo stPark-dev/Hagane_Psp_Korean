@@ -1,0 +1,656 @@
+{
+ "source": "M001_1",
+ "entries": [
+  {
+   "id": "srt:M001_1:21",
+   "src_sha1": "a06ee6a1478c",
+   "ko": "<~M0011_rdi01a>@n이 땅에 살아가는 신의 자녀들이여.@n기도하고 믿으라. 그리하면 구원받으리라.@n⊥@n<~M0011_rdi01b>@n나는 태양신의 대리인이자,@n너희의 아버지……@n⊿@n",
+   "state": "needs_human_review",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:28",
+   "src_sha1": "281ddbba79f1",
+   "ko": "<~M0011_alp01>@n……라디오에서 종교 방송?@n⊿@n",
+   "state": "needs_human_review",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:29",
+   "src_sha1": "51dc4c0093d5",
+   "ko": "<~M0011_edw01>@n신의 대리인……이라니,@n이건 또 뭐야?@n⊿@n",
+   "state": "needs_human_review",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:30",
+   "src_sha1": "1c01e2a9a45d",
+   "ko": "아니, 내가 보기엔 너희 쪽이야말로@n“이건 또 뭐야?” 싶은데…….@n⊥@n너희, 떠돌이 곡예사나 뭐 그런 거냐?@n⊿@n",
+   "state": "needs_human_review",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:32",
+   "src_sha1": "62a15ae41996",
+   "ko": "<~M0011_edw02>@n……이봐, 아저씨.@n우리 어디가 곡예사로 보인다는@n거냐고!@n⊿@n",
+   "state": "needs_human_review",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:33",
+   "src_sha1": "092242d0e0dd",
+   "ko": "새빨간 코트에 갑옷 입은 2인조니까……@n아무리 봐도 그렇게밖에 안 보여.@n⊥@n그건 그렇고, 이 근방에선@n못 보던 얼굴이군. 여행 왔나?@n⊿@n",
+   "state": "needs_human_review",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:34",
+   "src_sha1": "012ee778711d",
+   "ko": "잠깐 찾는 게 있어서@n그건 말 못 해@n응, 여행이야@n",
+   "state": "needs_human_review",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:41",
+   "src_sha1": "e1fabee6ab5c",
+   "ko": "<~M0011_edw03>@n응, 좀 찾는 게 있어서.@n그나저나 이 라디오 방송은 뭐야?@n⊿@n",
+   "state": "needs_human_review",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:44",
+   "src_sha1": "209da18974a9",
+   "ko": "<~M0011_edw04>@n그건 말 못 해.@n⊿@n",
+   "state": "needs_human_review",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:45",
+   "src_sha1": "cfcd547e3142",
+   "ko": "말 못 한다니, 그게 뭐야.@n무슨 대단한 신분이라도@n된다는 거냐?@n⊿@n",
+   "state": "needs_human_review",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:51",
+   "src_sha1": "8e16ce5ebb38",
+   "ko": "<~M0011_edw05>@n뭐, 그런 셈이지.@n그나저나 이 라디오 방송은 뭐야?@n⊿@n",
+   "state": "needs_human_review",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:54",
+   "src_sha1": "34ff080369a9",
+   "ko": "<~M0011_edw06>@n응, 여행이야. 볼일도 볼 겸.@n근데 여긴 아무것도 없네.@n⊿@n",
+   "state": "needs_human_review",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:55",
+   "src_sha1": "ed107bc37e89",
+   "ko": "하하하, 그렇지? 그래도 나름 좋은@n데도 있다고. 뭐니 뭐니 해도 미인이@n많거든. 천천히 둘러보고 가.@n⊿@n",
+   "state": "needs_human_review",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:61",
+   "src_sha1": "297bac00a0d5",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:62",
+   "src_sha1": "8058156c79e7",
+   "ko": "코네로 님을 모르는 거야?@n⊿@n",
+   "state": "needs_human_review",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:64",
+   "src_sha1": "3c9b224e1ce4",
+   "ko": "<~M0011_edw08>@n……알, 너 알아?@n⊿@n",
+   "state": "needs_human_review",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:65",
+   "src_sha1": "40c4b71d3b6b",
+   "ko": "<~M0011_alp02>@n전혀.@n⊿@n",
+   "state": "needs_human_review",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:66",
+   "src_sha1": "749967211305",
+   "ko": "코네로 교주님 말이야.@n태양신 레트의 대리인!@n⊿@n",
+   "state": "needs_human_review",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:71",
+   "src_sha1": "9d2e386c1810",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:75",
+   "src_sha1": "b8174d3a05ac",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:77",
+   "src_sha1": "eea181c918ca",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:79",
+   "src_sha1": "ecd38adaa8d4",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:80",
+   "src_sha1": "79ebdb2585aa",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:103",
+   "src_sha1": "09629295b392",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:106",
+   "src_sha1": "6fd42a6436e1",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:112",
+   "src_sha1": "728f49c1ed36",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:118",
+   "src_sha1": "ac99a9f87835",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:126",
+   "src_sha1": "e3e7f1013b4c",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:127",
+   "src_sha1": "5ea99d8134cc",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:131",
+   "src_sha1": "fb9e65f4858f",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:151",
+   "src_sha1": "eba02252eeb5",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:152",
+   "src_sha1": "23abae762e97",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:155",
+   "src_sha1": "880e51275359",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:156",
+   "src_sha1": "d66c224e9c27",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:157",
+   "src_sha1": "b7645640f918",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:158",
+   "src_sha1": "46693b16ba0a",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:159",
+   "src_sha1": "068cf49b73ff",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:160",
+   "src_sha1": "e8863cdf2497",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:166",
+   "src_sha1": "65e3dcae6065",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:167",
+   "src_sha1": "d1e42f37cc2f",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:168",
+   "src_sha1": "c0aa0da6ac82",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:188",
+   "src_sha1": "e686fb0e6e67",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:194",
+   "src_sha1": "1882dff8bd00",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:204",
+   "src_sha1": "b693648ba75e",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:205",
+   "src_sha1": "4845c288bdab",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:215",
+   "src_sha1": "6db52548fcff",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:216",
+   "src_sha1": "b8ef5d13b62c",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:217",
+   "src_sha1": "ca464182b47c",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:218",
+   "src_sha1": "3f995ac22d14",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:219",
+   "src_sha1": "511539459f42",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:233",
+   "src_sha1": "1799b358b191",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:234",
+   "src_sha1": "bdf3fbb08d6b",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:236",
+   "src_sha1": "4b0bd8bb2120",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:238",
+   "src_sha1": "264c3be393cd",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:239",
+   "src_sha1": "a8098f8988aa",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:240",
+   "src_sha1": "b4e4f8e9e608",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:242",
+   "src_sha1": "79fc4f78edcb",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:244",
+   "src_sha1": "cacbcf033423",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:245",
+   "src_sha1": "dab7a5f17d03",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:247",
+   "src_sha1": "82bb15ed58c5",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:248",
+   "src_sha1": "a0cca11b4676",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:271",
+   "src_sha1": "b9cd6a811cca",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:277",
+   "src_sha1": "ea2fcf3e8aa2",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:279",
+   "src_sha1": "21b648096ab1",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:280",
+   "src_sha1": "cb455674819b",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:281",
+   "src_sha1": "5bb4805d2d3d",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:282",
+   "src_sha1": "b17c54cf4787",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:289",
+   "src_sha1": "8a2000e8e27f",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:291",
+   "src_sha1": "293e0ef87059",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:293",
+   "src_sha1": "cf69c2ee07cd",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:296",
+   "src_sha1": "12ccf84cc128",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:298",
+   "src_sha1": "be44013026cf",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:301",
+   "src_sha1": "0d106ab0aaa8",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:302",
+   "src_sha1": "4dfd24dddc5c",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:304",
+   "src_sha1": "a2075a8e4566",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:310",
+   "src_sha1": "479e01b49e5c",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:312",
+   "src_sha1": "b3ea0c0b8bbf",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:318",
+   "src_sha1": "dfc5670f00bb",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:323",
+   "src_sha1": "e9e6edffcb8a",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:325",
+   "src_sha1": "1dbd3fec4965",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:331",
+   "src_sha1": "9306c8b7ef6a",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:333",
+   "src_sha1": "49466020a34c",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:335",
+   "src_sha1": "8be663586251",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:336",
+   "src_sha1": "62f28b2637b8",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:338",
+   "src_sha1": "9c6354cf6989",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:340",
+   "src_sha1": "6900f3fc8cba",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:346",
+   "src_sha1": "ddb1c094f551",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:348",
+   "src_sha1": "0c400b808657",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:350",
+   "src_sha1": "37d78344a308",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:352",
+   "src_sha1": "43e2d782e098",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:358",
+   "src_sha1": "db7b7c969d05",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:360",
+   "src_sha1": "779a421363f6",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_1:362",
+   "src_sha1": "cfc5c79e406a",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  }
+ ]
+}

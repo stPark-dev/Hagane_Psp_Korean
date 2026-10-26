@@ -1,0 +1,26 @@
+{
+ "source": "M001_4",
+ "entries": [
+  {
+   "id": "srt:M001_4:8",
+   "src_sha1": "8d08b759f1ca",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_4:10",
+   "src_sha1": "eaa645ff322e",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M001_4:20",
+   "src_sha1": "fcfa9615709f",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  }
+ ]
+}

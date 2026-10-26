@@ -1,0 +1,26 @@
+{
+ "source": "E06_1_n1",
+ "entries": [
+  {
+   "id": "srt:E06_1_n1:16",
+   "src_sha1": "5b81e1c09140",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:E06_1_n1:20",
+   "src_sha1": "fedd5355a817",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:E06_1_n1:24",
+   "src_sha1": "31cc56230a71",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  }
+ ]
+}

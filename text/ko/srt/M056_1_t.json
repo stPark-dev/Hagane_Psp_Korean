@@ -1,0 +1,75 @@
+{
+ "source": "M056_1_t",
+ "entries": [
+  {
+   "id": "srt:M056_1_t:6",
+   "src_sha1": "ae20f4d7ea61",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M056_1_t:9",
+   "src_sha1": "f457b3d31eb3",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M056_1_t:29",
+   "src_sha1": "e486a9215686",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M056_1_t:30",
+   "src_sha1": "172a342dab27",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M056_1_t:31",
+   "src_sha1": "49c874a376fb",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M056_1_t:32",
+   "src_sha1": "26cb007823cd",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M056_1_t:33",
+   "src_sha1": "dafece70d570",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M056_1_t:43",
+   "src_sha1": "cd6cccf9ddfd",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M056_1_t:48",
+   "src_sha1": "bf7882afe565",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M056_1_t:56",
+   "src_sha1": "e3d8a081789d",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  }
+ ]
+}

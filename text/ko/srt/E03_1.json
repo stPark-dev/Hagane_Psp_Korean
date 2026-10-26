@@ -1,0 +1,117 @@
+{
+ "source": "E03_1",
+ "entries": [
+  {
+   "id": "srt:E03_1:11",
+   "src_sha1": "46870888f84f",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:E03_1:17",
+   "src_sha1": "de2467365ede",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:E03_1:18",
+   "src_sha1": "1bbdd1fe97c8",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:E03_1:20",
+   "src_sha1": "b3c206ef2ceb",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:E03_1:21",
+   "src_sha1": "221063a56c58",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:E03_1:23",
+   "src_sha1": "3bbdf897b6b2",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:E03_1:24",
+   "src_sha1": "6b01bb64af92",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:E03_1:31",
+   "src_sha1": "91736eb663d7",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:E03_1:32",
+   "src_sha1": "12802ab66ed8",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:E03_1:33",
+   "src_sha1": "24192d3b29ad",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:E03_1:39",
+   "src_sha1": "6d5f6db20152",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:E03_1:45",
+   "src_sha1": "81b3ec4579cf",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:E03_1:50",
+   "src_sha1": "5a00413c413e",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:E03_1:55",
+   "src_sha1": "35500cdc19a4",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:E03_1:58",
+   "src_sha1": "54e5ed593aee",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:E03_1:60",
+   "src_sha1": "b90201a2f3c0",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  }
+ ]
+}

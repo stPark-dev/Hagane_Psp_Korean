@@ -1,0 +1,306 @@
+{
+ "source": "M040_1",
+ "entries": [
+  {
+   "id": "srt:M040_1:5",
+   "src_sha1": "f78d9ec61956",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:21",
+   "src_sha1": "31d18f1d0c0e",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:23",
+   "src_sha1": "bbe96ba8d6a9",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:25",
+   "src_sha1": "2ad0417fced7",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:26",
+   "src_sha1": "9ae21b30564d",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:28",
+   "src_sha1": "1f985a6ecab7",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:29",
+   "src_sha1": "5e3aa5cf0073",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:31",
+   "src_sha1": "a0f52f47deb0",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:32",
+   "src_sha1": "cf31b3da1a90",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:49",
+   "src_sha1": "331026c92829",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:51",
+   "src_sha1": "60ef1aabfb78",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:53",
+   "src_sha1": "70bed7d5a98f",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:55",
+   "src_sha1": "e3a1d4bbf67c",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:65",
+   "src_sha1": "8a35266bf1e6",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:72",
+   "src_sha1": "c7f96b3a8f2d",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:74",
+   "src_sha1": "911ed91e627f",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:86",
+   "src_sha1": "26b3569cbda8",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:90",
+   "src_sha1": "c6ea1eec93e1",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:126",
+   "src_sha1": "a20b689fabcf",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:127",
+   "src_sha1": "785386f65b15",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:128",
+   "src_sha1": "2daf4cd44085",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:129",
+   "src_sha1": "f0794e8be771",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:140",
+   "src_sha1": "446f4eca201f",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:141",
+   "src_sha1": "7c75cbaa1009",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:170",
+   "src_sha1": "ed1920074aaf",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:171",
+   "src_sha1": "1a79b2a6860f",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:181",
+   "src_sha1": "a7f4e2ae2ce5",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:183",
+   "src_sha1": "6f2eeb2007cc",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:184",
+   "src_sha1": "2a3e2767fc08",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:186",
+   "src_sha1": "ada2dff86bd2",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:188",
+   "src_sha1": "6a8913aec0d2",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:190",
+   "src_sha1": "85947fc14ec2",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:192",
+   "src_sha1": "51525092fa90",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:198",
+   "src_sha1": "6895de3ce127",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:201",
+   "src_sha1": "4c16d7919985",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:203",
+   "src_sha1": "2c76ef44de5e",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:205",
+   "src_sha1": "63d2e609a333",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:207",
+   "src_sha1": "a0a30651103a",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:213",
+   "src_sha1": "e311e9f3711f",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:215",
+   "src_sha1": "4d90c9ff8bf1",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:218",
+   "src_sha1": "c5dc008b6cff",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:220",
+   "src_sha1": "785b7354d84e",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M040_1:221",
+   "src_sha1": "74ca4442d29a",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  }
+ ]
+}

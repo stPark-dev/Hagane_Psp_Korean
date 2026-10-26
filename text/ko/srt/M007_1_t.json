@@ -1,0 +1,26 @@
+{
+ "source": "M007_1_t",
+ "entries": [
+  {
+   "id": "srt:M007_1_t:8",
+   "src_sha1": "1c359a65783c",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M007_1_t:17",
+   "src_sha1": "9f5f6d4b4b79",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:M007_1_t:23",
+   "src_sha1": "30446227bd63",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  }
+ ]
+}

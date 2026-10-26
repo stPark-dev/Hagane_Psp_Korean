@@ -1,0 +1,40 @@
+{
+ "source": "E03_2_e",
+ "entries": [
+  {
+   "id": "srt:E03_2_e:25",
+   "src_sha1": "8ed47d177f00",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:E03_2_e:27",
+   "src_sha1": "c2706b71647a",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:E03_2_e:29",
+   "src_sha1": "ddd1dd83d009",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:E03_2_e:31",
+   "src_sha1": "e459bac6a097",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  },
+  {
+   "id": "srt:E03_2_e:33",
+   "src_sha1": "03130e17dd93",
+   "ko": "",
+   "state": "untranslated",
+   "flag": ""
+  }
+ ]
+}
