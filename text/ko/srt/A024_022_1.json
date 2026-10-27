@@ -4,232 +4,232 @@
   {
    "id": "srt:A024_022_1:10",
    "src_sha1": "4d90c9ff8bf1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A024_022_1:11",
    "src_sha1": "390e0df10114",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "……인간을 상대로@n꽤나 애를 먹고@n있군요, 라스?@n⊿@n",
+   "state": "draft",
+   "flag": "화자 ？？？ = 프라이드(다음 대사로 확인)"
   },
   {
    "id": "srt:A024_022_1:12",
    "src_sha1": "a8b5ad250304",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……‘프라이드’인가.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A024_022_1:13",
    "src_sha1": "2b6204aaff72",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "스카를 놓친 것도 모자라@n글러트니까지 빼앗기다니……@n어찌 된 겁니까, 당신답지 않군요.@n⊿@n",
+   "state": "draft",
+   "flag": "프라이드→라스 君→‘당신’(호칭 미결정), 해요체"
   },
   {
    "id": "srt:A024_022_1:14",
    "src_sha1": "300157c9c03c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그래, 그렇군.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A024_022_1:15",
    "src_sha1": "d4af0f2352d3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……즐거워 보이는군요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A024_022_1:17",
    "src_sha1": "89af1ca41f20",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "부정은 않겠다.@n조금……즐겁군.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A024_022_1:19",
    "src_sha1": "522bcfaaf6c1",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "60년 전……태어나자마자@n‘킹 브래드레이’라는@n레일 위에 올려져……@n⊥@n이렇게 지금@n이 나라의 정점에 서 있다.@n……모두 아버님의 예정대로.@n⊥@n방해되는 것은 아버님이 제거해 왔다.@n……예정대로의 대본이 주어졌고,@n나는 그대로 살아온 것이다…….@n⊿@n",
+   "state": "draft",
+   "flag": "父上→‘아버님’(お父様 기준 적용, 父上 표기 미결정)"
   },
   {
    "id": "srt:A024_022_1:20",
    "src_sha1": "d52697586203",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……하지만 여기 와서@n레일을 벗어나는 일이@n벌어지고 있다……는 겁니까?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A024_022_1:21",
    "src_sha1": "f50e6d89cc98",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "머스탱 대령에 엘릭 형제,@n그리고 바깥 나라에서 온 자들…….@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A024_022_1:23",
    "src_sha1": "df624ab8d146",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……유쾌하다고 생각하지 않나?@n저런 젊은것들에게 휘둘리고 있다,@n이 노회한 우리가.@n⊥@n……젊은이의 시대가@n바로 코앞까지 와 있는 건지도@n모르겠군……프라이드.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A024_022_1:24",
    "src_sha1": "707739165deb",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "……라스.@n당신은 너무 오래 인간과 접했어요.@n⊥@n잊지 마세요.@n우리는 인간이 “괴물”이라 부르는@n존재라는 것을.@n⊿@n",
+   "state": "draft",
+   "flag": "프라이드→라스 君→‘당신’(호칭 미결정), 해요체"
   },
   {
    "id": "srt:A024_022_1:26",
    "src_sha1": "5c86e71eab4e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "알고 있다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A024_022_1:27",
    "src_sha1": "055052b6345c",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "방금의 반역으로도 들릴 수 있는 발언은@n아버님께 보고하지 않도록 하지요.@n그보다, 글러트니는 어떻게 할 겁니까?@n⊿@n",
+   "state": "draft",
+   "flag": "父上→‘아버님’(お父様 기준 적용, 父上 표기 미결정)"
   },
   {
    "id": "srt:A024_022_1:28",
    "src_sha1": "316995957458",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "걱정 없다.@n이미 헌병대 정보로@n대강의 위치는 파악했다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A024_022_1:40",
    "src_sha1": "4d90c9ff8bf1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A024_022_1:51",
    "src_sha1": "8ee5dd1954c3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……닥터, 아직도 입맛이 없어?@n당신은 소중한 ‘제물 후보’니까@n건강하게 지내 줘야 한다고.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A024_022_1:52",
    "src_sha1": "ebb569e93853",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "계속……생각하고 있었다.@n‘제물’이란 무엇인가……너희는@n나에게 무엇을 시키려는 건가……?@n⊥@n지금 너희가 하고 있는 건,@n이 나라와 국민 전부를 이용해서@n거대한 연성진을 만드는 것…….@n⊥@n그리고 그건 ‘현자의 돌’을@n만들기 위한 것……아닌가?!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A024_022_1:58",
    "src_sha1": "ec8782aec397",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "하, 아깝네. 거의 맞혔어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A024_022_1:59",
    "src_sha1": "7f6eed9a48c4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "거의……?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A024_022_1:60",
    "src_sha1": "c0d24bab7fde",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그래서……눈치챘다 한들@n지금의 당신이 뭘 할 수 있는데?@n그 마을이 인질인데 말이야.@n⊥@n당신은 이 나라 인민이 위기에@n빠져 가고 있다는 걸 알면서도@n아무것도 하지 않았잖아?@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A024_022_1:66",
    "src_sha1": "d19142a07b76",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "이 나라 인구랑 당신이 의사 노릇하던@n마을 인구를 저울에 달아 보면@n어느 쪽이 많은지 한눈에 알 텐데!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A024_022_1:72",
    "src_sha1": "b30b3f0c2288",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……사람의 목숨은@n덧셈이나 뺄셈이 아니다!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A024_022_1:78",
    "src_sha1": "4707b83f1083",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "하! 이제 와서 큰소리쳐 봤자@n아무 설득력도 없거든.@n⊥@n뭐, 그게 바로 너희 인간이라는@n것들이지. 이치보다 정이 앞서.@n……언젠가 죽인 남자도 그랬어.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A024_022_1:84",
    "src_sha1": "8fbc9b4cdab2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그 녀석 아내로 변신해 보였더니, 손을@n못 써서 역전의 카드를 놓쳤지.@n……만만해서 고맙다니까, 인간!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A024_022_1:86",
    "src_sha1": "f24d12beedaf",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "무슨 쓸데없는 잡담이냐, 엔비.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A024_022_1:104",
    "src_sha1": "e4c66c619310",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "브, 브래드레이 대총통……?!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A024_022_1:105",
    "src_sha1": "dc7e099374cc",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "오랜만이군, 마르코.@n건강해 보여서 다행이다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A024_022_1:106",
    "src_sha1": "00091b3a6385",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그럴 수가……!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A024_022_1:107",
    "src_sha1": "da1c2e2a3b78",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "엔비.@n글러트니가 머스탱 일당에게 잡혔다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A024_022_1:113",
    "src_sha1": "f7ac881653cc",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "뭘 하고 있었던 거야!@n불꽃의 대령은 네가@n책임진다고, 그렇게 말했잖아?!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A024_022_1:114",
    "src_sha1": "9094b98d9466",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "글러트니가 끌려간 곳은@n대충 짐작이 간다.@n데리러 가 줘라.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A024_022_1:116",
    "src_sha1": "0bd6e56367a9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……참 나, 어쩔 수 없네.@n그 녀석, 폭주하지 않았으면 좋겠는데.@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

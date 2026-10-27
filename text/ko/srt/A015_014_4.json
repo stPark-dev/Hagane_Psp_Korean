@@ -4,190 +4,190 @@
   {
    "id": "srt:A015_014_4:28",
    "src_sha1": "53077a3240dd",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150144_lin01>@n……이제 싫다, 이 녀석들.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_4:29",
    "src_sha1": "755156141a41",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150144_lin02>@n저기, 슬슬@n얌전히 잡혀 주지 않을래?@n나쁘게는 안 할 테니까……아마도.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_4:31",
    "src_sha1": "ec8167a74fa4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150144_env01a>@n……글러트니.@n⊥@n<~A0150144_env01b>@n시간이 너무 걸렸어.@n동네 사람들한테도 너무 많이 보였고.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_4:33",
    "src_sha1": "f653cf149c6b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150144_glu01>@n응, 먹어도 돼?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_4:35",
    "src_sha1": "fdc84338faa0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150144_env02>@n아니……“삼켜도” 돼.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_4:37",
    "src_sha1": "77ccb54767c1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150144_glu02>@n…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_4:39",
    "src_sha1": "86266af9be99",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150144_env03>@n구경꾼도……이 녀석들도……@n이 질투(엔비)의 모습을 본 놈은@n뭐든 전부 다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_4:41",
    "src_sha1": "d07e177a3dad",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150144_lin03>@n…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_4:43",
    "src_sha1": "6571ae694c75",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150144_lan01>@n…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_4:47",
    "src_sha1": "8adbe7db3f0f",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~A0150144_etc01>@n뭘 하고 있는 겁니까.@n⊿@n",
+   "state": "draft",
+   "flag": "화자 ？？？ = 프라이드(다음 대사에서 정체 표시)"
   },
   {
    "id": "srt:A015_014_4:51",
    "src_sha1": "078f4d7f2477",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150144_lin04>@n!?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_4:53",
    "src_sha1": "66766e79bd3f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150144_env04>@n‘프라이드’냐!? 뭐 하러 왔어!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_4:57",
    "src_sha1": "6116b3b1d727",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~A0150144_etc02a>@n일도 마무리 못 하고, 거리 한복판에서@n추태를 드러내다니……@n⊥@n<~A0150144_etc02b>@n엔비, 당신은 좀 너무 엉성하군요.@n오늘은 물러나는 게 좋겠습니다.@n⊿@n",
+   "state": "draft",
+   "flag": "新호칭: 프라이드→엔비 君 = 당신(안), 존댓말 유지. 대안 너/자네"
   },
   {
    "id": "srt:A015_014_4:61",
    "src_sha1": "cb0dd7c2de81",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150144_env05>@n하지만……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_4:65",
    "src_sha1": "371fa67101e9",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~A0150144_etc03>@n입 다무세요, 애송이.@n이 이상 말 그대로 “추태를@n드러내겠다”는 겁니까.@n⊿@n",
+   "state": "draft",
+   "flag": "新호칭: 프라이드→엔비 小童 = 애송이(안). 대안 꼬맹이/풋내기(후→에드 애송이와 겹침)"
   },
   {
    "id": "srt:A015_014_4:69",
    "src_sha1": "12e3aa86e19a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150144_env06>@n……윽!!@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_4:71",
    "src_sha1": "f1e8bf966f04",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150144_env07>@n물러난다, 글러트니.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_4:73",
    "src_sha1": "43e63be66fb2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150144_lin05>@n…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_4:75",
    "src_sha1": "8ec297dd4ba6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150144_env08>@n……목숨 건진 줄 알아, 너.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_4:77",
    "src_sha1": "9f263b775089",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150144_lin06>@n……글쎄?@n해 보지 않으면 모르지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_4:79",
    "src_sha1": "1a5cbc7958f7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150144_env09>@n흥.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_4:88",
    "src_sha1": "3be5225eb4a2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150144_lin07>@n…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_4:91",
    "src_sha1": "83853f8b5109",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150144_lan02>@n죄송합니다, 도련님.@n모처럼 찾은 불로불사의 단서를@n놓치고 말았습니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_4:93",
    "src_sha1": "13b19f87ed8a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150144_lin08a>@n아니……놈들, 뭔지는 모르겠지만@n비장의 수를 갖고 있어. 아직 다른@n동료도 있었던 것 같고, 정말 살았어.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_4:95",
    "src_sha1": "8b1405bb3f9b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150144_lin08b>@n정말이지……@n재밌는 녀석이 많구나, 이 나라는!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_4:97",
    "src_sha1": "a632a487714e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150144_lan03>@n…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_4:99",
    "src_sha1": "f0270e61458b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150144_lin09>@n자……밸리는 잘하고@n있으려나?@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

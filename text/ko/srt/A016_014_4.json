@@ -4,113 +4,113 @@
   {
    "id": "srt:A016_014_4:10",
    "src_sha1": "4fb2e6cc7793",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0160144_lus01>@n후후……@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A016_014_4:14",
    "src_sha1": "4e75cfd20d7e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0160144_lus02>@n……끝?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A016_014_4:18",
    "src_sha1": "1093eb1716ed",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0160144_haw01>@n…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A016_014_4:23",
    "src_sha1": "da425f85dc18",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0160144_lus03a>@n……정말이지, 어리석고 약해.@n슬픈 생물이야……인간은.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A016_014_4:27",
    "src_sha1": "fb6f345d1acb",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0160144_lus03b>@n자, 당신도@n대령한테 가렴…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A016_014_4:31",
    "src_sha1": "e3bd9d61dfe0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0160144_alp01>@n중위님, 포기하지 말고 도망쳐요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A016_014_4:35",
    "src_sha1": "91bc320365c1",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~A0160144_lus04>@n곤란한 애네, 아쉬워……. 문을@n연 당신은 ‘제물 확정’인데,@n여기서 죽여야 하다니.@n⊿@n",
+   "state": "draft",
+   "flag": "人柱確定 = 제물 확정(안)"
   },
   {
    "id": "srt:A016_014_4:39",
    "src_sha1": "c8c8b6c38e2a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0160144_haw02>@n알폰스 군!@n나를 두고 도망쳐요!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A016_014_4:43",
    "src_sha1": "6e6e9ec97e16",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0160144_alp02a>@n싫어! 싫단 말이야!@n내 힘이 모자라서 사람이 죽는 건……@n이젠 지긋지긋해!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A016_014_4:47",
    "src_sha1": "9ac5e86bd48b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0160144_alp02b>@n아무도 죽게 두지 않아!@n지켜 내고 말겠어!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A016_014_4:54",
    "src_sha1": "58cdb45b7414",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~A0160144_etc01>@n잘 말했다,@n알폰스 엘릭!@n⊿@n",
+   "state": "draft",
+   "flag": "화자 ？？？ = 로이(다음 장면에서 정체 표시)"
   },
   {
    "id": "srt:A016_014_4:58",
    "src_sha1": "21e7f9c3e6a9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0160144_haw03>@n!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A016_014_4:63",
    "src_sha1": "1aec824a1550",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0160144_alp03>@n!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A016_014_4:67",
    "src_sha1": "013023c1def7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0160144_lus05>@n큭……라이터로 불씨를?!@n그 상처와 출혈로 어떻게 움직이지?!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A016_014_4:71",
    "src_sha1": "d60a6e36ddf3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0160144_roy01>@n스스로 지져서 막았다!@n……두세 번 기절할 뻔했지만!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A016_014_4:75",
    "src_sha1": "af73e7d8cb0a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0160144_roy05>@n이번엔 이쪽 차례다, 인조인간!@n중위, 알폰스, 엄호를 부탁한다!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

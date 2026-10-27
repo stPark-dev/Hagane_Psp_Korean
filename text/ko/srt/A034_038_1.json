@@ -4,141 +4,141 @@
   {
    "id": "srt:A034_038_1:6",
    "src_sha1": "43753a62aabf",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "목격 증언대로다.@n스카로 보이는 인물과@n동행한 중년 남성을 확인.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A034_038_1:7",
    "src_sha1": "ccf627416f24",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "포위 완료했습니다.@n지금이면 여기서 저격도 가능합니다만……@n왜 공격하지 않는 겁니까?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A034_038_1:8",
    "src_sha1": "84a4c9a82ae9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "우린 지원만 한다.@n센트럴의 명령으로 킴블리 씨를@n따라야 한단 말이야.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A034_038_1:14",
    "src_sha1": "21eaaa310849",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……밖이 소란스럽군.@n⊥@n너는 여기 숨어 있어라.@n나는 밖을 살펴보고 오겠다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A034_038_1:15",
    "src_sha1": "c0cdfd7c9e3c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "네, 넷.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A034_038_1:25",
    "src_sha1": "5b0c8d26ea39",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "북방군의 정보대로……@n북쪽행 기차에 숨어들어 있었군요.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A034_038_1:27",
    "src_sha1": "4eb2ae12bd58",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……자, 제 일을 할 시간이군요.@n다른 분들은 방해하지 않도록.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A034_038_1:41",
    "src_sha1": "70cc703beff2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……닥터 마르코시죠?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A034_038_1:42",
    "src_sha1": "4586b99e7e45",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A034_038_1:43",
    "src_sha1": "6043cabe6f73",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "모시러 왔습니다.@n이제 도망칠 수 없어요.@n혼자이십니까? 스카는 어디에?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A034_038_1:54",
    "src_sha1": "a3f731d69c3b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "끝까지 미련하시군요……@n도망칠 수 없다고 했잖습니까,@n닥터 마르코!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A034_038_1:71",
    "src_sha1": "434ed9d948be",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "히이익……!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A034_038_1:72",
    "src_sha1": "8ef8b2c223a2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……누구냐, 너는!?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A034_038_1:83",
    "src_sha1": "4d90c9ff8bf1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A034_038_1:86",
    "src_sha1": "714213f686a5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……호오.@n당신이 소문의 이슈발인이군요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A034_038_1:101",
    "src_sha1": "8943c5d7326d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "!!@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A034_038_1:102",
    "src_sha1": "c4b1f8b94cf8",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "……네……네놈은……@n그……칸다 지구의……!@n⊿@n",
+   "state": "draft",
+   "flag": "カンダ地区: 신규 지명. 음역 ‘칸다 지구’ 제안(용어집 미등록)"
   },
   {
    "id": "srt:A034_038_1:103",
    "src_sha1": "36b95cd4d16d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "호오……이거 놀랐군요…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A034_038_1:109",
    "src_sha1": "13d0b4426242",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "으……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A034_038_1:128",
    "src_sha1": "197a179d88ab",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "우오오아아아아아아앗!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

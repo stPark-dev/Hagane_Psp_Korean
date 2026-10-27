@@ -4,22 +4,22 @@
   {
    "id": "srt:A022_004_3:10",
    "src_sha1": "6b14f868b45a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0220043_glu01>@n라스, 먹어도 돼?@n응, 먹어도 돼?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A022_004_3:12",
    "src_sha1": "897931215ece",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0220043_brd01>@n빨리 끝내라.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A022_004_3:19",
    "src_sha1": "01cf26283e3f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0220043_lin01>@n(젠장……출구는 저기인가……@n　란팡을 지키면서@n　돌파할 수 있을까……?)@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

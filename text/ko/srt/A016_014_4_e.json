@@ -4,43 +4,43 @@
   {
    "id": "srt:A016_014_4_e:9",
    "src_sha1": "bbac9bc2445a",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~A0160144_roy02>@n네놈은 이렇게 말했지.@n“아직 죽지 않는다”고.@n⊿@n",
+   "state": "draft",
+   "flag": "원문 인용(まだまだ死なない)에 해당하는 러스트 대사가 이 배치 안에 없음"
   },
   {
    "id": "srt:A016_014_4_e:13",
    "src_sha1": "165486b96f82",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0160144_roy03>@n그렇다면,@n죽을 때까지 죽여 줄 뿐이다!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A016_014_4_e:17",
    "src_sha1": "49b546acc234",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0160144_lus06>@n크윽……크헉!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A016_014_4_e:23",
    "src_sha1": "c0e15e056670",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0160144_alp04>@n…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A016_014_4_e:27",
    "src_sha1": "54dcfff562c3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0160144_haw04>@n대령님!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A016_014_4_e:31",
    "src_sha1": "987f7ccf21b0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0160144_roy04>@n…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

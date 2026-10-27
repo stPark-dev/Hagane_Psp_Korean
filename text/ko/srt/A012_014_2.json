@@ -4,78 +4,78 @@
   {
    "id": "srt:A012_014_2:12",
    "src_sha1": "2a4468a69b2b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "머스탱 대령이@n휴즈 일을 캐고 다닌다고?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A012_014_2:13",
    "src_sha1": "fc9c99f0144a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "요즘 들어@n갑자기 움직이기 시작한 모양이야.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A012_014_2:14",
    "src_sha1": "73bbba561caa",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……뭔가@n결정적인 정보라도 잡은 걸까.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A012_014_2:15",
    "src_sha1": "4f1663e97326",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "꽤 가까운 데까지@n알고 있는 것 같던데.@n어쩔래?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A012_014_2:16",
    "src_sha1": "45a2ddf15008",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "감시하려면 손 닿는 곳에 두자@n싶어서 센트럴로 옮겼는데……@n실수였을까?@n⊥@n얌전히 있어 주면@n좋으련만.@n……소중한 ‘제물 후보’니까.@n⊥@n둔한 건지 수완가인 건지, 이쪽@n“애인”한테선 쓸 만한 정보를@n못 얻고……곤란하다니까.@n⊿@n",
+   "state": "draft",
+   "flag": "新용어: 人柱候補 = 제물 후보(안)"
   },
   {
    "id": "srt:A012_014_2:21",
    "src_sha1": "eb0b335c32a3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "오늘쯤 다시 정보를 모아 볼게.@n가자, 글러트니.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A012_014_2:36",
    "src_sha1": "7ee587030ef1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "야, 글러트니!@n어질러 놓고 가지 마, 하여간…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A012_014_2:41",
    "src_sha1": "8943c5d7326d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "!!@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A012_014_2:42",
    "src_sha1": "e10a5e521121",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "있잖아, 러스트.@n불꽃의 대령이 얌전히@n있으면 되는 거지?@n⊿@n",
+   "state": "draft",
+   "flag": "焔の大佐 = 불꽃의 대령"
   },
   {
    "id": "srt:A012_014_2:47",
    "src_sha1": "73a61e4646dc",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……무슨 수라도 있어?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A012_014_2:48",
    "src_sha1": "55cd203bd406",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "시끄러운 개한테는@n먹이를 줘야지!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

@@ -4,71 +4,71 @@
   {
    "id": "srt:A015_014_2_n2:9",
    "src_sha1": "3717d93d75ae",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150142_glu02>@n벌써 끝? 끝?@n총알 떨어졌어? 떨어졌어?@n……먹어도 돼?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_2_n2:13",
    "src_sha1": "b25c194c8484",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150142_glu03>@n그럼……잘 먹겠습니다아~!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_2_n2:17",
    "src_sha1": "4be270f662b8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150142_haw02>@n……읏!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_2_n2:25",
    "src_sha1": "91d3d1f05d80",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150142_roy01>@n늦지 않았나……중위, 무사한가?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_2_n2:29",
    "src_sha1": "0557ad58c155",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150142_haw03>@n대령님……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_2_n2:33",
    "src_sha1": "5cb3b53a3848",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150142_haw04a>@n왜 나오신 겁니까! 저희에게@n만일의 일이 생겨도 무시하고 계셨으면@n적의 추궁을 피할 수 있었을 텐데!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_2_n2:37",
    "src_sha1": "b489658d954c",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~A0150142_haw04b>@n이런 곳에 겁도 없이!@n작전이 엉망이 됐잖아요!@n바보세요?!@n⊿@n",
+   "state": "draft",
+   "flag": "호크아이→로이: 감정이 격해진 장면이라 하십시오체→해요체로 흔들림 허용"
   },
   {
    "id": "srt:A015_014_2_n2:41",
    "src_sha1": "1b64bebcbace",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150142_roy02>@n……아~, 알았다, 알았어.@n내가 바보였다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_2_n2:45",
    "src_sha1": "090c3d1848f1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150142_roy03>@n하지만 설교는 나중에 듣지.@n지금은 저 뚱뚱한 놈을 쓰러뜨리는 게@n먼저다. 알겠나?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A015_014_2_n2:49",
    "src_sha1": "bc2291217918",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0150142_haw05>@n넷!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

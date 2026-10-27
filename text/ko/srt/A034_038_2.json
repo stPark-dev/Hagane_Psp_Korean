@@ -4,71 +4,71 @@
   {
    "id": "srt:A034_038_2:5",
    "src_sha1": "b9e0dec5708e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0340382_sca01>@n…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A034_038_2:7",
    "src_sha1": "f5e8f0dfb5cd",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0340382_kim01>@n…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A034_038_2:9",
    "src_sha1": "f37d107b644a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0340382_knp01>@n스카입니다!@n어떻게 할까요!?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A034_038_2:10",
    "src_sha1": "cc39cedb52f7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0340382_knp02>@n발포하지 마!@n킴블리 씨의 명령이다!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A034_038_2:11",
    "src_sha1": "aa155dbe3c3d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "으으……혼란을 틈타@n도망치려고 했는데……@n포위돼서 도망칠 수가 없잖아!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A034_038_2:13",
    "src_sha1": "ed099f54c3eb",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0340382_sca02a>@n……졸프 J. 킴블리……@n……홍련의 연금술사.@n⊥@n<~A0340382_sca02b>@n……나를 기억하나.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A034_038_2:15",
    "src_sha1": "789295a52acc",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~A0340382_kim02a>@n네, 잘 기억하고 있어요.@n당신, 이슈발의@n칸다 지구에 있었죠.@n⊥@n<~A0340382_kim02b>@n일한 범위에서 눈에 들어온@n사람의 얼굴은 잘 기억합니다.@n⊥@n<~A0340382_kim02c>@n그때 당신 곁에@n있던 건, 가족분?@n⊿@n",
+   "state": "draft",
+   "flag": "カンダ地区: 칸다 지구(신규 지명, 음역 제안)"
   },
   {
    "id": "srt:A034_038_2:17",
    "src_sha1": "21575e237ea9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0340382_sca03>@n!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A034_038_2:19",
    "src_sha1": "708fd337b76c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0340382_kim03>@n그때, 당신과 꼭 닮은@n안경 쓴 분이 있었던가요.@n왼쪽 옆구리에서 피를 흘리며@n괴로워하는 얼굴로……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A034_038_2:22",
    "src_sha1": "03e841a4ee01",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0340382_sca04>@n네노오오오오오옴!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

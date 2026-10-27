@@ -4,106 +4,106 @@
   {
    "id": "srt:A010_011_1:11",
    "src_sha1": "d1b9374ffb3a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "(……센트럴로 전근 온 뒤@n첫 휴일인데, 생활필수품 사러@n나온 것만으로 끝나 버렸네……)@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A010_011_1:25",
    "src_sha1": "93dab38e5eca",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "게헤헤……아가씨,@n이런 시간에 혼자 걸어 다니면@n위험하다고?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A010_011_1:27",
    "src_sha1": "3f5a41e21191",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "……충고 고마워.@n하지만 괜찮아.@n⊿@n",
+   "state": "draft",
+   "flag": "호크아이→밸리(정체 공개 전 낯선 불량배 포함) 반말로 통일. 해요체로 할지 검토"
   },
   {
    "id": "srt:A010_011_1:28",
    "src_sha1": "b14cf7667a2c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "사양하지 말라고.@n이 근처엔 진짜 위험한 놈이 있거든.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A010_011_1:40",
    "src_sha1": "0bc6aabaa7ec",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "‘밸리 더 쵸퍼’라든가 말이야!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A010_011_1:46",
    "src_sha1": "ce27305257f7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "――!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A010_011_1:63",
    "src_sha1": "869bffed676a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "으엑?!@n갑자기 무슨 짓을……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A010_011_1:73",
    "src_sha1": "1503d5b2298b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "으아아아앗!@n⊥@n……젠장, 이 몸한테 습격당하고도@n반응이 없다니! 이거라도 보고@n비명을 질러 보라고!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A010_011_1:95",
    "src_sha1": "4586b99e7e45",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A010_011_1:113",
    "src_sha1": "6b47adf8ca93",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "꺄아악!@n……잠깐, 왜 안 놀라는 건데!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A010_011_1:115",
    "src_sha1": "248b42ce05db",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……비슷한 사람을 알고 있으니까.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A010_011_1:116",
    "src_sha1": "d27c8720f681",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "비슷한?@n……알폰스 뭐시기라는 녀석 말이냐?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A010_011_1:122",
    "src_sha1": "bedca7dd6bfe",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "!!@n……알폰스 군을 알아?!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A010_011_1:123",
    "src_sha1": "b22b6f451e2d",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "게헤헤……@n그 녀석 친구분이셨수? 그나저나@n누님……꽤 세시구먼?@n⊥@n좋아, 덮치는 건 관두지!@n난 센 여자가 너무 좋거든……@n누님을 따라가겠습죠!!@n⊿@n",
+   "state": "draft",
+   "flag": "新호칭: 밸리→호크아이 姐（あね）さん = 누님(안). 대안 형님/큰누님/아가씨"
   },
   {
    "id": "srt:A010_011_1:125",
    "src_sha1": "561678888f3a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……?@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

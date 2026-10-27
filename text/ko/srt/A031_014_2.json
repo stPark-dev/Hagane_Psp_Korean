@@ -4,240 +4,240 @@
   {
    "id": "srt:A031_014_2:10",
    "src_sha1": "4d90c9ff8bf1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:21",
    "src_sha1": "e242a4b7f235",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "누구 성묘 오셨어요?@n⊿@n",
+   "state": "draft",
+   "flag": "화자 ‘노부인’은 변장한 글래먼(A031_014_2:34·37에서 밝혀짐). 의도된 표기로 보고 노부인 말투로 번역"
   },
   {
    "id": "srt:A031_014_2:22",
    "src_sha1": "0b910c3353f2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "네, 친구의…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:23",
    "src_sha1": "60d818abd886",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그래요……아직 젊은데.@n나는 이 나이가 되니까 언제 저승사자가@n올지 몰라 무서워진답니다…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:25",
    "src_sha1": "b8a1a94d101b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "무슨 말씀을요, 부인.@n제가 보기엔 아직 젊으신데요……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:26",
    "src_sha1": "f22f8008a725",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "호호호…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:32",
    "src_sha1": "bc20f1c4c620",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:34",
    "src_sha1": "2aa5ef3866b2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "설마……글래먼 중장님!?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:37",
    "src_sha1": "f35102b2c9c1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "호호호호호! 약속 장소는@n‘휴즈 준장의 묘 앞’@n이었지요?@n⊥@n자네가 마담 크리스마스를 통해 내게@n연락을 해 왔다는 건@n보통 일이 아니라고 생각해서 말일세.@n⊥@n만전을 기하려고 변장하고 왔답니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:43",
    "src_sha1": "7e918acd1feb",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "이야……과연 괴짜로 이름난@n글래먼 중장님. 예상 밖의 변장입니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:44",
    "src_sha1": "98ff975d9be3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "흐흥,@n칭찬으로 받아 두지.@n그럼……이야기를 들어 볼까?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:58",
    "src_sha1": "6a604ef90401",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "……그렇군.@n중앙 상층부는 전부 한통속인가.@n⊥@n이만한 정보를 모은 건@n대단하구먼……하지만 자네,@n좀 너무 서둘렀어.@n⊥@n믿을 수 있는 부하가 없어져서야@n말짱 도루묵 아닌가.@n⊿@n",
+   "state": "draft",
+   "flag": "中央上層部: 합성어로 보고 ‘중앙 상층부’(D7). ‘센트럴 상층부’도 가능"
   },
   {
    "id": "srt:A031_014_2:59",
    "src_sha1": "baf8ea90cef6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "넷……@n드릴 말씀이 없습니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:60",
    "src_sha1": "a92062316b9b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그건 그렇고, 레이븐 장군도인가…….@n예전에……내가 센트럴에 있던 시절.@n레이븐이 물어본 적이 있었네.@n⊥@n“이봐, 글래먼. 완전한@n “불사의 군단”에 관심 없나?”@n……라고.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:61",
    "src_sha1": "5e3ac905c393",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "“불사”……?@n그래서, 뭐라고 답하셨습니까?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:62",
    "src_sha1": "8118e0bf3c08",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "“불사 따위, 시시하군” 하고@n일축해 줬지.@n⊥@n그랬더니 바로 그 뒤에@n나, 동방사령부로 날아가 버렸어.@n뭐, 좌천이지.@n⊥@n그 뒤로 센트럴에 불려 가지도 못하고,@n골치 아픈 동부 문제의 뒤치다꺼리만@n계속하는 신세가 됐지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:63",
    "src_sha1": "92e8ba94fd14",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……골치 아픈 일이라 하니,@n‘리올 폭동’을 기억하고@n계십니까?@n⊥@n레트교 사이비 교주의 야망이@n강철의 연금술사 에드워드 엘릭에@n의해 폭로된 사건입니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:64",
    "src_sha1": "55fa8082dd11",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아아, 기억하고말고.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:65",
    "src_sha1": "dad8eb71fdac",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그가 보낸 연락 덕분에, 혼란의@n초기 단계에서 동방군이 폭동을@n진압할 수 있었습니다만……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:66",
    "src_sha1": "135349943c47",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……그런데 어째선지 도중에 중앙군이@n끼어들어서 동방군은 찬밥 신세……@n였던가?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:67",
    "src_sha1": "f8492a6a181b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "네, 리올의 치안이@n급격히 악화된 건 중앙군이@n개입하고 나서부터입니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:68",
    "src_sha1": "b7796d7b4cd3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……센트럴 녀석들,@n뭔가 꾸미고 있단 말이야.@n⊥@n아~, 싫다 싫어!@n내가 은퇴할 때까지 평온무사하게@n있어 주면 좋으련만!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:70",
    "src_sha1": "eda2dee37fb1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "또 농담을. 글래먼 중장님 같은@n분께서 지방의 수장으로 평온하게@n안주할 생각이 있으실 리 없지요?@n⊥@n……이슈발을 경험한@n굳센 병사들을 거느린@n동방군을 갖고 계시면서.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:82",
    "src_sha1": "ff88a92d5cf6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……훗……후하하하하!@n와하하하하하하!!@n⊥@n내게 매달릴 때가 오면 쓰라고@n체스 말 속에 극비 연락용 메모를@n숨겨 두었는데……허허, 이것 참……@n⊥@n나를 부추기려고@n여기로 불러냈구먼!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:83",
    "src_sha1": "4d90c9ff8bf1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:84",
    "src_sha1": "5884a0e599e3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "이거 참. 센트럴이 재미있게@n돌아가는 덕분에……@n⊥@n이 메마른 늙은이 속에서@n꺼져 가던 야망의 불씨가@n다시 타오르기 시작했구먼.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:92",
    "src_sha1": "91e717b6b203",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "너무 열을 내시면 화장이 지워집니다.@n부인.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:93",
    "src_sha1": "0d7a7f9ad8c3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "어머, 큰일이네!@n호호호호.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:94",
    "src_sha1": "96e614a004a9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "하하하.@n이후에 시간 있으신가요?@n괜찮으시다면 차라도……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:95",
    "src_sha1": "2e9a5cb1b585",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "어머, 미안해요.@n권해 주신 건 기쁘지만……곧바로@n동부로 돌아가야 하거든요.@n⊥@n……아, 그러고 보니. 여기 올 때@n이스트 시티 역에서 신기한 고양이를@n데린 여자아이랑 부딪쳤지 뭐예요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:97",
    "src_sha1": "ce69fc4067f9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "호오……신기한 고양이?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:98",
    "src_sha1": "d6873c8d7db5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "흑백의 특이한 무늬였어.@n여자아이가 싱에서 왔다고 했으니,@n싱 나라엔 흔한 건지도 모르겠네~.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:100",
    "src_sha1": "01457ab19da4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "호오…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A031_014_2:121",
    "src_sha1": "d4dea802ae73",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "EX 미션@n‘격전 배틀 로열’을@n플레이할 수 있게 되었습니다.@n⊿@n",
+   "state": "draft",
+   "flag": "EX 미션명 『激闘バトルロイヤル』: 초벌 ‘격전 배틀 로열’. 메뉴(미션 목록) 번역과 일치 확인 필요. 대안 ‘격투 배틀 로열’"
   }
  ]
 }

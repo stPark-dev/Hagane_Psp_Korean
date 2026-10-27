@@ -4,64 +4,64 @@
   {
    "id": "srt:A016_014_2:17",
    "src_sha1": "cab7ae4c8193",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0160142_roy01>@n정말이지……끝이 없군,@n인조인간이란 녀석은…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A016_014_2:21",
    "src_sha1": "267dbae341ee",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "하……@n난 정말 여자 운이 나빠…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A016_014_2:25",
    "src_sha1": "24e002c376e0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0160142_lus01>@n후후……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A016_014_2:44",
    "src_sha1": "f3a31795dc23",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0160142_roy02>@n?!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A016_014_2:50",
    "src_sha1": "8758fe82f740",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~A0160142_lus02>@n어머어머.@n발화포가 젖어 버리면@n장기인 불꽃도 못 내겠네.@n⊿@n",
+   "state": "draft",
+   "flag": "新용어: 発火布 = 발화포(안). 대안 발화 장갑/발화천"
   },
   {
    "id": "srt:A016_014_2:54",
    "src_sha1": "27b2632a47be",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "어, 어쩔 겁니까!@n이대로면 꼼짝없이 당해 죽어요!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A016_014_2:58",
    "src_sha1": "0845b3968bc6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0160142_roy03>@n음……@n이럴 때는……@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A016_014_2:62",
    "src_sha1": "a42b7cc67768",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~A0160142_roy04>@n일시 퇴각이다, 하보크!@n방을 나간다!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A016_014_2:63",
    "src_sha1": "f6a38219c4f8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "진짜요?!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

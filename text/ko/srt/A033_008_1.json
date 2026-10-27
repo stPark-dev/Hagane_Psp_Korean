@@ -4,99 +4,99 @@
   {
    "id": "srt:A033_008_1:10",
    "src_sha1": "05f8920a0915",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "(이스트 시티 역도 사람이@n 많아서 북적북적하네요……♪)@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A033_008_1:11",
    "src_sha1": "0ebadff40bc3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……스카에 관한 새 정보다.@n“북부에서 목격 정보 있음, 흑발의@n 중년 남성과 동행”이라는군.@n⊥@n관계 부서에 돌려 두게.@n그리고 경계도 게을리하지 말고…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A033_008_1:17",
    "src_sha1": "5e7528f4fd0c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "(방금……스카 씨 이야기한 건가?)@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A033_008_1:42",
    "src_sha1": "08949a2a99fa",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "꺄앗!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A033_008_1:43",
    "src_sha1": "b656bab66ccd",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "어머어머, 미안해요!@n⊿@n",
+   "state": "draft",
+   "flag": "화자 ‘노부인’은 A031_014_2:95로 보아 변장한 글래먼. 의도된 표기로 보고 노부인 말투 유지"
   },
   {
    "id": "srt:A033_008_1:44",
    "src_sha1": "2d3ad50f3cac",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아뇨, 한눈팔다가……죄송해요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A033_008_1:45",
    "src_sha1": "c98155f48656",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "억양이 있네요.@n외국 분이에요?@n⊿@n",
+   "state": "draft",
+   "flag": "메이 억양을 표준어로 옮겨(D4-5) ‘억양’ 언급이 다소 겉돎. 원문대로 유지"
   },
   {
    "id": "srt:A033_008_1:46",
    "src_sha1": "c1b5bc929bb2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "싱에서 왔어요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A033_008_1:52",
    "src_sha1": "a6a8dcd77909",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "어머, 먼 데서……관광인가요?@n미안해요, 동부는 별로@n볼 게 없죠?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A033_008_1:53",
    "src_sha1": "cc31001b4ce8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아뇨.@n동부엔 이동하느라 들른 거라서요.@n이제 북쪽으로 가요…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A033_008_1:61",
    "src_sha1": "98d3b9f3d0ee",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "앗, 큰일이다!@n기차가 떠나 버려요!!@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A033_008_1:67",
    "src_sha1": "74093a22e9a3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "할머니,@n짐 주워 주셔서 고마워요!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A033_008_1:68",
    "src_sha1": "68f8cd703ada",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그래그래, 조심해요~.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A033_008_1:80",
    "src_sha1": "7614e713427b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……그나저나 그 아이가@n데리고 있던 고양이, 특이하던데.@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]
