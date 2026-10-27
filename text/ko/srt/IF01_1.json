@@ -4,99 +4,99 @@
   {
    "id": "srt:IF01_1:9",
    "src_sha1": "1e423e1d2e6a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF011_env01>@n하하핫!@n멍청한 낯짝을 하고서,@n국가 연금술사들이 총출동이네!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF01_1:11",
    "src_sha1": "d032ab95ea23",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF011_edw01>@n뭐야, 이 말도 안 되는 조합은…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF01_1:13",
    "src_sha1": "7ee79f5b6346",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF011_arm01>@n으음……@n이것이 호문쿨루스인가!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF01_1:15",
    "src_sha1": "01f7dd9661ba",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF011_lus01>@n너희, 생각보다@n끈질기더라고……어쩔 수 없으니까,@n되살아나 줬어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF01_1:18",
    "src_sha1": "6f2d7ac9eb12",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF011_glu01>@n러스트 돌아왔다~!@n나도 열심히 할래~!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF01_1:20",
    "src_sha1": "dad166c4d5b6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF011_lus02>@n거기 있는 불꽃의 대령한테는@n큰 “빚”도 있고 말이야.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF01_1:21",
    "src_sha1": "1afc10bce869",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF011_lus03>@n후후……이번에는@n저번처럼 되진 않을 거야.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF01_1:23",
    "src_sha1": "d2bc30e86105",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF011_roy01>@n……누가 휴즈를 죽였는지,@n네놈들 입으로 털어놓게 해 주마.@n봐주지 않겠다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF01_1:25",
    "src_sha1": "f6f330a2c3b0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF011_alp01>@n뭔가 심상치 않은 분위기야……@n대체 어떻게 된 거지?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF01_1:26",
    "src_sha1": "7df500b7dc62",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF011_edw02>@n이렇게 된 이상, 할 수밖에 없지.@n알, 대령, 소령, 처음부터@n전력으로 간다!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF01_1:27",
    "src_sha1": "746a38a1ab8b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF011_roy02>@n당연하지.@n최대 화력으로 태워 주마.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF01_1:28",
    "src_sha1": "2f63b459c87e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF011_arm02>@n음, 이 기회에@n일망타진해@n주겠노라!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF01_1:29",
    "src_sha1": "00d6801f6730",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF011_alp02>@n각오하는 수밖에 없겠네!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF01_1:31",
    "src_sha1": "ca18b77b9df6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF011_env02>@n쓰레기 같은 인간 놈들이!@n제물이든 뭐든 간에,@n이번에야말로 숨통을 끊어 주마!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

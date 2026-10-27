@@ -4,155 +4,155 @@
   {
    "id": "srt:E06_1:12",
    "src_sha1": "46d6374af2fd",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E061_haw01>@n대령님!?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E06_1:14",
    "src_sha1": "cfe8dff1ac46",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E061_may01>@n사라졌어요……?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E06_1:16",
    "src_sha1": "f3c9310e0136",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E061_brd01a>@n……안심하게.@n지금쯤 머스탱 대령은@n아버님께 가 있을 걸세.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E06_1:18",
    "src_sha1": "80a92aac63f6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E061_brd01b>@n……몸이 성할지는@n보장 못 하겠지만.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E06_1:19",
    "src_sha1": "89426086e4f5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E061_haw02>@n…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E06_1:21",
    "src_sha1": "6cf76e929f35",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E061_brd02a>@n자……나는 그리드와@n바깥 인간들에게 당해서@n숨이 간당간당한 꼴이다.@n⊥@n<~E061_brd02b>@n이 나를 쓰러뜨려@n이름을 떨칠 자는 누구냐……?@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E06_1:23",
    "src_sha1": "2e4228157a47",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E061_brd02c>@n합성수냐? 이방인이냐?@n머스탱의 개냐?@n그것도 아니면……@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E06_1:25",
    "src_sha1": "80ce842a484c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E061_brd02d>@n전원이 한꺼번에 덤비겠나?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E06_1:26",
    "src_sha1": "295aa2e8901c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "뭐야……이거.@n너덜너덜한 아저씨 하나한테@n이길 것 같지가 않아…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E06_1:28",
    "src_sha1": "ed82650c9e40",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……스카.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E06_1:29",
    "src_sha1": "f5624d669373",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E061_sca01>@n뭐냐?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E06_1:31",
    "src_sha1": "1c6490e31a70",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "아까 메이가 “이 바로 밑에 있다”고@n말하자마자, 안경 쓴 영감이@n“그분을 방해하게 둘 순 없다”며@n허둥댔어.@n⊥@n",
+   "state": "draft",
+   "flag": "メガネのじじい(안경 쓴 영감)의 정체 불명(센트럴 상층부 장성으로 추정). 직역 유지"
   },
   {
    "id": "srt:E06_1:33",
    "src_sha1": "b80d9bab1375",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아무래도 여기 밑으로는@n가지 않았으면 하는 모양이야…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E06_1:34",
    "src_sha1": "216b84831825",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E061_sca02a>@n호오…….@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E06_1:36",
    "src_sha1": "a2f5db3cecea",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~E061_sca02b>@n메이, 너는 아래로 가라.@n다리우스는 그 여자를 데리고@n여기를 떠나라.@n⊿@n",
+   "state": "draft",
+   "flag": "その女가 누구인지 불명(호크아이로 추정). ‘그 여자’로 중립 초벌"
   },
   {
    "id": "srt:E06_1:37",
    "src_sha1": "2c107ae1069b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E061_may02>@n네……넷!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E06_1:42",
    "src_sha1": "90d199b39dcf",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E061_brd03>@n……아버님을 방해할 셈이냐.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E06_1:44",
    "src_sha1": "25ed4adf1f90",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E061_sca03>@n네 상대는 나다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E06_1:47",
    "src_sha1": "c8e6fbc856d8",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~E061_brd04a>@n그런가……나의 마지막 상대는@n“파괴하는 자”인가.@n⊥@n<~E061_brd04b>@n네놈……진짜 이름은 뭐라고 하나?@n⊿@n",
+   "state": "draft",
+   "flag": "신규 표현: “破壊する者” → ‘파괴하는 자’(대안: 파괴자). 정발판 대조 필요"
   },
   {
    "id": "srt:E06_1:49",
    "src_sha1": "69a86831a4aa",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E061_sca04>@n이름은 없다……버렸다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E06_1:51",
    "src_sha1": "6560cebbf962",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E061_brd05a>@n그런가……그거 우연이로군.@n⊥@n<~E061_brd05b>@n나도 내 진짜 이름을 모른다.@n이름 없는 자끼리@n서로 죽이는 것도……@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E06_1:54",
    "src_sha1": "43b4bc847753",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E061_brd06>@n재미있겠지!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

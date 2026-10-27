@@ -4,113 +4,113 @@
   {
    "id": "srt:IF09_3:7",
    "src_sha1": "590f22f1cab9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF093_edw01>@n다음 카드는……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_3:9",
    "src_sha1": "7ffc1bdef5d7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF093_alp01>@n……아니,@n이 방은, 설마…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_3:13",
    "src_sha1": "c92e8040a712",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF093_rgr01>@n여어, 갑옷 군.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_3:15",
    "src_sha1": "2cdfd69d1e93",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF093_alp02>@n그리드!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_3:17",
    "src_sha1": "fc80804a0981",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF093_edw02>@n네놈…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_3:19",
    "src_sha1": "957dcb976f87",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF093_rgr02>@n그렇게 무서운 얼굴 하지 말라니까.@n모처럼의 자리야. 즐기자고?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_3:20",
    "src_sha1": "ba623f63ddcc",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF093_izu01>@n그래, 나도 즐겨 볼까.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_3:25",
    "src_sha1": "13bcbfbcbc8f",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~IF093_rgr03>@n으……누님도 같이냐.@n⊿@n",
+   "state": "draft",
+   "flag": "グリード→イズミ おねえさん: '누님'으로 초벌(신규 호칭). 대안 '아줌마'/'주부 양반'"
   },
   {
    "id": "srt:IF09_3:27",
    "src_sha1": "49b6db37aaac",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF093_edw03>@n스승님,@n아직 몸이 안 좋으시잖아요,@n여긴 저희끼리!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_3:29",
    "src_sha1": "b0b797b75202",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF093_izu02>@n환자 취급하지 마!@n너희도 있잖아, 이 몸으로도@n이 녀석들 정도는 아무것도 아니야.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_3:31",
    "src_sha1": "abd512c96c83",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF093_rgr04>@n말 한번 잘하네.@n로어, 돌체트, 너희@n진심으로 덤벼라. 죽는다?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_3:33",
    "src_sha1": "425b8967f30b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "알겠습니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_3:35",
    "src_sha1": "13dca9b252b6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……예.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_3:37",
    "src_sha1": "cd7e2eb9d43f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF093_alp03>@n당신들하고는 싸우고 싶지 않지만……@n이쪽도 질 수는 없어.@n전력으로 싸우겠어!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_3:39",
    "src_sha1": "e6eeb4114c08",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF093_izu03>@n그 기세다, 알.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_3:41",
    "src_sha1": "2fa3af66ff98",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF093_edw04>@n어쩔 수 없지……해 보는 수밖에!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

@@ -4,100 +4,100 @@
   {
    "id": "srt:F011_999_021_2_e:23",
    "src_sha1": "c0655a89c54f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0119990212_etc02>@n젠장……들은 얘기랑 다르잖아!@n엄청 강하잖아,@n……젠장!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F011_999_021_2_e:25",
    "src_sha1": "d3cefd71fcfa",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0119990212_edw03>@n……자,@n당신한테 지시한 녀석을@n불어 줘야겠어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F011_999_021_2_e:28",
    "src_sha1": "7b6afd7cada1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0119990212_etc03>@n젠장……젠장!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F011_999_021_2_e:39",
    "src_sha1": "5b50f54fd8b8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0119990212_edw04>@n……뭐, 뭐야 이건?!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F011_999_021_2_e:40",
    "src_sha1": "b29e17ba5b90",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0119990212_alp01>@n설마……자폭당한 거 아냐?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F011_999_021_2_e:42",
    "src_sha1": "c3e645c963e4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0119990212_edw05>@n큭……@n도망치는 것도 허락받지 못하고@n버림패가 됐다는 거냐?!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F011_999_021_2_e:47",
    "src_sha1": "19296d64ba44",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0119990212_alp02>@n너무해……이 사람도@n그놈들의 희생자였잖아……@n피도 눈물도 없어, 이래서야…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F011_999_021_2_e:49",
    "src_sha1": "3cc0da77f57c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0119990212_edw06>@n기분 더럽네……!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F011_999_021_2_e:51",
    "src_sha1": "1698152911a7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0119990212_alp03>@n……그런데 우리는 ‘제물’@n인데, 왜 노린 걸까.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F011_999_021_2_e:53",
    "src_sha1": "72bf44b320c3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0119990212_edw07a>@n……아마 군 일부의 독단이 아닐까@n싶어. 그놈들도 한통속은@n아니라는 거겠지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F011_999_021_2_e:55",
    "src_sha1": "3b0a04025613",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0119990212_edw07b>@n대총통은 그렇다 치고……군 쪽에는@n우리도 파고들 틈이 있을지도@n모른다는 거야.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F011_999_021_2_e:57",
    "src_sha1": "9b26008e5397",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0119990212_alp04>@n“대령에게 접근하지 마라”라고 했으니,@n이번 일도 대령님한테 보고해@n둬야겠다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F011_999_021_2_e:59",
    "src_sha1": "419cb39c8f7b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0119990212_edw08>@n그래…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F011_999_021_2_e:75",
    "src_sha1": "c2eb94bb67d1",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~F0050060012_edw04>@n젠장! 방심했다!!@n⊿@n",
+   "state": "draft",
+   "flag": "음성 큐 F0050060012_edw04는 F005_006_001_2_e 것(같은 대사 재사용). 패배 대사"
   }
  ]
 }

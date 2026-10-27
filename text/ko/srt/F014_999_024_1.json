@@ -4,92 +4,92 @@
   {
    "id": "srt:F014_999_024_1:12",
    "src_sha1": "2e0328164e07",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊥@n……우리가 처음 왔을 때는@n예쁜 마을이었는데, 끔찍한@n꼴이 되어 버렸네…….@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F014_999_024_1:14",
    "src_sha1": "31253bdd0edc",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "왠지……미안해.@n나랑 형이 무리하는 바람에.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F014_999_024_1:15",
    "src_sha1": "56cb25eca25d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "정말, 그 얘기는 몇 번이나 들었어.@n⊥@n게다가 너희 덕분에 다들@n부정을 깨닫고 다시 일어설 수@n있었으니까……@n⊥@n고마워하면 했지, 원망하는 사람은@n아무도 없어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F014_999_024_1:16",
    "src_sha1": "e80116cb67a3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "여기 사람들은 다들 긍정적이고@n활기차고, 밝네요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F014_999_024_1:17",
    "src_sha1": "fa622a082457",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "그건 로제랑 주인 아저씨가@n맛있는 밥을 해 주니까 그렇지.@n⊿@n",
+   "state": "draft",
+   "flag": "オヤジさん → \"주인 아저씨\"(로제가 일하는 식당 주인으로 추정, F014_999_027 店主와 동일 인물 가능)."
   },
   {
    "id": "srt:F014_999_024_1:28",
    "src_sha1": "1a2dc307a497",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아, 아빠.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F014_999_024_1:30",
    "src_sha1": "d822bd69ad11",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "알폰스, 좀 도와주지 않겠냐.@n마을 사람이 꽤 큰 수복 작업을@n부탁해서 말이다.@n⊥@n나는 지금부터 다른 작업 현장에@n불려 가야 해서, 맡기고 싶구나.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F014_999_024_1:32",
    "src_sha1": "6920b7ff4d48",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "응, 도울게.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F014_999_024_1:37",
    "src_sha1": "d3b3ceda2b4a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "어이, 우리도 거들게.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F014_999_024_1:38",
    "src_sha1": "2b3f1a12ea16",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그래, 매일 맛있는 밥을 얻어@n먹고 있으니까, 조금은 이 마을에@n도움이 돼야지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F014_999_024_1:39",
    "src_sha1": "8541b23b1a03",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "고맙습니다!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F014_999_024_1:41",
    "src_sha1": "0bd0c16395b4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "좋아, 그럼 다들 부탁한다.@n일한 뒤에 먹는 밥은 맛있다고!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F014_999_024_1:42",
    "src_sha1": "ae02f2340abc",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "응!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

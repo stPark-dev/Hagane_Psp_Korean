@@ -4,65 +4,65 @@
   {
    "id": "srt:F010_999_019_2_e:24",
    "src_sha1": "2c186f8979b7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0109990192_edw04>@n후우……어떻게든 쓰러뜨렸네.@n연금술도 쓸 수 있는 것 같고.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F010_999_019_2_e:25",
    "src_sha1": "708674613e02",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0109990192_arm04>@n흠.@n어째서 아까는 쓸 수 없었던 건가?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F010_999_019_2_e:27",
    "src_sha1": "e1d2da08062c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0109990192_edw05>@n……그걸 모르겠단 말이야.@n이것저것 생각해야 할 것@n투성이야.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F010_999_019_2_e:31",
    "src_sha1": "9f8e58f76813",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0109990192_arm05>@n그런가……뭐, 그건@n그렇다 치고, 훌륭한 싸움이었다.@n역시 ‘강철의 연금술사’로군.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F010_999_019_2_e:35",
    "src_sha1": "8e43051843af",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0109990192_edw06>@n헤헤.@n도움이 돼서 다행이야.@n그래서, 이 녀석들은 어떻게 해?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F010_999_019_2_e:37",
    "src_sha1": "2b387007c085",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0109990192_arm06a>@n음……@n어차피 이대로 군에 의해@n어둠 속에 묻혀 버리겠지만……@n⊥@n<~F0109990192_arm06b>@n이 몸은 독자적인 경로로 대령에게@n보고해 두겠다. 자네도 눈에 띄는@n짓은 하지 않도록 해라.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F010_999_019_2_e:39",
    "src_sha1": "c596a88aef13",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0109990192_edw07>@n응, 알고 있어.@n소령도 조심해.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F010_999_019_2_e:55",
    "src_sha1": "d4a517051e5c",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~IF011_edw05>@n젠장……여기까지인가!@n⊿@n",
+   "state": "draft",
+   "flag": "음성 큐 IF011_edw05는 IF011(보너스) 것. 이 이벤트 패배 대사로 재사용된 듯"
   },
   {
    "id": "srt:F010_999_019_2_e:57",
    "src_sha1": "4e392525cb6e",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~IF011_arm04>@n으, 원통하다…….@n⊿@n",
+   "state": "draft",
+   "flag": "음성 큐 IF011_arm04는 IF011(보너스) 것. 이 이벤트 패배 대사로 재사용된 듯"
   }
  ]
 }

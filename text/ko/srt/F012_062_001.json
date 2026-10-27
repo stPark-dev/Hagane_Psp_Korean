@@ -4,239 +4,239 @@
   {
    "id": "srt:F012_062_001:10",
    "src_sha1": "4d90c9ff8bf1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:13",
    "src_sha1": "eb548cf6b7c5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "여어. 잘 지냈냐?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:15",
    "src_sha1": "4687fe79b78f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "펄만 준위!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:16",
    "src_sha1": "fa0989c964a4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "소위다!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:18",
    "src_sha1": "978ca1caed58",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아무렴 어때…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:19",
    "src_sha1": "ddaf6a4ee15b",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "저희, 아직 여기서@n못 나가는 거예요?@n⊿@n",
+   "state": "draft",
+   "flag": "알→펄만: 원문은 반말이나 M044_2와 D16(알→어른 해요체)에 맞춰 해요체로 초벌. 이 장면 알의 펄만 대사 전체에 적용"
   },
   {
    "id": "srt:F012_062_001:20",
    "src_sha1": "32c9402c4446",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "미안하다……나도 아직@n자세한 상황은 못 들었거든.@n여기 열쇠도 없고 말이야.@n⊥@n매일 하는 고드름 떨어뜨리기@n하러 가기 전에, 잠깐 들러 본@n것뿐이라서.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:26",
    "src_sha1": "c962b455edc1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "매일 하는 일이라니……@n진짜 한직으로@n밀려났구나.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:31",
    "src_sha1": "03a22caa94db",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "한직이라고 하지 마!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:34",
    "src_sha1": "f9e703b25bc9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……하아, 그래도 말이지.@n다들 뿔뿔이 흩어져서 좌천된@n건 사실이니까…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:36",
    "src_sha1": "7f21b59a0a65",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그렇죠……@n머스탱 대령님이 대총통한테@n찍혀 버렸으니까요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:37",
    "src_sha1": "842cd85cde88",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……뭐, 그렇다고는 해도@n우리도 그냥 손가락만 빨면서@n구경하고 있는 건@n아니지만 말이야.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:39",
    "src_sha1": "113ff79de5af",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "헤에……그래?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:40",
    "src_sha1": "cd6ee7b2616f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그래.@n나와 브레다 소위가 다른 멤버들과@n정기적으로 연락하고 있거든.@n⊥@n우리 머스탱 팀은 언제든@n움직일 수 있게 준비하고@n있다는 거지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:42",
    "src_sha1": "c53de35d0628",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그렇구나……호크아이 중위님이@n대총통 직속이 됐다는 건@n들었는데, 브레다 소위님은@n지금 어디 계세요?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:43",
    "src_sha1": "ef470b2a89a0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "브레다 소위는 서방군으로@n좌천됐어. 서쪽 이웃 나라@n‘크레타’랑 한창 싸우는 중이라@n거기도 힘들지…….@n⊥@n그런 와중에도 예전에 연락을@n주고받던 싱 나라의……@n한이라던가 하는 인물한테서@n정보를 얻어 주고 있어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:44",
    "src_sha1": "83b9715e801b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "역시 브레다 소위야…….@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:46",
    "src_sha1": "5824decde828",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그 아저씨랑 연결돼 있다는 건,@n로스 소위 소식도 들었어?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:47",
    "src_sha1": "6b4017e617c8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아니, 딱히 새로운 정보는@n못 들었지만, 다음에 또@n물어볼게.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:48",
    "src_sha1": "c44ba3e26ac8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "휴리 상사님은요?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:49",
    "src_sha1": "3507c2effd19",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "남쪽으로 좌천됐어.@n거기도 남쪽 대국 ‘아에르고’와@n교전 중이라서 말이야…….@n⊥@n우리, 하나같이 적대국과의@n최전선에 내던져진 셈이지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:50",
    "src_sha1": "2f2f779969fe",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "지독한 얘기네…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:51",
    "src_sha1": "eb6e20e6ba32",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그래그래, 아에르고 하니까……@n가짜 클라우디오 왕자 사건 때는@n고생 많았지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:53",
    "src_sha1": "4d90c9ff8bf1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:54",
    "src_sha1": "97d155be26a6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아, 미안……@n건드리면 안 되는 얘기였나?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:56",
    "src_sha1": "ebd6d6e67a23",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "……아뇨, 괜찮아요.@n엘레나도 잘 지내고 있을@n테니까요.@n⊿@n",
+   "state": "draft",
+   "flag": "エレナ 엘레나: 용어집에 없는 새 인명(가짜 클라우디오 왕자 사건 관련). 이 배치 밖 F010~F011 쪽 표기와 대조 필요"
   },
   {
    "id": "srt:F012_062_001:61",
    "src_sha1": "aeefb21ab751",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그 화평 협정이 진짜였다면,@n지금쯤 아에르고와의 전쟁은@n끝났을지도 모르는데…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:62",
    "src_sha1": "c4c78f73feea",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "하지만 설령 그랬다 해도,@n군부는 무슨 이유를 붙여서든@n다시 전쟁을 시작하지 않았을까.@n⊥@n아직 그 연성진은 완성되지@n않았을 테니까…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:63",
    "src_sha1": "5fcea903d124",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아, 그렇구나…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:64",
    "src_sha1": "dbf568c54439",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그래도 어떻게든 놈들의 꿍꿍이를@n막을 수 있으면 좋겠는데 말이야.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:65",
    "src_sha1": "7278819fb05f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그래…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:74",
    "src_sha1": "41733dbd5680",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "이크!@n⊥@n큰일이다, 벌써 시간이 이렇게@n됐네. 고드름 떨어뜨리러 간다!@n그럼 또 보자!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:77",
    "src_sha1": "ed5e790be7d5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……다들 힘들겠다.@n무사했으면 좋겠는데.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_062_001:79",
    "src_sha1": "8133528d9a9c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그렇게 쉽게 당할 만한@n녀석들이 아니야. 그 대령의@n부하들이니까.@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

@@ -4,106 +4,106 @@
   {
    "id": "srt:E02_1:12",
    "src_sha1": "2bb87f2b8f7a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……놓치지 않습니다.@n헛된 발버둥은 그만두세요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E02_1:14",
    "src_sha1": "95487623d81d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E021_alp01>@n…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E02_1:16",
    "src_sha1": "fba1672f06f4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "나한테 신경 쓰지 마……빨리 도망쳐.@n날 버리고 가면, 너만이라도@n살 수 있을지도 몰라.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E02_1:19",
    "src_sha1": "503398dadf23",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E021_alp02>@n싫어!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E02_1:21",
    "src_sha1": "181be2228444",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "상대는 그 킴블리랑 프라이드라고.@n나는 두고 가……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E02_1:23",
    "src_sha1": "443bd986829d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E021_alp03>@n포기하지 마!@n내가 꼭 구해 줄 테니까!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E02_1:25",
    "src_sha1": "2a8aa5de7d05",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……하여간, 너희 형제는……@n왜 자기가 너덜너덜한데@n남까지 구하려 드는 거냐…….@n⊥@n그렇지, 살아남으면 이기는 거라고@n킴블리도 늘 말했었지……@n⊥@n덕분에 좋은 걸 갖고 있었다는 걸@n떠올렸다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E02_1:30",
    "src_sha1": "9d0cd857f59e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "북쪽 탄광에서 킴블리한테@n버림받았을 때 주운@n‘현자의 돌’이다.@n⊥@n한 방 먹여 줘라, 알폰스!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E02_1:34",
    "src_sha1": "553375178531",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E021_alp04>@n확실히 이게 있으면 이길 수 있을지도@n모르지만……그래도……!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E02_1:37",
    "src_sha1": "6d33edfeedf2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그래, 알아. 이거 사람 목숨으로@n만들어진 거잖아. 자기 사정만으로@n쓰고 싶진 않다는 것도 들었어.@n⊥@n……그렇다면,@n세상을 지키기 위해 써 줘.@n⊥@n이런 돌멩이가 돼서도 아직@n사람 목숨으로 인정하는 너희 형제니까@n부탁하는 거다.@n⊥@n이 녀석들도 싸우게 해 줘.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E02_1:40",
    "src_sha1": "6740f103cb77",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E021_alp05>@n…….@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E02_1:43",
    "src_sha1": "aea188f0e010",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E021_alp06>@n……응, 알았어.@n함께 싸우자.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E02_1:45",
    "src_sha1": "fd23e930b716",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "‘현자의 돌’!?@n어디서 손에 넣은 겁니까……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E02_1:48",
    "src_sha1": "ff7e52b3d862",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E021_kim01>@n후후후……도망치기는커녕@n덤벼드는 겁니까.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E02_1:50",
    "src_sha1": "d172d02f1cf7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E021_kim02>@n좋습니다!@n아주 좋아요,@n알폰스 엘릭!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

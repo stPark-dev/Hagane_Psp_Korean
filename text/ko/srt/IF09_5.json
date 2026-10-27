@@ -4,106 +4,106 @@
   {
    "id": "srt:IF09_5:18",
    "src_sha1": "6985c7a445d5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF095_lus01>@n어서 와, 강철의 꼬마랑 갑옷 군.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_5:20",
    "src_sha1": "2074d3e4840e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF095_edw01>@n우웩……싫은 상대네.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_5:23",
    "src_sha1": "6b90f0ce6a66",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF095_lus02>@n어머, 그렇게 싫어하지 마.@n아니면, 우리로는 성에 안 차려나?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_5:25",
    "src_sha1": "88cc8ffdb4db",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF095_edw02>@n…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_5:28",
    "src_sha1": "238bf97e1a6c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF095_lus03>@n그럼, 특별히 게스트라도@n불러 볼까?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_5:37",
    "src_sha1": "7fba782d9a27",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF095_sca01>@n음……여기는?!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_5:39",
    "src_sha1": "b1b5726e22dc",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF095_alp01>@n스카?!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_5:42",
    "src_sha1": "c2b0dec4afe4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF095_edw03>@n왜 스카랑@n호문쿨루스가…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_5:44",
    "src_sha1": "73bcdfec30a3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF095_roy01>@n그런 거라면, 힘을 보태지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_5:47",
    "src_sha1": "0f5389a9c8fa",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아~……또 솔라리스랑@n싸워야 하는 거냐.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_5:49",
    "src_sha1": "4da6dbf9e0ab",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF095_lus04>@n어머, 쟝. 오랜만이네.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_5:51",
    "src_sha1": "7ff148fd2710",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "너하고는 이런 데서@n만나고 싶지 않았다고.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_5:53",
    "src_sha1": "0c26891c5f90",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF095_roy02>@n그런 말 할 때냐, 하보크.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_5:57",
    "src_sha1": "1bce51d8ead9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF095_sca02>@n강철의 연금술사에 불꽃의 연금술사……@n마침 잘됐다, 신의 곁으로 보내 주마!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_5:61",
    "src_sha1": "b7025ef6a234",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF095_edw04>@n아~ 진짜, 귀찮네.@n전부 한꺼번에 쓰러뜨려 주마!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

@@ -4,85 +4,85 @@
   {
    "id": "srt:IF09_6:18",
    "src_sha1": "b9371a27863c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF096_edw01>@n여기는……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_6:20",
    "src_sha1": "a603eef497d8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF096_env01>@n어서 와, 강철의 꼬맹이.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_6:22",
    "src_sha1": "b68fbd0c6417",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF096_edw02>@n네놈, 엔비!@n꼬맹이라고 하지 말랬지!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_6:24",
    "src_sha1": "0d86bc7601b3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF096_alp01>@n브래드레이 대총통까지 같이…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_6:26",
    "src_sha1": "75773838f8b4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF096_brd01>@n왜 그러나?@n언젠가는 싸워야 하는 법.@n좋은 연습이 되겠지?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_6:28",
    "src_sha1": "8b4c4fbb0d84",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF096_lin01>@n그렇다면, 그때의 빚을 갚아@n줄까?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_6:29",
    "src_sha1": "cb693f2f83b5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF096_lan01>@n지난번 같은 방심은 하지 않는다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_6:31",
    "src_sha1": "02b8d25dbb06",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF096_edw03>@n린이랑 란팡이냐!@n평소엔 성가시지만, 오늘은@n든든해 보인다!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_6:33",
    "src_sha1": "ec7e5380603d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF096_env02>@n짜증 나는 실눈 꼬맹이 녀석!@n라스, 형제 상대는 맡긴다.@n실눈들 상대는 내가 한다!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_6:35",
    "src_sha1": "3c53222e0f2d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF096_brd02>@n좋다. 강철의 연금술사의 실력을@n보는 건 국가 자격 심사 이후로군.@n나도 기대된다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_6:37",
    "src_sha1": "f2d88069e995",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF096_edw04>@n이거……@n진지하게 덤비지 않으면 만만치@n않겠는데. 조심해, 알!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_6:39",
    "src_sha1": "0726a1e1b84e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF096_alp02>@n응, 형!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

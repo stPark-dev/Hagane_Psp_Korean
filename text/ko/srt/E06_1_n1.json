@@ -4,22 +4,22 @@
   {
    "id": "srt:E06_1_n1:16",
    "src_sha1": "5b81e1c09140",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E061_lan01>@n……킹 브래드레이.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E06_1_n1:20",
    "src_sha1": "fedd5355a817",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E061_brd09>@n싱의 여자인가……@n그 노인의 원수를 갚겠다는 건가.@n그것 또한 인과로군.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E06_1_n1:24",
    "src_sha1": "31cc56230a71",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E061_lan02>@n할아버지의 원수……사라져 줘야겠다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

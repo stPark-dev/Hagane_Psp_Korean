@@ -4,92 +4,92 @@
   {
    "id": "srt:IF06_1:12",
    "src_sha1": "d8f1466ffec1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF061_lin01>@n헤에……그쪽이 예전 그리드 씨?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF06_1:14",
    "src_sha1": "286224289720",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF061_rgr01>@n“예전”은 또 뭐냐. 나는 나,@n탐욕의 그리드 님이시다!@n하나도 달라진 거 없어!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF06_1:16",
    "src_sha1": "797f2c5c9cfa",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF061_lin02>@n아하하……그렇군, 이거@n욕심 많아 보이는 녀석이네.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF06_1:18",
    "src_sha1": "3e62668578c5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF061_rgr02>@n뭔지 모르겠지만, 너하고는@n서로 끌리는 게 있단 말이야.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF06_1:20",
    "src_sha1": "685a715f7a06",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF061_lin03>@n(뭐, 나중에 한 몸에@n　들어가게 될 테니까 당연하지……)@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF06_1:22",
    "src_sha1": "5bf5ee289975",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF061_rgr03>@n기분 나쁘니까, 쓰러뜨려도 되겠지?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF06_1:25",
    "src_sha1": "404ff75291a9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF061_lan01>@n도련님……@n이놈들, 기가 보통 인간과 완전히@n다릅니다……마치 짐승 같은…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF06_1:26",
    "src_sha1": "833ebbac375a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그리드라는 자의 수하들,@n아마 합성수라는@n놈들일 겁니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF06_1:28",
    "src_sha1": "a79e80caf60e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF061_lin04>@n그렇겠지…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF06_1:30",
    "src_sha1": "7d1502888dfc",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF061_lan02>@n도련님, 저희 둘은@n저 수하들을 상대하겠습니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF06_1:32",
    "src_sha1": "5ef5095a6483",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF061_lin05>@n그럼, 내 상대는 예전 그리드인@n걸로.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF06_1:35",
    "src_sha1": "32341b5606ab",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF061_rgr04>@n예전, 예전 시끄럽다고, 이 실눈아!@n그 건방진 입, 두 번 다시@n못 놀리게 해 주마!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF06_1:38",
    "src_sha1": "e245e4f3181b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF061_lin06>@n아하하하하! 실눈이라 하지 마!@n인간을 얕보지 마라!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

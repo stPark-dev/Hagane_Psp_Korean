@@ -4,92 +4,92 @@
   {
    "id": "srt:E03_2:8",
    "src_sha1": "05a891058f86",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E032_roy01a>@n스카, 강철의.@n⊥@n<~E032_roy01b>@n여기는 나한테 맡겨라.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E03_2:10",
    "src_sha1": "971c96636d12",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E032_roy02>@n이 녀석은 내 사냥감이다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E03_2:11",
    "src_sha1": "14766d348334",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E032_sca01>@n…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E03_2:13",
    "src_sha1": "0709cd9f92de",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E032_edw01>@n중위……@n정말 둘만으로 괜찮겠어?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E03_2:15",
    "src_sha1": "ca35ab19289a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E032_haw01a>@n……어떻게든 해 볼게요.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E03_2:17",
    "src_sha1": "d192a0bc1226",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E032_haw01b>@n가요, 에드워드 군.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E03_2:18",
    "src_sha1": "845f40653088",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E032_edw02>@n하지만……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E03_2:20",
    "src_sha1": "18df3eaed2a2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "가자, 에드. 대령이라면 괜찮아.@n인조인간 따위@n한 방에 해치워 줄 거라고.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E03_2:21",
    "src_sha1": "35982de41b2c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E032_edw03>@n……승패가 문제가@n아니라고.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E03_2:22",
    "src_sha1": "d70a8fce679b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E032_sca02>@n…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E03_2:24",
    "src_sha1": "2758c0943fbf",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E032_env01>@n줄곧 휴즈의 원수를@n쫓고 있었다며?@n……아름다운 우정이네.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E03_2:26",
    "src_sha1": "b6ba8bd90511",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E032_roy03>@n물러나 있어라, 중위.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E03_2:28",
    "src_sha1": "07b92caae0f3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E032_env02>@n경의를 표해서, 진심으로 상대해 주지!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

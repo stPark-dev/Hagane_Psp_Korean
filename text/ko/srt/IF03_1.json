@@ -4,92 +4,92 @@
   {
    "id": "srt:IF03_1:13",
    "src_sha1": "66118a533e2e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF031_edw01>@n오늘이야말로 못 참아!@n린, 결판을 내 주마!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF03_1:15",
    "src_sha1": "8230032660e4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF031_lin01>@n아하하하하하.@n싫다~, 그렇게 화낼 것까진 없잖아.@n밥값 좀 외상 달았을 뿐인데.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF03_1:18",
    "src_sha1": "a7b0e05d2c94",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF031_edw02>@n“좀”이라고 할 양이 아니잖아!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF03_1:20",
    "src_sha1": "7ffb8100e052",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF031_alp01>@n아~, 이렇게 되면 이제@n형은 못 말린다니까…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF03_1:25",
    "src_sha1": "de00e4765ca3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF031_may01>@n알폰스 님!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF03_1:28",
    "src_sha1": "c4321e58fb60",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF031_alp02>@n어라……너, 메이?@n어쩐 일이야, 이런 데서.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF03_1:30",
    "src_sha1": "e5bc88fbf5a3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF031_may02>@n네, 저 녀석들 야오 가문과 저희@n창 가문은 황위를 다투는 정적이에요!@n여기서 만난 이상 끝장이에요.@n정정당당하게 승부해요!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF03_1:32",
    "src_sha1": "9a491e78856c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF031_lan01>@n흥, 황녀가 직접 싸워야 한다니,@n창 가문도 수준이 뻔하군.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF03_1:37",
    "src_sha1": "4771579d2897",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF031_may03>@n황녀인 걸 알면서 그 무례한 말투.@n용서 못 해요,@n야오 가문의 개 같으니!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF03_1:39",
    "src_sha1": "223bcf82858e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF031_lin02>@n자자, 둘 다 그런@n싸움 같은 짓은 그만두자~.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF03_1:41",
    "src_sha1": "6827ac64043b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "도련님……아무래도 그럴 수는@n없습니다. 야오 가문의 후계자로서@n매듭을 지어 주셔야 합니다!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF03_1:43",
    "src_sha1": "c86720431baf",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF031_lin03>@n으~음, 그래……그럼 어쩔 수 없지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF03_1:46",
    "src_sha1": "3bb8bc42b5c6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF031_edw03>@n네놈들, 날 무시하지 마!@n정적인지 뭔지 모르겠지만,@n전부 한꺼번에 상대해 주마!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

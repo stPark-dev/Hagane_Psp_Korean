@@ -4,148 +4,148 @@
   {
    "id": "srt:E04_1:6",
    "src_sha1": "827c093933a0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "으아아……귀찮아……@n죽는 것도 귀찮아……@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1:10",
    "src_sha1": "a88b89bcee0d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "진심 내는 거……@n엄청……귀찮아……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1:14",
    "src_sha1": "22e448e5d964",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_arm01>@n……뭣이?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1:18",
    "src_sha1": "5c20fd6df995",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_arm02>@n이 무슨 속도란 말인가……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1:22",
    "src_sha1": "488046db9b08",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_olv01>@n이 녀석……@n지금까지 게으름을 피웠던 건가?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1:26",
    "src_sha1": "27ab16a82f3d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그래……@n나……가장 빠른 인조인간.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1:30",
    "src_sha1": "c03f3a240aee",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_cgn01>@n소령님! 괜찮으십니까!?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1:34",
    "src_sha1": "04619417b3d8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_arm03>@n오지 마라!@n놈의 목표는 우리다! 떨어져 있어라!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1:38",
    "src_sha1": "885cd5feb571",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_cgn02>@n하지만!@n이대로는 두 분 다 위험합니다!@n피하십시오!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1:42",
    "src_sha1": "441b25c9342f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_arm04>@n……도망치라는 말인가……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1:46",
    "src_sha1": "ee5a7951e512",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_arm05>@n이 몸더러 또다시@n전장에서 도망치라는 건가!@n그런 짓을 할 수 있을 성싶으냐!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1:50",
    "src_sha1": "1c71e419a599",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_izu01a>@n좋네, 도망치지 않는 각오!@n멋진 남자잖아!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1:56",
    "src_sha1": "d0cbc11b4dcc",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_izu01b>@n우리 그이가@n수만 배 더 멋진 남자지만!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1:62",
    "src_sha1": "f6d1e34d026f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_olv02>@n……누구냐?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1:66",
    "src_sha1": "83bc40835936",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_izu02>@n어머, 여자 소장님?@n……그렇다면 당신이@n암스트롱 소장이군요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1:70",
    "src_sha1": "2cfc70a3729f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_izu03>@n당신 부하들이 이쪽을@n도우러 가 달라고 부탁하더라고요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1:74",
    "src_sha1": "e8c4c64df5de",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_olv03>@n……그 녀석들, 쓸데없는 짓을!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1:78",
    "src_sha1": "a842d03f084a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_arm06>@n오……자네는……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1:82",
    "src_sha1": "a3fd9109a3f5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……일어나!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1:86",
    "src_sha1": "2d4a0aeee7d1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_arm07>@n오오……벗이여!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1:90",
    "src_sha1": "1454cac06e97",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_arm08>@n용기 100배!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

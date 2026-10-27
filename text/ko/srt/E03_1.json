@@ -4,113 +4,113 @@
   {
    "id": "srt:E03_1:11",
    "src_sha1": "46870888f84f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E031_roy01a>@n……이 녀석이 엔비?@n⊥@n<~E031_roy01b>@n분명, 변신할 수 있는 인조인간……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E03_1:17",
    "src_sha1": "de2467365ede",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E031_env01a>@n헤에……알고 있구나?@n⊥@n<~E031_env01b>@n처음 뵙겠습니다, 머스탱 대령.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E03_1:18",
    "src_sha1": "1bbdd1fe97c8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E031_roy02>@n내 질문에 대답해 줘야겠다……@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E03_1:20",
    "src_sha1": "b3c206ef2ceb",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E031_roy03>@n매스 휴즈를 죽인 건 누구냐?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E03_1:21",
    "src_sha1": "221063a56c58",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E031_haw01>@n…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E03_1:23",
    "src_sha1": "3bbdf897b6b2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E031_env02>@n마리아 로스야.@n당신이 죽인……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E03_1:24",
    "src_sha1": "6b01bb64af92",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E031_roy04a>@n아니다.@n그녀가 아니었다.@n⊥@n<~E031_roy04b>@n어서 사실만 말해라, 이 멍청아.@n네놈들 인조인간에게 이 질문을@n하는 것도 이제 슬슬 질렸다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E03_1:31",
    "src_sha1": "91736eb663d7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E031_env03>@n……축하해, 머스탱 대령.@n드디어 진실에 다다랐다는 거네.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E03_1:32",
    "src_sha1": "12802ab66ed8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E031_roy05>@n네놈 같은 멍청이에게@n휴즈가 당했을 리 없다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E03_1:33",
    "src_sha1": "24192d3b29ad",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E031_env04>@n멍청이라는 건 말이야……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E03_1:39",
    "src_sha1": "6d5f6db20152",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E031_env05>@n마누라로 변신한 나한테 죽은@n휴즈 같은 녀석을@n두고 하는 말이라고오!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E03_1:45",
    "src_sha1": "81b3ec4579cf",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E031_roy06>@n……!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E03_1:50",
    "src_sha1": "5a00413c413e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E031_env06a>@n아하핫! 안색이 바뀌었어!@n좋네, 그 표정!!@n⊥@n<~E031_env06b>@n휴즈를 죽였을 때도@n최고였지! 그 녀석, 그 얼굴!!@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E03_1:55",
    "src_sha1": "35500cdc19a4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E031_env06c>@n사랑하는 아내 얼굴을 한 놈한테@n총 맞아 죽는 절망! 지인짜 최고!@n아하하하하하하하하하!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E03_1:58",
    "src_sha1": "54e5ed593aee",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E031_roy07a>@n……확정이군.@n⊥@n<~E031_roy07b>@n네놈이 휴즈를 죽였다……@n그 사실만 알면 충분하다.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E03_1:60",
    "src_sha1": "b90201a2f3c0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E031_roy08>@n이제 지껄이지 않아도 된다, 엔비.@n우선 그 혓바닥 뿌리부터@n태워 없애 주마……!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

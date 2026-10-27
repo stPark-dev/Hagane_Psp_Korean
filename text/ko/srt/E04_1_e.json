@@ -4,134 +4,134 @@
   {
    "id": "srt:E04_1_e:31",
    "src_sha1": "123cfcaa5463",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "오……아?@n⊥@n나……죽는 거야?@n죽는다는 게……뭐지?@n⊥@n……뭐, 됐어.@n생각하는 것도 귀찮아.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1_e:32",
    "src_sha1": "6086c45dfc5a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아아……@n살아 있는 것도 귀찮……아……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1_e:42",
    "src_sha1": "9a079189a2d5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_olv04>@n어디의 누구신지는 모르나,@n가세해 준 것에 감사한다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1_e:44",
    "src_sha1": "47b1294f7d2e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_izu04>@n천만에요!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1_e:46",
    "src_sha1": "253a691a95b4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_olv05>@n필시 이름난 격투가로@n보이는데……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1_e:48",
    "src_sha1": "eb180d6512eb",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_izu05a>@n나요?@n아뇨아뇨, 주부 겸 연금술사!@n⊥@n<~E041_izu05b>@n당신도 알죠?@n엘릭 형제 말이에요.@n걔들 가족 같은 사람이에요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1_e:50",
    "src_sha1": "f2eed6266cfc",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_olv06>@n그렇다면, 당신이@n이즈미 커티스인가!@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1_e:51",
    "src_sha1": "e135ce00b527",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_olv07>@n……엘릭 형제도 이 싸움에@n참가하고 있는가?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1_e:53",
    "src_sha1": "380e9301a35e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_izu06>@n네, 여기 와 있을 거예요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1_e:56",
    "src_sha1": "741aaf6fffd0",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~E041_arm09>@n……그럼, 남은 인형 병사도@n정리해 볼까요.@n움직이실 수 있겠습니까, 누님?@n⊿@n",
+   "state": "draft",
+   "flag": "신규 용어: 人形兵 → ‘인형 병사’로 초벌(대안: 인형병). 용어집 미등재"
   },
   {
    "id": "srt:E04_1_e:58",
    "src_sha1": "6e081a807635",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_olv08>@n그래.@n이 정도쯤이야.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1_e:60",
    "src_sha1": "bf2087aef358",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_izu07>@n잠깐, 잠깐!@n쉬고 있으라니까요!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1_e:62",
    "src_sha1": "3f4858dcccb8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_arm10>@n후후후……젊은이들이 싸우고 있는데@n우리 어른들이 누워 있을 수야@n없지 않겠습니까.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1_e:64",
    "src_sha1": "1f9c76fe7278",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_olv09a>@n앞으로 이 세상을 짊어질@n젊은이들에게, 지금 이 세상을@n짊어진 어른의……@n⊥@n<~E041_olv09b>@n우리의 살아가는 모습을@n보여 주지 않고 어쩌겠는가!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1_e:66",
    "src_sha1": "4d90c9ff8bf1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1_e:68",
    "src_sha1": "c6ae6b486e0e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_izu08>@n그럼, 우리도@n후딱 거들어 볼까!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1_e:70",
    "src_sha1": "176b55aa7de9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_arm11>@n고맙소!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1_e:72",
    "src_sha1": "23e4e544b73e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_izu09>@n아니 뭐……너무 기대하진@n말아 줘요. 아무래도 나,@n‘제물’이라나 뭐라나 하는 거라서……@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E04_1_e:73",
    "src_sha1": "bc6f912717cc",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E041_izu10>@n어느 정도 싸우면, 위험한 놈들한테@n잡히기 전에 줄행랑칠 거예요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

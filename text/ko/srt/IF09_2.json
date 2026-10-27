@@ -4,106 +4,106 @@
   {
    "id": "srt:IF09_2:9",
    "src_sha1": "a710a08ad876",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "와하하하하!@n오랜만이다, 알 뭐시기!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_2:11",
    "src_sha1": "8dcb81c92425",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF092_alp01>@n앗……밸리!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_2:16",
    "src_sha1": "4c5183d073b3",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "나도 인사를 해 둘까,@n강철의 꼬마 군?@n⊿@n",
+   "state": "draft",
+   "flag": "鋼の小僧くん(넘버 48→에드): '강철의 꼬마 군'으로 초벌. 鋼の坊や(강철의 꼬마)와 겹침, 호칭 확인 필요"
   },
   {
    "id": "srt:IF09_2:18",
    "src_sha1": "e563cfc323d5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF092_edw01>@n아~아……또 이 아저씨랑@n싸워야 하는 거야…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_2:20",
    "src_sha1": "88000d390fac",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "오늘은 누님도 없으니, 마음껏@n썰어 주마!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_2:25",
    "src_sha1": "f5cf769e938b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF092_haw01>@n기다려!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_2:27",
    "src_sha1": "23e7e19d539e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "에엣!@n누님?!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_2:30",
    "src_sha1": "b80cf5dd8801",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF092_edw02>@n중위?! 왜 여기에?!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_2:32",
    "src_sha1": "108ac140dd32",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF092_haw02>@n대령님이 “엄호해 줘”라고@n명령하셨어요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_2:34",
    "src_sha1": "52448a3a9fd2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF092_arm01>@n음! 이 몸도 마찬가지!@n힘을 보태겠노라!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_2:36",
    "src_sha1": "93de98fd1bc6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "이거 이거……오랜만에@n좀 날뛰어 볼까.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_2:38",
    "src_sha1": "0d982925111b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "누님하곤 싸우고 싶지 않지만……@n이것도 운명. 그럼 그 말랑해 보이는@n몸을 썰어 드려 볼까!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_2:41",
    "src_sha1": "65472c0c62a5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF092_haw03>@n내가 그렇게 쉽게 베이게 둘 것@n같아?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_2:43",
    "src_sha1": "39ab34f7550b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF092_alp02>@n중위님한테는 손끝 하나 못 대!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:IF09_2:45",
    "src_sha1": "c84ea35c7b16",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~IF092_edw03>@n할 수 없지, 나도 진심 좀 내 볼까!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

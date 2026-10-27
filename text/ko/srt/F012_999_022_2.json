@@ -4,71 +4,71 @@
   {
    "id": "srt:F012_999_022_2:11",
    "src_sha1": "9d9deae5acfd",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "엘릭 형제는 출발 지점에서@n출발해, 우리 군의 공격을 뚫고……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_999_022_2:17",
    "src_sha1": "0c733dfc2960",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "에드워드 엘릭이나@n알폰스 엘릭 중 누구든@n골 지점에 도달하면 승리다.@n⊥@n이번에는 에드워드 엘릭을@n리더로 하니, 알폰스 군이@n쓰러져도 상관없는 것으로 한다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_999_022_2:19",
    "src_sha1": "d88bdc935a33",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "즉, 강철의 연금술사……@n자네가 쓰러지면 그쪽의 패배라는@n거다. 알겠나?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_999_022_2:20",
    "src_sha1": "a258954451f5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0129990222_edw01>@n……알았어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_999_022_2:22",
    "src_sha1": "c87ff405f2db",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0129990222_edw02>@n참 나……@n고작 둘을 상대로 무슨@n이런 인정사정없는 포진이야.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_999_022_2:32",
    "src_sha1": "14344f7b19f8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0129990222_olv01>@n투덜대지 마라!@n빨리 위치로 가라, 굼벵이 녀석!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_999_022_2:34",
    "src_sha1": "6ad3533d0d6a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0129990222_edw03>@n아……알았다고!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_999_022_2:36",
    "src_sha1": "fb69756f3c36",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0129990222_olv02>@n너희들!@n올해 또 그런 꼴사나운 싸움을@n보이면, 가만두지 않겠다!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_999_022_2:37",
    "src_sha1": "75f9d4aec63c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "알겠습니다!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F012_999_022_2:39",
    "src_sha1": "464eec6ede67",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0129990222_edw04>@n젠장……@n이렇게 된 이상, 해 주겠어!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

@@ -4,127 +4,127 @@
   {
    "id": "srt:E05_1:12",
    "src_sha1": "6625e5bdbb35",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E051_brd01>@n그리드……그대로@n잠자코 도망쳤으면 좋았을 것을.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E05_1:14",
    "src_sha1": "e82111dae80c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E051_rgr01>@n공교롭게도 끝없는 탐욕이라서 말이야.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E05_1:15",
    "src_sha1": "e3507bd97b65",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E051_rgr02>@n네 목숨도 갖고 싶거든,@n라스.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E05_1:17",
    "src_sha1": "90fc187c48a0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "원군……인가?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E05_1:19",
    "src_sha1": "41cba9f32447",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "린 야오……맞지?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E05_1:25",
    "src_sha1": "4337f8404ee1",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~E051_lin01>@n낡은 아파트에 숨겨 줬을 때@n이후로 처음인가?@n오랜만이야, 펄만 준위.@n⊿@n",
+   "state": "draft",
+   "flag": "린이 펄만을 일부러 옛 계급 准尉로 부르고 펄만이 ‘少尉だ’로 정정하는 개그. 원문대로 준위/소위 유지"
   },
   {
    "id": "srt:E05_1:26",
    "src_sha1": "fa0989c964a4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "소위다!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E05_1:27",
    "src_sha1": "8910cd597f98",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E051_lin02>@n……당신에게는 하룻밤 재워 주고@n밥 먹여 준 은혜가 있어.@n좀 도와줄게.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E05_1:33",
    "src_sha1": "7df2e5418c2a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E051_rgr03>@n……라고는 해도, 사실은@n개인적인 집착 때문이지만!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E05_1:40",
    "src_sha1": "172d3cb59a70",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "다른 적들도 나타났나…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E05_1:42",
    "src_sha1": "115ccdf03c7d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E051_rgr04>@n미안, 이 녀석 상대하느라 벅차.@n저 녀석들 상대는 부탁한다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E05_1:54",
    "src_sha1": "486425114b68",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "!?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E05_1:57",
    "src_sha1": "2df06ef6617f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E051_rgr05>@n오오~……제법인데, 영감.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E05_1:61",
    "src_sha1": "845167195259",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "흥……지금은 그리드로군.@n도련님의 몸으로 기분 나쁜@n기운을 풍기다니……@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E05_1:63",
    "src_sha1": "f296da4e24c8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……그래서, 네놈조차 상대하기@n벅차다는 이놈은 뭐냐?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E05_1:67",
    "src_sha1": "bf1df36b0e87",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~E051_rgr06>@n킹 브래드레이다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E05_1:71",
    "src_sha1": "91bf9ee37b12",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……오오!@n직접 보는 건 처음이로군.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:E05_1:72",
    "src_sha1": "7da2e2849ee8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "이놈이 내 손녀의 팔을@n잘라 낸 놈이로군!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

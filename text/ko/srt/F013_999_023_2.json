@@ -4,22 +4,22 @@
   {
    "id": "srt:F013_999_023_2:9",
    "src_sha1": "1f74fc09b6a4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0139990232_kgi01a>@n고장 난 덩치 큰 놈들이 몇 개@n있으니까, 그걸 고쳐 주면 좋겠어.@n⊥@n<~F0139990232_kgi01b>@n여기는 시간이 되면 절약하려고@n전기를 내리니까, 빨리 끝내 줘.@n부탁한다!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F013_999_023_2:11",
    "src_sha1": "df44d8541ff3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0139990232_edw01>@n알았어, 알았어.@n식은 죽 먹기지!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F013_999_023_2:13",
    "src_sha1": "eb8e1f7c8557",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0139990232_alp01a>@n형, 너무 우쭐하다가는@n또 호되게 당한다.@n⊥@n<~F0139990232_alp01b>@n효율적으로 돌지 않으면@n시간이 모자랄지도@n모르겠네…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]
