@@ -9,11 +9,15 @@ def textures(buf):
     if buf[:4] != b"FPIX":
         raise ValueError("not an FPIX container")
     dpix, = struct.unpack_from("<I", buf, 0x20)
-    if buf[dpix:dpix + 4] != b"DPIX":
+    if buf[dpix:dpix + 4] == b"XPIX":  # single texture: no DPIX table (font8_8, route)
+        offs = [0]
+    elif buf[dpix:dpix + 4] == b"DPIX":
+        n, = struct.unpack_from("<I", buf, dpix + 8)
+        offs = struct.unpack_from(f"<{n}I", buf, dpix + 0x20)
+    else:
         raise ValueError("DPIX table not found")
-    n, = struct.unpack_from("<I", buf, dpix + 8)
     out = []
-    for off in struct.unpack_from(f"<{n}I", buf, dpix + 0x20):
+    for off in offs:
         x = dpix + off
         if buf[x:x + 4] != b"XPIX":
             raise ValueError(f"entry at {x:#x} is not XPIX")

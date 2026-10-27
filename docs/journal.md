@@ -218,3 +218,11 @@
 - `tools/gim.py`(GIM 해독), `tools/pix.py`(FPIX 컨테이너) 추가, 테스트 6개. 텍스처 15,491개(고유 4,277).
 - 이벤트 그림 파일마다 공통 UI 그림 사본이 들어 있음(하단 안내 아틀라스 527개 파일). 장소 표시는 배경 조각 텍스처의 투명 영역에 그린 흰 글자라 영역만 다시 그리면 됨. 결과와 장소 이름 목록은 `docs/graphics.md`.
 - 다른 PC에서 이어 하기 위해 작업 스크립트를 `scripts/`로, 작업 지침을 `docs/briefs/`로 옮기고, `scripts/prepare_work.py`(원본에서 work/ 재생성, 현재 파일과 바이트 동일 확인)와 `docs/handoff.md`(다음 작업 메모)를 추가.
+
+### 그림 텍스트 2차 조사 (Windows PC)
+- 새 PC에서 work/ 재구성: ISO 풀기(Bandizip), DAT000 덤프·srt_src.json 생성. EBOOT 복호화(pspdecrypt)는 아직 — eboot_names.json 없음.
+- 빠져 있던 텍스처 색인 스크립트 `scripts/gfx/gfx_index.py` 추가(해시 = GIM 바이트 SHA-1 앞 12자리, 문서의 해시와 일치). DPIX 표 없이 XPIX 하나만 든 pix 2개(MEDIA/PSP/font8_8, OBJECT/route)를 `tools/pix.py`가 읽도록 고침(테스트 추가, 96개 통과). 텍스처 15,493개(고유 4,279).
+- 장 제목: 16장(11세트, 51개 제목). 원문을 cp932 SHA-1로 `text/ko/eboot.json`과 대조 → 모두 기존 EBOOT 미션 이름 번역과 원문 일치(鋼のからだ、鋼のこころ는 그림에만 쉼표). `scripts/gfx/gfx_titles.py`.
+- 장소 표시 부제 전체(55종) 읽음. 이전에 부제가 잘려 보인 것은 시트 칸 높이 문제(`gfx_label_crops.py` 수정). 용어집에 없는 요소는 サウスシティ뿐. 개발용 「鋼の錬金術師 / RPG（仮）」 표시는 ADV 틀 파일에만 있음.
+- 3D 텍스처 1,008개: 일본어 없음(영어·독일어 간판, 숫자).
+

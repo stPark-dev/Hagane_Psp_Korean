@@ -16,3 +16,10 @@ def fpix(*gims):
 def test_textures_returns_each_gim_in_order():
     a, b = b"MIG.00.1PSP\0" + b"A" * 8, b"MIG.00.1PSP\0" + b"B" * 12
     assert pix.textures(fpix(a, b)) == [a, b]
+
+
+def test_textures_reads_a_single_xpix_without_dpix_table():
+    g = b"MIG.00.1PSP\0" + b"C" * 8
+    x = b"XPIX" + struct.pack("<I", 0x20 + len(g)) + bytes(0x18) + g
+    buf = b"FPIX" + struct.pack("<I", 0x24 + len(x)) + bytes(0x18) + struct.pack("<I", 0x24) + x
+    assert pix.textures(buf) == [g]

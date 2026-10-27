@@ -11,8 +11,9 @@
    - `7z x -owork/iso <ULJS00292 iso>`
    - pspdecrypt로 `work/iso/PSP_GAME/SYSDIR/EBOOT.BIN` → `work/eboot/EBOOT.elf`
    - `python3 scripts/prepare_work.py` → `work/dat000/`, `work/text/srt_src.json`, `work/text/eboot_names.json`(이 PC의 파일과 바이트 동일함을 확인함)
+   - Windows: 7z 대신 Bandizip `bz.exe x -o:work/iso <iso>`로 풀어도 됨. pspdecrypt는 GitHub 릴리스(John-K/pspdecrypt 1.0 windows)를 work/ext/pspdecrypt에 받아 실행. 파이썬은 `PYTHONUTF8=1`로 실행(기본 cp949 때문에 JSON 쓰기 실패).
 3. 글꼴: 저장소 옆 `../galmuri/Galmuri11-Bold.bdf`(Galmuri, OFL). 테스트 `test_galmuri_covers_ks_hangul`이 경로를 확인.
-4. 테스트: `python3 -m pytest -q`(main 95개 통과, 2026-10-27).
+4. 테스트: `python3 -m pytest -q`(main 96개 통과, 2026-10-27). Windows에서는 `python -m pytest -q --import-mode=importlib`(다른 `tests` 패키지와 이름 충돌).
 5. PPSSPP(flatpak `org.ppsspp.PPSSPP`, 설정 RemoteDebuggerOnStartup=True)로 트리 폴더를 직접 실행. 입력·캡처 도구는 `tools/ppdbg.py`, `scripts/emu/drive.py`(단계 실행), `scripts/emu/mash.py`(버튼 연타 + 10초마다 캡처). 화면 전환 직후 입력은 2초쯤 기다려야 먹힘. 버튼 이름: circle, cross, triangle, square, start, select, up/down/left/right, ltrigger, rtrigger.
 
 ## 2. 빌드
@@ -27,9 +28,9 @@
 - 알려진 오탐/승인 예외는 `docs/decisions.md` D15 표(termlint 경고 11건이 정상).
 
 ## 4. 다음 작업 (사용자 지정 순서: 1 → 2 → 3)
-1. **그림 텍스트 목록 마무리**(진행 중, `docs/graphics.md`)
-   - 남은 조사: 장 제목 텍스처 전체 목록(미션별 해시 비교), 장소 표시 부제 전체 읽기(원본 크기), 3D 텍스처 간판.
-   - 그다음 소유자에게 범위 결정 요청: A(공통 UI 아틀라스) / B(장소 표시 ~120종) / C(장 제목) / D(로고 등) 중 어디까지, 그리고 한국어 글꼴(굵은 명조 계열 OFL 후보).
+1. **그림 텍스트 목록 마무리**(조사 완료 2026-10-27, `docs/graphics.md` 2차)
+   - 장 제목 16장(51개 제목, 모두 EBOOT 미션 이름 번역과 원문 일치), 장소 표시 부제 55종, 3D 텍스처는 일본어 없음.
+   - 다음: 소유자에게 범위 결정 요청: A(공통 UI 아틀라스) / B(장소 표시 ~120종) / C(장 제목) / D(로고 등) 중 어디까지, 그리고 한국어 글꼴(굵은 명조 계열 OFL 후보).
    - 구현에 필요한 것: GIM 인코더(인덱스8 + 팔레트 + 스위즐), pix 재조립, 같은 해시 사본 일괄 교체.
 2. **실기 테스트용 ISO**
    - 지금 상태(대사 전체 + UI + 시스템 화면 한국어)로 ISO를 만들어 사용자가 실제 PSP(커스텀 펌웨어)에서 확인.
