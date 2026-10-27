@@ -46,8 +46,8 @@
   {
    "id": "srt:A051_010_2:38",
    "src_sha1": "4d90c9ff8bf1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
@@ -60,15 +60,15 @@
   {
    "id": "srt:A051_010_2:70",
    "src_sha1": "a3bcf626cf83",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "오오, 알렉스.@n마침 잘 왔다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A051_010_2:72",
    "src_sha1": "8df1d905d46a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "예.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
@@ -95,22 +95,22 @@
   {
    "id": "srt:A051_010_2:82",
    "src_sha1": "d0d2f258d218",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "예.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A051_010_2:88",
    "src_sha1": "75d8db1087bb",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "바라던 바입니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A051_010_2:94",
    "src_sha1": "bd1eb252c686",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "이럴 수가!@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
@@ -137,64 +137,64 @@
   {
    "id": "srt:A051_010_2:137",
    "src_sha1": "4e939e9718ef",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "싱은 어떨까요, 여보.@n음식이 맛있다고 들었어요.@n⊿@n",
+   "state": "draft",
+   "flag": "화자 夫人 = 암스트롱가 부인(필립의 아내)으로 판단. 대총통 부인 아님."
   },
   {
    "id": "srt:A051_010_2:144",
    "src_sha1": "1d81c0ff4ab4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "음, 그럼 그렇게 하지.@n캐슬린도 괜찮겠지?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A051_010_2:151",
    "src_sha1": "216e42ecea99",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "네, 아버님.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A051_010_2:180",
    "src_sha1": "4a98c6c9ac1f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "자……잠깐 기다리십시오.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A051_010_2:181",
    "src_sha1": "2ffd212b21a8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "봐주는 건 없다!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A051_010_2:182",
    "src_sha1": "df489f0fe341",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……이대로는@n저택이 무너지고 맙니다!@n바……밖에서 계속하지 않겠습니까!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A051_010_2:183",
    "src_sha1": "61bc443f2fef",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "음……@n⊥@n어쩔 수 없지, 나도 잔해가 된@n저택을 받아 봤자 귀찮으니까.@n⊥@n그럼 교외의 정원으로 간다!@n알렉스!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:A051_010_2:187",
    "src_sha1": "5aeb982e1158",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "오라버니, 힘내세요.@n⊿@n",
+   "state": "draft",
+   "flag": "캐슬린→알렉스 兄様: \"오라버니\" 제안(대안: 오빠, D7 お兄ちゃん=오빠)."
   },
   {
    "id": "srt:A051_010_2:191",
    "src_sha1": "e1fd72a85be8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "으으으…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]
