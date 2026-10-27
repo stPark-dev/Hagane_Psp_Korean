@@ -26,10 +26,11 @@ class Text:
     va: int
     raw: bytes
     refs: tuple
+    encoding: str = "cp932"
 
     @property
     def text(self):
-        return self.raw.decode("cp932")
+        return self.raw.decode(self.encoding)
 
     @property
     def id(self):
@@ -127,3 +128,58 @@ def apply(data, kofile, policy):
     if problems:
         raise kotext.TranslationError(problems)
     return prx.move_strings(data, strings)[0]
+
+
+UTF8_JAPANESE = re.compile("[぀-ヿ]")
+LINE_BREAKS = re.compile("\r\n")  # dialog layout; bare \n in titles may be rearranged
+
+
+def utf8_catalog(data):
+    """UTF-8 Japanese strings (system dialogs and save/install data info, drawn by the PSP system font)."""
+    p = prx.parse(data)
+    areas = [(s.addr, s.addr + s.size) for s in prx.sections(data) if s.name in STRING_SECTIONS]
+    out = []
+    for a, b in areas:
+        off0 = p.va_to_offset(a)
+        chunk = data[off0:off0 + (b - a)]
+        pos = 0
+        for raw in chunk.split(b"\0"):
+            start, pos = pos, pos + len(raw) + 1
+            if not raw or (start == 0 and off0 and data[off0 - 1] != 0):
+                continue
+            try:
+                text = raw.decode("utf-8")
+            except UnicodeDecodeError:
+                continue
+            if UTF8_JAPANESE.search(text) and not re.search("[\x00-\x09\x0b\x0c\x0e-\x1f]", text):
+                out.append(Text(a + start, raw, (), "utf-8"))
+    return out
+
+
+def utf8_template(data):
+    return {"source": "EBOOT-UTF8",
+            "entries": [{"id": f"eboot8:{t.va:#x}", "src_sha1": kotext.src_hash(t.raw), "ko": "",
+                         "state": "untranslated", "flag": ""} for t in utf8_catalog(data)]}
+
+
+def apply_utf8(data, kofile):
+    """Overwrite translated UTF-8 strings in place (prx.overwrite). Branch only (D19 addendum)."""
+    texts = {f"eboot8:{t.va:#x}": t for t in utf8_catalog(data)}
+    problems, strings = [], {}
+    for e in kofile["entries"]:
+        t = texts.get(e["id"])
+        if t is None:
+            problems.append(f"{e['id']}: not a UTF-8 catalog string"); continue
+        if e["src_sha1"] != kotext.src_hash(t.raw):
+            problems.append(f"{e['id']}: stale translation (source text changed)"); continue
+        if e["state"] not in kotext.DEV_STATES:
+            continue
+        new = e["ko"].encode("utf-8")
+        if len(new) > len(t.raw):
+            problems.append(f"{e['id']}: {len(new)} bytes, only {len(t.raw)} bytes available"); continue
+        if LINE_BREAKS.findall(t.text) != LINE_BREAKS.findall(e["ko"]):
+            problems.append(f"{e['id']}: line break sequence differs"); continue
+        strings[t.va] = new
+    if problems:
+        raise kotext.TranslationError(problems)
+    return prx.overwrite(data, strings)

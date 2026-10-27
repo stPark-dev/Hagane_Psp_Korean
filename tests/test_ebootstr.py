@@ -133,3 +133,42 @@ def test_apply_release_needs_every_entry_approved():
 def test_help_text_longer_than_four_lines_is_allowed_when_the_source_is():
     src = "@n".join(["ヘルプ"] * 6)
     assert ebootstr.check(src, "@n".join(["도움말"] * 6)) == []
+
+
+def utf8_sample():
+    pool = bytearray(4)
+    offs = []
+    for s in ("セーブデータ", "『鋼の錬金術師』のセーブデータです。\r\n情報が記録されています。", "OK"):
+        offs.append(len(pool))
+        pool += s.encode("utf-8") + b"\0"
+    pool += bytes(-len(pool) % 4)
+    return elf(bytes(pool), b"", offs), offs
+
+
+def test_utf8_catalog_finds_japanese_utf8_strings():
+    data, offs = utf8_sample()
+    assert [(t.va, t.text) for t in ebootstr.utf8_catalog(data)] == [
+        (offs[0], "セーブデータ"), (offs[1], "『鋼の錬金術師』のセーブデータです。\r\n情報が記録されています。")]
+
+
+def test_apply_utf8_overwrites_within_the_original_bytes():
+    data, offs = utf8_sample()
+    t = ebootstr.utf8_template(data)
+    t["entries"][0].update(ko="저장 데이터", state="draft")
+    out = ebootstr.apply_utf8(data, t)
+    p = prx.parse(out)
+    off = p.va_to_offset(offs[0])
+    assert out[off:out.index(b"\0", off)].decode("utf-8") == "저장 데이터"
+    assert len(out) == len(data)
+
+
+def test_apply_utf8_rejects_too_long_or_changed_line_breaks():
+    data, offs = utf8_sample()
+    t = ebootstr.utf8_template(data)
+    t["entries"][0].update(ko="저장 데이터입니다", state="draft")   # 24 bytes > 18
+    with pytest.raises(kotext.TranslationError, match="bytes"):
+        ebootstr.apply_utf8(data, t)
+    t = ebootstr.utf8_template(data)
+    t["entries"][1].update(ko="저장 데이터입니다. 정보가 기록됩니다.", state="draft")  # \r\n lost
+    with pytest.raises(kotext.TranslationError, match="line break"):
+        ebootstr.apply_utf8(data, t)

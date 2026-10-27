@@ -1,0 +1,110 @@
+{
+ "source": "EBOOT-UTF8",
+ "entries": [
+  {
+   "id": "eboot8:0x14bd20",
+   "src_sha1": "248bbe04122d",
+   "ko": "설치 데이터가 손상되었습니다.\r\n설치 데이터를 불러오지 못해\r\nUMD®에서만 불러옵니다.\r\n\r\n설치 데이터 사용을 OFF로\r\n설정했습니다.",
+   "state": "draft",
+   "flag": "D19 추가 PoC: 실기 PSP 한글 표시 확인 전까지 정식 반영 금지"
+  },
+  {
+   "id": "eboot8:0x14be1c",
+   "src_sha1": "9bd63596030a",
+   "ko": "메모리 스틱™이 들어 있지 않습니다.\r\n설치 데이터를 불러오지 못해\r\nUMD®에서만 불러옵니다.\r\n\r\n설치 데이터 사용을 OFF로\r\n설정했습니다.",
+   "state": "draft",
+   "flag": "D19 추가 PoC: 실기 PSP 한글 표시 확인 전까지 정식 반영 금지"
+  },
+  {
+   "id": "eboot8:0x14bf1c",
+   "src_sha1": "37e4497ed156",
+   "ko": "설치 데이터가 없습니다.\r\n설치 데이터를 불러오지 못해\r\nUMD®에서만 불러옵니다.\r\n\r\n설치 데이터 사용을 OFF로\r\n설정했습니다.",
+   "state": "draft",
+   "flag": "D19 추가 PoC: 실기 PSP 한글 표시 확인 전까지 정식 반영 금지"
+  },
+  {
+   "id": "eboot8:0x155428",
+   "src_sha1": "4795806d512c",
+   "ko": "강철의 연금술사\n약속의 날로",
+   "state": "draft",
+   "flag": "D19 추가 PoC: 실기 PSP 한글 표시 확인 전까지 정식 반영 금지. 바이트 부족으로 FULLMETAL ALCHEMIST 줄 생략"
+  },
+  {
+   "id": "eboot8:0x155460",
+   "src_sha1": "fa029d28682b",
+   "ko": "저장 데이터",
+   "state": "draft",
+   "flag": "D19 추가 PoC: 실기 PSP 한글 표시 확인 전까지 정식 반영 금지"
+  },
+  {
+   "id": "eboot8:0x155474",
+   "src_sha1": "607d20b9fa43",
+   "ko": "‘강철의 연금술사 FULLMETAL ALCHEMIST\r\n약속의 날로’의 저장 데이터입니다.\r\n플레이 내용, 갤러리 등의 정보가\r\n기록되어 있습니다.",
+   "state": "draft",
+   "flag": "D19 추가 PoC: 실기 PSP 한글 표시 확인 전까지 정식 반영 금지"
+  },
+  {
+   "id": "eboot8:0x179d48",
+   "src_sha1": "1780c4ed2391",
+   "ko": "‘강철의 연금술사 FULLMETAL ALCHEMIST\r\n약속의 날로’를 설치하려면\r\n300MB 이상의 빈 용량이 필요합니다.",
+   "state": "draft",
+   "flag": "D19 추가 PoC: 실기 PSP 한글 표시 확인 전까지 정식 반영 금지"
+  },
+  {
+   "id": "eboot8:0x179ddc",
+   "src_sha1": "fca96f84b2e5",
+   "ko": "기록 미디어의 빈 용량이 부족합니다.\r\n설치하려면 300MB 이상의 빈 용량이 필요합니다.\r\n필요 없는 데이터를 삭제하시겠습니까?",
+   "state": "draft",
+   "flag": "D19 추가 PoC: 실기 PSP 한글 표시 확인 전까지 정식 반영 금지"
+  },
+  {
+   "id": "eboot8:0x179e98",
+   "src_sha1": "6e49e6530cbb",
+   "ko": "메모리 스틱™이 들어 있지 않습니다.",
+   "state": "draft",
+   "flag": "D19 추가 PoC: 실기 PSP 한글 표시 확인 전까지 정식 반영 금지"
+  },
+  {
+   "id": "eboot8:0x179ed4",
+   "src_sha1": "1a17a1735328",
+   "ko": "절전 모드로 전환되어\r\n설치가 중단되었습니다.\r\n\r\n설치에 실패했습니다.",
+   "state": "draft",
+   "flag": "D19 추가 PoC: 실기 PSP 한글 표시 확인 전까지 정식 반영 금지"
+  },
+  {
+   "id": "eboot8:0x179f60",
+   "src_sha1": "26c315d4f2d9",
+   "ko": "설치가 중단되었습니다.\r\n설치에 실패했습니다.",
+   "state": "draft",
+   "flag": "D19 추가 PoC: 실기 PSP 한글 표시 확인 전까지 정식 반영 금지"
+  },
+  {
+   "id": "eboot8:0x179fbc",
+   "src_sha1": "3e80a072d77d",
+   "ko": "설치 데이터가 이미 있습니다.\r\n파일을 덮어쓰시겠습니까?",
+   "state": "draft",
+   "flag": "D19 추가 PoC: 실기 PSP 한글 표시 확인 전까지 정식 반영 금지"
+  },
+  {
+   "id": "eboot8:0x17a02c",
+   "src_sha1": "2fec9f05196f",
+   "ko": "‘강철의 연금술사\n약속의 날로’",
+   "state": "draft",
+   "flag": "D19 추가 PoC: 실기 PSP 한글 표시 확인 전까지 정식 반영 금지. 바이트 부족으로 FULLMETAL ALCHEMIST 줄 생략"
+  },
+  {
+   "id": "eboot8:0x17a06c",
+   "src_sha1": "24dca9c2da51",
+   "ko": "설치 데이터",
+   "state": "draft",
+   "flag": "D19 추가 PoC: 실기 PSP 한글 표시 확인 전까지 정식 반영 금지"
+  },
+  {
+   "id": "eboot8:0x17a088",
+   "src_sha1": "e1a6b56699d4",
+   "ko": "‘강철의 연금술사 FULLMETAL ALCHEMIST\r\n약속의 날로’의 설치 데이터입니다.\r\n불러오기 시간을 줄일 수 있습니다.",
+   "state": "draft",
+   "flag": "D19 추가 PoC: 실기 PSP 한글 표시 확인 전까지 정식 반영 금지"
+  }
+ ]
+}

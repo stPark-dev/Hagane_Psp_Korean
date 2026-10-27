@@ -81,3 +81,21 @@ def test_move_refuses_when_gap_is_too_small():
 def test_unchanged_when_nothing_moved():
     data = sample()
     assert prx.move_strings(data, {})[0] == data
+
+
+def test_overwrite_in_place_pads_with_nul_and_keeps_length():
+    data = sample()
+    p = prx.parse(data)
+    off = p.va_to_offset(0x14)
+    out = prx.overwrite(data, {0x14: b"KO"})
+    assert len(out) == len(data)
+    assert out[off:off + 4] == b"KO\0\0"          # old "CDE\0" fully replaced, NUL padded
+    assert out[:off] == data[:off] and out[off + 4:] == data[off + 4:]
+
+
+def test_overwrite_refuses_longer_text_and_non_string_starts():
+    data = sample()
+    with pytest.raises(ValueError, match="longer"):
+        prx.overwrite(data, {0x14: b"KOREA"})       # "CDE" holds 3 bytes
+    with pytest.raises(ValueError, match="start"):
+        prx.overwrite(data, {0x15: b"X"})           # inside a string

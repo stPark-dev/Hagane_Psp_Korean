@@ -177,3 +177,22 @@ def move_strings(data, strings):
         if target in moved:
             struct.pack_into("<I", out, p.va_to_offset(va), moved[target] - base)
     return bytes(out), moved
+
+
+def overwrite(data, strings):
+    """Return data with strings replaced in place: {address of a string start: new bytes without NUL}.
+
+    The new text must fit the old string's bytes; the rest is filled with NUL so
+    the terminator and everything after the old string stay as they were. Used
+    for strings that code reaches through HI16/LO16 pairs and cannot move."""
+    p = parse(data)
+    out = bytearray(data)
+    for va, new in strings.items():
+        off = p.va_to_offset(va)
+        if off == 0 or data[off - 1] != 0:
+            raise ValueError(f"{va:#x} is not the start of a string")
+        old_len = data.index(b"\0", off) - off
+        if len(new) > old_len or b"\0" in new:
+            raise ValueError(f"{va:#x}: new text is longer than the {old_len} bytes available")
+        out[off:off + old_len] = new + bytes(old_len - len(new))
+    return bytes(out)
