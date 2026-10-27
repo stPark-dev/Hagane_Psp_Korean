@@ -168,3 +168,9 @@
 - termlint 성능: 용어집이 512행을 넘자 `re` 캐시(512개)가 넘쳐 패턴을 줄마다 다시 컴파일하며 2분 넘게 걸림 → 실행마다 한 번만 컴파일하도록 고침(`termlint._compiled`). 결과 동일, 기존 테스트 9개 통과, 실행 1.4초.
 - 재검사: pytest 70 통과, termlint 경고 10(D15 표의 오탐·승인 예외), 22칸 초과 0.
 
+
+### EBOOT UI 번역 착수
+- 목록: `tools/ebootstr.catalog`가 R_MIPS_32 포인터가 가리키는 문자열 중 .rodata/.data 안에 있고, 앞 바이트가 NUL이며, cp932로 깨끗이 해독되는 일본어 문자열만 고름 → 2,137개, 36,584자. 포인터 문자열 2,334개 중 나머지는 코드·데이터가 우연히 해독된 것(.text 안, 제어 바이트·반각 가나 포함). HI16/LO16 참조 274개는 디버그 메시지라 제외.
+- 번역 파일 `text/ko/eboot.json`(id = eboot:<주소>, 원문은 저장소에 두지 않음). 검사 `ebootstr.check`: textcheck 규칙 + printf 형식(%s) + 버튼 글리프(∈ ↓ ⊇ 등) 순서 보존. 줄 폭 `line_widths`(전각 2, 반각 1)로 원문보다 넓은 줄은 플래그 필수.
+- 읽기 전용 `tools/prx.py`(parse·pointer_refs·hilo_targets·sections)만 main에 둠. 문자열 이동(EBOOT 쓰기)은 실기 검증 전까지 브랜치 poc/eboot-strings에 유지(D7).
+- 묶음: 포인터 표 순서로 EB1–EB6(420/420/378/420/361/138), 지침 `work/batches/BRIEF_EBOOT.md`.
