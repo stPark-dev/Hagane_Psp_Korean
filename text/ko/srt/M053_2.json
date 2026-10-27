@@ -4,43 +4,43 @@
   {
    "id": "srt:M053_2:13",
    "src_sha1": "066807954da3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0532_env01>@n쓰레기 같은 것들……@n한순간에 지워 주마!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M053_2:15",
    "src_sha1": "d50b60490c8a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "하……쓰레기를 얕보지 마라!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M053_2:17",
    "src_sha1": "85c3271d74d8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "뚱보라고 얕보지 마!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M053_2:19",
    "src_sha1": "29920bd123f3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "(조심하게……)@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M053_2:38",
    "src_sha1": "3e54e91b12fa",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "(메이가 깔아 준 연성진으로 놈을@n 끌어들이면 대미지를 줄 수 있을@n 거야!)@n⊿@n",
+   "state": "draft",
+   "flag": "メイちゃん → \"메이\"(호칭 생략)"
   },
   {
    "id": "srt:M053_2:41",
    "src_sha1": "66132f7d356c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0532_may01>@n(……이쪽은 준비 완료예요!)@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

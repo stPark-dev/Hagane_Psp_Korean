@@ -4,71 +4,71 @@
   {
    "id": "srt:M056_1_t:6",
    "src_sha1": "ae20f4d7ea61",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~nar140>@n노스시티의 무면허 의사에게서@n킴블리전의 상처를 치료받은 에드는@n빼앗은 차로 군의 추격을 따돌린다.@n⊿@n",
+   "state": "draft",
+   "flag": "闇医者 → '무면허 의사'(대안: 뒷골목 의사). 노스시티 신규 지명"
   },
   {
    "id": "srt:M056_1_t:9",
    "src_sha1": "f457b3d31eb3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~nar141>@n알과 합류하기 위해 에드가 점찍은@n곳은, 예전에 로이가 쓰던 센트럴@n근처의 은신처였다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M056_1_t:29",
    "src_sha1": "e486a9215686",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……여기는?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M056_1_t:30",
    "src_sha1": "172a342dab27",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "전에 써 본 적 있는 은신처야.@n센트럴에서 가깝고, 머스탱 대령과도@n연락이 되고, 숨을 수 있는 곳이지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M056_1_t:31",
    "src_sha1": "49c874a376fb",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "여기에 동생이 있다는 거지?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M056_1_t:32",
    "src_sha1": "26cb007823cd",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그래……@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M056_1_t:33",
    "src_sha1": "dafece70d570",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "난 알 수 있어.@n알이라면 반드시 여기에……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M056_1_t:43",
    "src_sha1": "cd6cccf9ddfd",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "어이……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M056_1_t:48",
    "src_sha1": "bf7882afe565",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아무도 없잖아!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M056_1_t:56",
    "src_sha1": "e3d8a081789d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아얏!?@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

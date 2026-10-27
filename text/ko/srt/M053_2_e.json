@@ -4,36 +4,36 @@
   {
    "id": "srt:M053_2_e:26",
    "src_sha1": "a956d7fcab89",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0532_env02>@n너희 같은 시시한 공격이@n먹힐 것 같아!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M053_2_e:30",
    "src_sha1": "0c897e5a5c48",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "쳇……!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M053_2_e:31",
    "src_sha1": "62c87d4aad4e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "젠장……역시 무리인가…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M053_2_e:33",
    "src_sha1": "eaff418ec6ef",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0532_env03>@n이제 단념해 줘야겠어……닥터.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M053_2_e:35",
    "src_sha1": "6b75afb265d6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "크…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

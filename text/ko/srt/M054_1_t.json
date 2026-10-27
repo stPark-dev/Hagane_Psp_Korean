@@ -4,22 +4,22 @@
   {
    "id": "srt:M054_1_t:5",
    "src_sha1": "cbf435328099",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~nar133>@n북쪽 마을 아스벡에서 엔비를@n쓰러뜨린 알과 마르코 일행은@n다가올 그날에 대비해 행동에 나선다.@n⊿@n",
+   "state": "draft",
+   "flag": "アスベック 지명 글로서리 없음: ‘아스벡’ 음역 초안. 来るべき日 ‘다가올 그날’ 초안"
   },
   {
    "id": "srt:M054_1_t:11",
    "src_sha1": "371df6019d82",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~nar134a>@n싱의 소녀 메이는 ‘현자의 돌’의@n힘을 잃은 엔비와 함께 고국으로@n돌아갔다.@n⊥@n<~nar134b>@n스카는 이슈발의 동포를@n만나기 위해 마르코와 함께@n길을 떠났다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M054_1_t:13",
    "src_sha1": "d33d4e586be1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~nar135>@n그리고 알과 윈리, 젤소, 잠파노,@n요키 일행은 국토연성진을 막기@n위해 곧장 리올로 향한다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

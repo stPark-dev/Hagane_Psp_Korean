@@ -4,50 +4,50 @@
   {
    "id": "srt:M053_4:8",
    "src_sha1": "287b18a06764",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0534_env01>@n빌어먹을 것들……각오해라!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M053_4:10",
    "src_sha1": "90b75b3dda45",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0534_may01>@n알 님, 저 녀석은 알 님한테는 손을@n못 댈 거예요! 제가 미끼가 될@n테니까, 마무리를 해 주세요!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M053_4:13",
    "src_sha1": "9ca14423e7cd",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0534_alp01>@n그……그런 위험한 일을 여자애한테 시킬@n수는 없잖아!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M053_4:15",
    "src_sha1": "ddc6409e5d72",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0534_may02>@n알 님……@n역시 저를……!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M053_4:18",
    "src_sha1": "d9e5c6819b35",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~M0534_sca01a>@n……바보 같은 소리를 할 때냐. 다만,@n메이의 말에도 일리가 있다.@n⊥@n<~M0534_sca01b>@n나와 메이가 미끼가 될 테니, 네놈은@n연금술로 공격해라.@n⊿@n",
+   "state": "draft",
+   "flag": "스카→알 貴様 \"네놈\"(M052_1:29와 같은 문제)"
   },
   {
    "id": "srt:M053_4:22",
    "src_sha1": "10c829299d35",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0534_env02>@n주절주절 떠들지 마, 쓰레기들! 뭘@n꾸며도 소용없다는 걸 가르쳐 주마!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M053_4:25",
    "src_sha1": "2ab7c414318f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0534_alp02>@n……온다!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]
