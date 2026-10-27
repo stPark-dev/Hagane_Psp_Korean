@@ -12,7 +12,7 @@ the repository and is regenerated from the user's EBOOT.
 import re
 from dataclasses import dataclass
 
-from tools import kotext, prx, textcheck
+from tools import kofont, kotext, prx, textcheck
 
 STRING_SECTIONS = (".rodata", ".data")
 JAPANESE = re.compile("[぀-ヿ一-鿿！-～]")
@@ -91,3 +91,39 @@ def check(src, ko):
         if pat.findall(src) != pat.findall(ko):
             errs.append(f"{name} sequence differs: {pat.findall(src)} != {pat.findall(ko)}")
     return errs
+
+
+def apply(data, kofile, policy):
+    """Return the EBOOT with translated strings moved in (prx.move_strings);
+    raise kotext.TranslationError on any mismatch or check failure.
+    Branch poc/eboot-strings only until verified on a real PSP (D7)."""
+    if policy not in ("dev", "release"):
+        raise ValueError(policy)
+    texts = {t.id: t for t in catalog(data)}
+    entries = {e["id"]: e for e in kofile["entries"]}
+    problems = []
+    if kofile.get("source") != "EBOOT":
+        problems.append(f"file is for {kofile.get('source')!r}, not 'EBOOT'")
+    problems += [f"{i}: missing from translation file" for i in sorted(set(texts) - set(entries))]
+    problems += [f"{i}: not a catalog string" for i in sorted(set(entries) - set(texts))]
+    strings = {}
+    for i, t in texts.items():
+        e = entries.get(i)
+        if e is None:
+            continue
+        if e["src_sha1"] != kotext.src_hash(t.raw):
+            problems.append(f"{i}: stale translation (source text changed)")
+            continue
+        if policy == "release" and (e["state"] != "approved" or e.get("flag")):
+            problems.append(f"{i}: not release eligible (state {e['state']}, flag {e.get('flag', '')!r})")
+            continue
+        if e["state"] not in kotext.DEV_STATES:
+            continue
+        errs = check(t.text, e["ko"])
+        if errs:
+            problems.extend(f"{i}: {err}" for err in errs)
+            continue
+        strings[t.va] = kofont.encode(e["ko"])
+    if problems:
+        raise kotext.TranslationError(problems)
+    return prx.move_strings(data, strings)[0]
