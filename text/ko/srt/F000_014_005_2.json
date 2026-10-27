@@ -4,36 +4,36 @@
   {
    "id": "srt:F000_014_005_2:6",
    "src_sha1": "31fd7433a3b9",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~F0000140052_roy01a>@n뭐…… 대총통께서 공인하신 일이기도@n하니, 출세를 위해서라도 이겨@n둬야겠지.@n⊥@n<~F0000140052_roy01b>@n“병은 졸속을 귀히 여긴다” 싸움은@n빨리 공격해서 승부를 내는 편이@n좋으니까. 속공으로 끝내지.@n⊿@n",
+   "state": "draft",
+   "flag": "兵は拙速を貴ぶ(손자병법) → “병은 졸속을 귀히 여긴다”로 초벌. 관용 번역 확인 필요"
   },
   {
    "id": "srt:F000_014_005_2:8",
    "src_sha1": "7def57d3d482",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0000140052_edw01>@n하! 그렇게 쉽게 이길 수 있을 것@n같아?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F000_014_005_2:11",
    "src_sha1": "746c0097bb30",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0000140052_roy02>@n내가 자네한테 질 거라고? 뭐……@n표적이 작아서 좀처럼 맞히기 어려울지도@n모르겠지만.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F000_014_005_2:14",
    "src_sha1": "b3de64caf77b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0000140052_edw02>@n작다고 하지 마!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F000_014_005_2:18",
    "src_sha1": "6307e0b5c3ec",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "자~, 두 사람의 투지가 달아오른@n참이니, 슬슬 가 보자고~!@n⊥@n레디, 파이트!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

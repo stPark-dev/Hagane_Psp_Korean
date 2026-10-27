@@ -4,442 +4,442 @@
   {
    "id": "srt:F002_001_003:9",
    "src_sha1": "2de15705ccbd",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "……감자 싹에는 중독성이 있는 솔라닌,@n알카로이드가 함유되어 있으므로 깨끗이@n제거하고……@n⊥@n",
+   "state": "draft",
+   "flag": "원문 アルカノイド는 アルカロイド 오기로 보고 알카로이드로 옮김."
   },
   {
    "id": "srt:F002_001_003:11",
    "src_sha1": "7e453877be7b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……하아. 연구서 해독 때문이라지만,@n이렇게 레시피만 계속 보니까 질리네.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:12",
    "src_sha1": "11f7e3258f5d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아하하……뭐, 질리는 기분은 나도@n알지만, 하나씩 답을 찾아가는 수밖에@n없지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:13",
    "src_sha1": "9b765a199bfc",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그건 그런데 말이야…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:14",
    "src_sha1": "d39450895999",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아, 맞다. 여기서 기분 전환도 할@n겸, 연금술의 기본을 정리해 보지@n않을래?@n⊥@n거기서 뭔가 떠오를지도 모르고.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:16",
    "src_sha1": "fd0d104eb85e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……그러자. 초심으로 돌아가 보면@n새로운 발견이 있을지도 모르니까.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:17",
    "src_sha1": "972e3e034fe7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그럼 내가 질문할 테니까, 형은 거기에@n대답해 줘.@n⊥@n간다?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:18",
    "src_sha1": "689a791b0d30",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "제1문. 연금술의 기본 원칙은?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:19",
    "src_sha1": "482da0fc69fd",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "삼위일체@n등가교환@n물물교환@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:26",
    "src_sha1": "a428fbce8e4a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "음……‘삼위일체’인가.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:39",
    "src_sha1": "57937c0efac3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "형……이런 기초 중의 기초를 틀리지@n마…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:41",
    "src_sha1": "2559731d5de8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "연금술의 기본은 ‘등가교환’이잖아?@n⊥@n“1”인 것을 “10”으로 만들 수는@n없고, “1”에서는 “1”밖에 연성할@n수 없어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:51",
    "src_sha1": "74dc825a0ff9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "정답! 뭐, 기초 중의 기초지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:54",
    "src_sha1": "3b3242aceac7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "어, 뭐였더라……‘물물교환’인가?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:67",
    "src_sha1": "57937c0efac3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "형……이런 기초 중의 기초를 틀리지@n마…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:70",
    "src_sha1": "7dffb82b5b27",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그럼 제2문. 연성을 할 때의 법칙은@n두 가지. ‘질량 보존’의 법칙과, 또@n하나는?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:71",
    "src_sha1": "a1a9a2751a0c",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "자연섭리@n자연 발생@n자연 변질@n",
+   "state": "draft",
+   "flag": "연금술 법칙 용어 신규: 自然摂理 자연섭리, 質量保存 질량 보존(정발 표기 확인 필요)."
   },
   {
    "id": "srt:F002_001_003:77",
    "src_sha1": "b6b80fe6828b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "‘자연섭리’의 법칙.@n⊥@n연금술로는 다른 속성의 것으로 변질시킬@n수 없어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:87",
    "src_sha1": "7369faf8e9f8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "정답! 그 기세야, 형.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:90",
    "src_sha1": "6c29ad531a35",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "뭐였더라……‘자연 발생’의@n법칙이었나…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:99",
    "src_sha1": "ffd03c123b50",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아니야……‘자연섭리’의 법칙이야.@n물에서 불을 만든다든가 하는, 다른@n속성의 것으로는 변질시킬 수 없어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:102",
    "src_sha1": "eb2e897aad52",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……‘자연 변질’의 법칙?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:111",
    "src_sha1": "abddd3f0eb2e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "반대야……‘자연섭리’의 법칙이야.@n물에서 불을 만든다든가 하는, 다른@n속성의 것으로는 변질시킬 수 없어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:114",
    "src_sha1": "9ea1415021b7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그럼 제3문. 연금술은 물질을@n“이해”하고, ○○해서 “재구축”한다.@n○○에 들어갈 말은?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:115",
    "src_sha1": "34b7f74d772a",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "복제@n분해@n폭쇄@n",
+   "state": "draft",
+   "flag": "爆砕 → 폭쇄(대안: 폭파). 선택지·148과 통일."
   },
   {
    "id": "srt:F002_001_003:122",
    "src_sha1": "dc4961a5746b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "으음……복제?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:131",
    "src_sha1": "ecc3db64aa03",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "늘려서 어쩌려고……. “분해”야.@n연금술은 물질을 이해・분해・재구축하는@n과학이지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:133",
    "src_sha1": "d93bb4881bee",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "‘분해’다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:143",
    "src_sha1": "458240b7f1ee",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "정답! 이해・분해・재구축이지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:145",
    "src_sha1": "7be923da55dc",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "스카는 연성 과정을 여기서 멈추고@n대상을 “분해”……즉, 파괴하고 있는@n거지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:148",
    "src_sha1": "08a86b459645",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "뭐였더라……‘폭쇄’?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:157",
    "src_sha1": "9d8643daa973",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "폭발시켜서 어쩌려고……. “분해”야.@n연금술은 물질을 이해・분해・재구축하는@n과학이지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:188",
    "src_sha1": "91bf7e3435e0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "실례하겠네, 엘릭 형제! 어떤가,@n마르코 씨의 연구서 해석은 진척되고@n있나?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:191",
    "src_sha1": "7d0d816c1f4c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아니……그게 잘 안 돼서. 그래서@n지금은 알이랑 연금술 기초를 복습하고@n있었어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:193",
    "src_sha1": "de18db9f6594",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "오오, 연금술 기초 복습이라. 기본을@n확인하는 건 숙련자에게도 중요한@n일이지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:206",
    "src_sha1": "1c1f4e2dfb8a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그런 일이라면 이 몸도 협력하겠네!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:207",
    "src_sha1": "0f50d8896ad9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아 진짜, 소령! 일부러 벗을 필요@n없으니까!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:208",
    "src_sha1": "2755f1aee3fd",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그럼 간다! 연성진과 소재에 관한@n이야기다! 연성진의 힘의 흐름이 되는@n도형은?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:209",
    "src_sha1": "e9ab47314f0c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "십자@n사각@n원@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:216",
    "src_sha1": "173b46a88051",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "시……‘십자’?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:236",
    "src_sha1": "d96715066fff",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "정답은 원이다! 한심하구나, 에드워드@n엘릭! 그러고도 국가 연금술사인가!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:239",
    "src_sha1": "17a2633b21ce",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……‘사각’이었나?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:260",
    "src_sha1": "d96715066fff",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "정답은 원이다! 한심하구나, 에드워드@n엘릭! 그러고도 국가 연금술사인가!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:263",
    "src_sha1": "a9889910ada8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "‘원’이야. 원은 힘의 순환을@n나타내고, 거기에 구축식을 그려서 힘을@n발동할 수 있게 돼.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:283",
    "src_sha1": "e6cb015cfb02",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "정답이다! 훌륭하구나, 에드워드@n엘릭!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:290",
    "src_sha1": "11393d177191",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "에드는 암스트롱에게서 정답 상품을@n받았다.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:292",
    "src_sha1": "9462006886c9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "에드는@n‘연성진 조각’을 1개 손에 넣었다!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:303",
    "src_sha1": "e5efa09b8ff8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "손에 넣은 ‘연성진 조각’의 개수가@n50개 이상이 되었다.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:307",
    "src_sha1": "f0d48f2f831c",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "에드와 알의 오토 스킬@n‘플라멜의 문장’을 습득했다!@n⊿@n",
+   "state": "draft",
+   "flag": "紋章 스킬명 신규: フラメル 플라멜의 문장(대안: 플라멜 문장)."
   },
   {
    "id": "srt:F002_001_003:312",
    "src_sha1": "0c7e62b6488e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "손에 넣은 ‘연성진 조각’의 개수가@n40개 이상이 되었다.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:315",
    "src_sha1": "bc0989dfa4b2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "알의 오토 스킬@n‘불사조의 문장’을 습득했다!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:320",
    "src_sha1": "a2147e4699c3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "손에 넣은 ‘연성진 조각’의 개수가@n30개 이상이 되었다.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:323",
    "src_sha1": "d753f4e15712",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "에드의 오토 스킬@n‘노랑새의 문장’을 습득했다!@n⊿@n",
+   "state": "draft",
+   "flag": "黄色鳥の紋章 → 노랑새의 문장(대안: 황조의 문장/노란 새의 문장)."
   },
   {
    "id": "srt:F002_001_003:328",
    "src_sha1": "b22828e5247a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "손에 넣은 ‘연성진 조각’의 개수가@n20개 이상이 되었다.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:331",
    "src_sha1": "a353f8cee14c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "알의 오토 스킬@n‘백조의 문장’을 습득했다!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:336",
    "src_sha1": "12fd0c1a76b1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "손에 넣은 ‘연성진 조각’의 개수가@n10개 이상이 되었다.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:339",
    "src_sha1": "fef3d3890e3b",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "에드의 오토 스킬@n‘흑조의 문장’을 습득했다!@n⊿@n",
+   "state": "draft",
+   "flag": "黒鳥の紋章 → 흑조의 문장(대안: 검은 새의 문장). 白鳥 백조, 不死鳥 불사조와 짝."
   },
   {
    "id": "srt:F002_001_003:348",
    "src_sha1": "fedbc3aff9a2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……이 정도면 됐나? 역시 기초는@n중요하네.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:349",
    "src_sha1": "bd05a1edd108",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "음, 무슨 일이든 기초부터다. 그리고@n나날의 꾸준한 노력, 그것이야말로 진정@n중요한 것이다!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:355",
    "src_sha1": "bd1d52cd667b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "으으……왠지 소령이 말하니까 숨@n막히네.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:361",
    "src_sha1": "d38e77c73e5c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "뭐, 이걸로 연구서 해독도 조금은@n진척되겠지. ……부디 무리는 하지@n말게, 엘릭 형제!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:362",
    "src_sha1": "16b36340ce0a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "네, 소령님.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_001_003:363",
    "src_sha1": "0d49e349a91b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……역시 숨 막혀…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

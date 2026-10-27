@@ -4,100 +4,100 @@
   {
    "id": "srt:F002_999_002_2_e:21",
    "src_sha1": "827015d26f77",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0029990022_etc01>@n……젠장!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_999_002_2_e:23",
    "src_sha1": "7d6d6d0eb635",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0029990022_alp02>@n형!@n방금 그거……!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_999_002_2_e:25",
    "src_sha1": "d4627cd2ca90",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0029990022_edw02>@n그래……@n말을 하는 합성수라니,@n마치……!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_999_002_2_e:26",
    "src_sha1": "0c2181aed184",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0029990022_knp01>@n수고하십니다, 강철의 연금술사님.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_999_002_2_e:33",
    "src_sha1": "69ffb7b02b1d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0029990022_edw03>@n……뭐야, 갑자기?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_999_002_2_e:35",
    "src_sha1": "900d2b76a9aa",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0029990022_knp02>@n주민 신고를 받고 출동했습니다.@n이 건은 이제부터 저희가 처리합니다.@n돌아가셔도 됩니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_999_002_2_e:38",
    "src_sha1": "780b0efd05ba",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0029990022_edw04>@n잠깐 기다려. 그 녀석에 관해선@n우리도 조사하고 싶은 게 있다고.@n멋대로 가져가면 곤란해.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_999_002_2_e:39",
    "src_sha1": "f3418f4b3ca8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0029990022_knp03a>@n아뇨, 저희도 곤란합니다.@n이 건은 저희 부서가@n맡고 있으니까요.@n⊥@n<~F0029990022_knp03b>@n아, 그리고 이 건에 대해서는 외부에@n발설하지 말아 주십시오.@n주민들 사이에 불안이 퍼지니까요…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_999_002_2_e:48",
    "src_sha1": "f3c9ad9507b2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0029990022_edw05>@n……뭐냐고, 대체!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_999_002_2_e:50",
    "src_sha1": "2e057022ec03",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0029990022_alp03>@n형……@n아까 그 합성수, 말했지?@n“젠장”이라고.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_999_002_2_e:52",
    "src_sha1": "a960761a403d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0029990022_edw06>@n그래……아직 그런 악마 같은@n연구를 하는 놈이 또 있다는@n얘기야.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_999_002_2_e:55",
    "src_sha1": "9b90befcdd61",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0029990022_edw07>@n젠장! 뒷맛 한번 더럽네!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_999_002_2_e:68",
    "src_sha1": "e9961932331f",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~F0099990172_alp02>@n앗!@n⊿@n",
+   "state": "draft",
+   "flag": "음성 ID가 다른 이벤트(F009) 것. 분기용 공용 대사로 보임"
   },
   {
    "id": "srt:F002_999_002_2_e:70",
    "src_sha1": "0f5af9de059d",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~F0089990152_edw09>@n나도 아직 수행이 부족하군.@n다시 마음을 다잡자!@n⊿@n",
+   "state": "draft",
+   "flag": "음성 ID가 다른 이벤트(F008) 것. 패배 등 분기용 공용 대사로 보임"
   }
  ]
 }

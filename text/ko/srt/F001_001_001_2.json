@@ -4,22 +4,22 @@
   {
    "id": "srt:F001_001_001_2:9",
    "src_sha1": "21400d141934",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0010010012_edw06>@n알, 봐주는 거 없이 간다.@n먼저 위기에 몰리는 쪽이 지는 거야.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_001_001_2:11",
    "src_sha1": "5d255e70d331",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0010010012_alp01>@n나도 진심으로 갈게.@n시간이 너무 걸리면 거기서@n멈추겠지만.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_001_001_2:13",
    "src_sha1": "bc47cf553650",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "둘 다, 다치지 마~!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

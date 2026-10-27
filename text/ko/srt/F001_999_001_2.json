@@ -4,22 +4,22 @@
   {
    "id": "srt:F001_999_001_2:9",
    "src_sha1": "69b914bf7c29",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0019990012_jy101>@n어젯밤에 술 취한 사람이 차로@n폭주해서, 거리가 엉망진창이 돼@n버렸어요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_999_001_2:17",
    "src_sha1": "feed36fb199c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0019990012_alp01>@n우와……화끈하게 부서졌네.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_999_001_2:19",
    "src_sha1": "c10cf344b162",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0019990012_edw02>@n뭐, 후딱 고쳐 볼까!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

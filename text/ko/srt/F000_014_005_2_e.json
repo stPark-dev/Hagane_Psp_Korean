@@ -4,148 +4,148 @@
   {
    "id": "srt:F000_014_005_2_e:18",
    "src_sha1": "8e49b7c29aff",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0000140052_brd01>@n거기까지!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F000_014_005_2_e:21",
    "src_sha1": "f2b85856e110",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~F0000140052_roy03>@n내 승리다, 강철의. “화나게 해서@n흐트러뜨려라” 내 도발에 넘어가@n냉정함을 잃은 게 패인이다.@n⊿@n",
+   "state": "draft",
+   "flag": "怒らせてこれを乱せ(손자병법 怒而撓之) → “화나게 해서 흐트러뜨려라”로 초벌"
   },
   {
    "id": "srt:F000_014_005_2_e:24",
    "src_sha1": "7ae4f13557e5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0000140052_edw03>@n크윽…… 젠장~.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F000_014_005_2_e:26",
    "src_sha1": "11271096c4ae",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0000140052_brd02>@n음, 훌륭하군, 훌륭해. 멋진@n싸움이었다, 머스탱 대령.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F000_014_005_2_e:28",
    "src_sha1": "e73ee889c77f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0000140052_roy04>@n옛!@n칭찬해 주셔서 영광입니다!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F000_014_005_2_e:29",
    "src_sha1": "1c1b0b039e76",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0000140052_brd03>@n그럼 모두 함께 뒷정리를 하고@n돌아가도록.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F000_014_005_2_e:32",
    "src_sha1": "2c8d248549eb",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0000140052_roy05>@n……역시 그렇습니까.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F000_014_005_2_e:35",
    "src_sha1": "b1934d107bad",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0000140052_edw04>@n어라? 휴즈 중령은?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F000_014_005_2_e:37",
    "src_sha1": "e20793f8c6e4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0000140052_roy06>@n도망쳤군…… 그 녀석.@n“삼십육계 줄행랑”인가.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F000_014_005_2_e:44",
    "src_sha1": "0454ad296f6f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0000140052_brd04>@n거기까지!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F000_014_005_2_e:46",
    "src_sha1": "830ee2024521",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0000140052_edw05>@n헤헤~엔!@n내가 이겼다, 대령!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F000_014_005_2_e:49",
    "src_sha1": "52219f7cac99",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0000140052_roy07>@n으음…… 너무 장난을 쳤나……. 좀 더@n빨리 끝냈어야 했어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F000_014_005_2_e:51",
    "src_sha1": "e42c1b1ff661",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0000140052_edw06>@n언제까지고 날 꼬맹이 취급하니까@n그렇지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F000_014_005_2_e:54",
    "src_sha1": "549dda909082",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0000140052_roy08>@n흥…… 제법 말하게 됐군. 그렇다면@n앞으로는 내게 좀 더 도움이 되어@n줘야겠어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F000_014_005_2_e:58",
    "src_sha1": "381cb126ec52",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0000140052_edw07>@n내가 왜 대령한테 도움이 돼야 하는데!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F000_014_005_2_e:62",
    "src_sha1": "f8ae4b7b9754",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0000140052_brd05>@n음, 훌륭하군, 훌륭해. 멋진@n싸움이었다, 에드워드 엘릭 군.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F000_014_005_2_e:64",
    "src_sha1": "2f3c04fa9009",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0000140052_edw08>@n네, 감사합니다!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F000_014_005_2_e:65",
    "src_sha1": "b901e44ab321",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0000140052_brd06>@n그럼 모두 함께 뒷정리를 하고@n돌아가도록.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F000_014_005_2_e:71",
    "src_sha1": "f9d2c4bc158d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0000140052_roy09>@n……역시 그렇습니까.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F000_014_005_2_e:73",
    "src_sha1": "5bbf8afbeb08",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0000140052_edw09>@n어라? 휴즈 중령은?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F000_014_005_2_e:75",
    "src_sha1": "780e37a58cce",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0000140052_roy10>@n도망쳤군…… 그 녀석.@n“삼십육계 줄행랑”인가.@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

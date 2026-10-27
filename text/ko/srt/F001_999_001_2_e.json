@@ -4,50 +4,50 @@
   {
    "id": "srt:F001_999_001_2_e:17",
    "src_sha1": "16c6cf61edff",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0019990012_jy102a>@n고마워요! 당신들, 정말 좋은@n사람들이네요.@n⊥@n<~F0019990012_jy102b>@n국가 연금술사라고 하면 좀 더 거만한@n사람들인 줄로만 알았어요!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_999_001_2_e:19",
    "src_sha1": "fecd8b357011",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0019990012_alp02a>@n“연금술사여, 대중을 위해 있으라”@n우리 스승님께 그렇게 배웠거든요.@n⊥@n<~F0019990012_alp02b>@n뭔가 곤란한 일이 있으면 언제든 우리@n형제한테 말씀하세요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_999_001_2_e:21",
    "src_sha1": "0fd0d2467770",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0019990012_jy103>@n네! 도와준 동생분도 정말@n고마웠어요!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_999_001_2_e:23",
    "src_sha1": "08d362348752",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0019990012_edw03>@n동생분……?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_999_001_2_e:29",
    "src_sha1": "1efa031f2664",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0019990012_edw04>@n난 동생이 아니야! 형이라고!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_999_001_2_e:40",
    "src_sha1": "a3fe07757372",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~F0099990172_edw06>@n윽! 아차…….@n⊿@n",
+   "state": "draft",
+   "flag": "“げ！しまった”의 대상 불명(화가 나서 고친 건물을 다시 부순 연출로 추정). 음성은 다른 이벤트용(F0099990172) 재사용."
   },
   {
    "id": "srt:F001_999_001_2_e:42",
    "src_sha1": "fcd401b9a01c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~DR001_alp09>@n정말! 이 바보 형!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

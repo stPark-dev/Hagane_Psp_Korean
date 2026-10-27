@@ -4,281 +4,281 @@
   {
    "id": "srt:F001_014_001:12",
    "src_sha1": "ef2e03ab50b8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "여어, 대령.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:18",
    "src_sha1": "ac59002296f3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……무슨 볼일인가, 강철의 연금술사.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:24",
    "src_sha1": "a7779b3531a6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "터커 씨 집에서 하던 작업이 좀@n막혀서, 기분 전환 겸 놀리러 왔어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:26",
    "src_sha1": "a734510541bf",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "나는 바쁘네만……젊은 여성 이외의 약속@n없는 방문은 받지 않는다네. 볼일이@n없으면 돌아가게.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:27",
    "src_sha1": "07c48bcbc85b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "섭섭한 소리 하지 마~. 나랑 대령@n사이에.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:29",
    "src_sha1": "5c0e6af6565a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……그나저나 서류 엄청 많네. 뭐 큰@n사건이라도 있었나?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:30",
    "src_sha1": "0fe50ebb9a3d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……자네도 국가 연금술사잖나? 이@n시기에 뭐가 있는지 잊은 건 아니겠지?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:32",
    "src_sha1": "692bb2a37d79",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "뭐……?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:33",
    "src_sha1": "d02e8a3a6c18",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아……국가 연금술사 자격 심사 시기?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:39",
    "src_sha1": "d167535bd6a1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "앗……?!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:40",
    "src_sha1": "5917585542e1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……잊고 있었던 모양이군. 심사 기간이@n지나면 이쪽도 절차가 몹시 번거로우니,@n일찌감치 끝내 두게.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:46",
    "src_sha1": "eff94db288cf",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "으……알았어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:47",
    "src_sha1": "4b1e3c1fd8d3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그렇구나……벌써 올해 심사 시기네.@n형이 국가 자격을 딴 게 바로 얼마 전@n같은데.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:49",
    "src_sha1": "aecd0e26a7fb",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아아……그렇군.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:51",
    "src_sha1": "9dcb048f7acb",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "……그게 5년 전이었던가. 리젠블에@n연금술에 뛰어난 형제가 있다는 말을@n듣고 찾아간 것은.@n⊿@n",
+   "state": "draft",
+   "flag": "“5년 전”은 원문 그대로(작중 연표와 다를 수 있음)."
   },
   {
    "id": "srt:F001_014_001:63",
    "src_sha1": "799e2797cc54",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "찾아간 엘릭 가에서 인체연성의 흔적을@n봤을 때는 아연실색했지만……@n⊥@n그걸 해낸 게 11살 소년이었다는 걸@n알았을 땐 더 놀랐지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:69",
    "src_sha1": "033ae7a9a99f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "대령이 고함치면서 할머니 집에@n쳐들어왔었지…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:70",
    "src_sha1": "89d9f4797c89",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "인체연성은 연금술사에게 최대의 금기로@n여겨지니까.@n⊥@n그걸 나이도 어린 소년이 저질렀다면@n고함도 치게 되지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:71",
    "src_sha1": "9c11ba98fd54",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그 뒤에 대령님이 우리한테 국가@n연금술사 제도를 알려 주셨지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:77",
    "src_sha1": "f565dfd81e99",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "고액의 연구비 지급, 특수 문헌 열람.@n국가 연구 기관이나 그 밖의 시설@n이용……@n⊥@n국가 연금술사의 특권이 있으면,@n일반인은 도저히 손이 닿지 않는 연구가@n가능해져.@n⊥@n우리 몸을 원래대로 되돌릴 방법도 찾을@n수 있을지 몰라.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:78",
    "src_sha1": "4f70e4288706",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그 대신 군의 요청에는 절대복종. 사람@n죽이는 일조차 마다하지 않는 군의 개로@n전락할지도 몰라.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:85",
    "src_sha1": "affe49433192",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……11살짜리 애한테 떠넘기기엔 좀@n과한 자격이지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:87",
    "src_sha1": "dc0347567570",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "특권도 그 대가도 전부 이해한 상태에서@n이 길을 택한 건, 다른 누구도 아닌@n자네 자신이잖나?@n⊥@n뭐, 그때 불이 붙은 자네의 눈을@n보고, 자네가 날 찾아오리라 확신하긴@n했지만.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:88",
    "src_sha1": "f58e0599cab1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "나도 알도, 패배자인 채로 끝날 수는@n없었으니까.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:90",
    "src_sha1": "5a2f1dde98bf",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……지금 생각하면 대령한테 놀아난@n것뿐이었는지도 모르지만.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:96",
    "src_sha1": "9411420c8e82",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "대령님 일행이 돌아간 뒤, 형은@n오토메일 수술을 받고 강철의 팔다리를@n얻었어.@n⊥@n재활에 3년 걸릴 걸 피나는 노력으로@n1년 만에 자유롭게 움직일 수 있게@n됐지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:97",
    "src_sha1": "d65fda296770",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……알의 몸을 되찾기 위해서라면, 그런@n노력쯤 아무것도 아니야.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:103",
    "src_sha1": "2934c31758e4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그리고 브래드레이 대총통이 직접@n주관하는 국가시험을 치러 합격했지.@n⊥@n받은 이명은 ‘강철의 연금술사’. 사상@n최연소 국가 연금술사의 탄생이다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:114",
    "src_sha1": "5fa82a2da2a4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……추천한 내 공적도 되었고, 대총통께@n칭찬의 말씀도 들었지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:121",
    "src_sha1": "72154945e51d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……왠지 속은 기분이란 말이지.@n대령한테는.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:122",
    "src_sha1": "12412087aaa8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "하하하. 뭐, 앞으로도 날 위해 열심히@n해 주게.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:128",
    "src_sha1": "6d5cc28c8ac1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "크윽, 열받는 말투네!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:129",
    "src_sha1": "8bc7216f2666",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……아, 형. 슬슬 돌아가자. 시간 꽤@n지났어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:135",
    "src_sha1": "bb86148a5f7c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아차! 벌써 시간이 이렇게 됐나.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:137",
    "src_sha1": "4c46329dab2e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "일하시는데 실례했습니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:139",
    "src_sha1": "0da6deac15a7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아아, 자네들. 최근 이 근방에서@n수상한 자를 봤다는 목격 정보가 많이@n들어오고 있네.@n⊥@n체격이 좋은 남자로, 국가 연금술사를@n노린다는 소문도 있어. 조심하게.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:141",
    "src_sha1": "024a7a9514a8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그럼 대령도 조심해야겠네. 비 오는@n날엔 쓸모없으니까!@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:143",
    "src_sha1": "ad41065770c3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그럼 간다!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:165",
    "src_sha1": "b1ddb1a304d0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "뭣……!@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_014_001:167",
    "src_sha1": "342a5dab599f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……참 나. 그때 붙은 불꽃은 아직@n꺼지지 않은 모양이군, 강철의.@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

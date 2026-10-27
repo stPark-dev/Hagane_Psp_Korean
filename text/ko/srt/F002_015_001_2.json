@@ -4,29 +4,29 @@
   {
    "id": "srt:F002_015_001_2:14",
    "src_sha1": "18c97de993fa",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0020150012_arm01>@n그럼 이 몸과 자네들 둘,@n어느 쪽이 더 많은 조각상을 복구하는지@n승부하기로 하자.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_015_001_2:17",
    "src_sha1": "76b98380f88c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0020150012_alp01>@n어느새 승부가 돼 버렸어…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_015_001_2:20",
    "src_sha1": "10b1baad3cc1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0020150012_edw01>@n……포기해, 알.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F002_015_001_2:21",
    "src_sha1": "6e932a15be1c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0020150012_edw02>@n뭐, 센스도 스피드도 내가@n최고라는 걸 보여 주겠어!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

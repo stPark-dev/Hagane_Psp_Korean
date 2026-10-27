@@ -4,169 +4,169 @@
   {
    "id": "srt:F001_011_001:11",
    "src_sha1": "bbdc628030a6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……음, 이걸로 필요한@n장보기는 다 끝났지?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_011_001:12",
    "src_sha1": "3410a3d40474",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그래. 얼른 터커 씨 집으로@n돌아가서 조사하던 거 마저 하자.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_011_001:18",
    "src_sha1": "b31a7d6576df",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "니나랑 알렉산더도@n기다리고 있으니까.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_011_001:19",
    "src_sha1": "7c4aec4bc21d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "응? 저기 저 사람……@n호크아이 중위 아냐?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_011_001:25",
    "src_sha1": "c6481e53c69f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "어머, 에드워드 군, 알폰스 군.@n조사는 잘 돼 가요?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_011_001:26",
    "src_sha1": "103b88de60c5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "응, 덕분에 그럭저럭.@n중위는 이 시간에 웬일이야?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_011_001:28",
    "src_sha1": "5acc2bd22373",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "외근 나갔다 돌아가는 길이에요.@n시내를 지나는 김에@n장을 좀 봤어요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_011_001:30",
    "src_sha1": "0288f612bb9f",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "어라? 중위님이 들고 있는 거,@n혹시 개 사료예요?@n……그럼, 개를 키우세요?@n⊿@n",
+   "state": "draft",
+   "flag": "알→호크아이: 원문은 반말체(飼ってるの？ 등)지만 기존 초벌의 알→호크아이 해요체(중위님)에 맞춤. 이 이벤트 전체 같음"
   },
   {
    "id": "srt:F001_011_001:32",
    "src_sha1": "0d2e0cb67dd5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "네, 요즘 키우기 시작했어요.@n아직 작지만@n꽤 영리한 아이예요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_011_001:33",
    "src_sha1": "d70c5c61ea05",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "헤에.@n어떤 개야?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_011_001:34",
    "src_sha1": "e308fea15afa",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "전에 찍은 사진이라도 괜찮다면.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_011_001:46",
    "src_sha1": "0017ffd693bc",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "와, 귀여워요.@n중위님이 애완동물을 키우다니@n왠지 의외네요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_011_001:48",
    "src_sha1": "aaf2f59fa162",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "이런 일을 하다 보니 집을 비울 때도@n많아서, 애완동물을 키우게 될 줄은@n생각도 못 했지만요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_011_001:56",
    "src_sha1": "0b7823dacb84",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "키울 생각은 없었다니,@n뭔가 키우게 된 이유가 있었어?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_011_001:58",
    "src_sha1": "5c6bf951c3ef",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "원래는 휴리 상사가@n주워 온 강아지였는데,@n정작 본인은 기숙사라 안 된다고 하고……@n⊥@n펄만 준위도 기숙사에 살고,@n브레다 소위는 개를 질색하고……@n⊥@n하보크 소위는 한술 더 떠서@n“볶아 먹으면 맛있다더라”@n같은 소리나 하고……@n⊥@n대령은 대령대로@n개를 노예인지 뭔지로 착각하고…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_011_001:64",
    "src_sha1": "4d49c9210518",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "중위도 고생이 많겠다…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_011_001:66",
    "src_sha1": "b7b9c7a733ea",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "다들 믿음직하지 못해서@n할 수 없이 내가 맡았어요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_011_001:72",
    "src_sha1": "4bf0044f18a2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그래도 키워 보니까 귀엽죠?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_011_001:74",
    "src_sha1": "13debdbdec2f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "네, 그렇죠.@n……어머, 벌써 시간이 이렇게 됐네.@n난 이만 가 볼게요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_011_001:85",
    "src_sha1": "0140e9db5128",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아, 마지막으로!@n그 개 이름이 뭐야?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_011_001:86",
    "src_sha1": "3fa449389990",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "‘검은 질풍’이에요.@n좋은 이름이죠? 그럼, 또 봐요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_011_001:94",
    "src_sha1": "ee4ffadd6413",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "어……@n거, 검은……?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_011_001:95",
    "src_sha1": "5558ca18f324",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……형.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F001_011_001:101",
    "src_sha1": "efc71708d822",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……그래.@n중위, 작명 센스 없네…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]
