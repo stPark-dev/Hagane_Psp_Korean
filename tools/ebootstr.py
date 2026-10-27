@@ -95,7 +95,9 @@ def check(src, ko):
 
 
 def apply(data, kofile, policy):
-    """Return the EBOOT with translated strings moved in (prx.move_strings);
+    """Return the EBOOT with translated strings written in: in place when the
+    Korean fits the original bytes (prx.overwrite), otherwise moved after bss
+    (prx.move_strings);
     raise kotext.TranslationError on any mismatch or check failure.
     Branch poc/eboot-strings only until verified on a real PSP (D7)."""
     if policy not in ("dev", "release"):
@@ -127,7 +129,10 @@ def apply(data, kofile, policy):
         strings[t.va] = kofont.encode(e["ko"])
     if problems:
         raise kotext.TranslationError(problems)
-    return prx.move_strings(data, strings)[0]
+    raw = {t.va: t.raw for t in texts.values()}
+    fits = {va: b for va, b in strings.items() if len(b) <= len(raw[va])}
+    longer = {va: b for va, b in strings.items() if va not in fits}
+    return prx.move_strings(prx.overwrite(data, fits), longer)[0]
 
 
 UTF8_JAPANESE = re.compile("[぀-ヿ]")

@@ -172,3 +172,13 @@ def test_apply_utf8_rejects_too_long_or_changed_line_breaks():
     t["entries"][1].update(ko="저장 데이터입니다. 정보가 기록됩니다.", state="draft")  # \r\n lost
     with pytest.raises(kotext.TranslationError, match="line break"):
         ebootstr.apply_utf8(data, t)
+
+
+def test_apply_overwrites_in_place_when_the_korean_fits():
+    data, offs = sample(gap=0x100)
+    out = ebootstr.apply(data, translated(data, {f"eboot:{offs[0]:#x}": "적"}), policy="dev")
+    p = prx.parse(out)
+    assert prx.pointer_refs(p, out) == prx.pointer_refs(prx.parse(data), data)  # nothing repointed
+    assert p.loads[-1].filesz == prx.parse(data).loads[-1].filesz                # nothing appended
+    off = p.va_to_offset(offs[0])
+    assert out[off:out.index(b"\0", off)] == kofont.encode("적")
