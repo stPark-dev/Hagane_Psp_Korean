@@ -4,36 +4,36 @@
   {
    "id": "srt:M048_1_t:5",
    "src_sha1": "e69076a8c428",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~nar118>@n킴블리의 손에 의해 윈리를@n인질로 잡힌 채 브릭스로@n불려 오게 된 에드와 알.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M048_1_t:11",
    "src_sha1": "3bb8c7775f9b",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~nar119a>@n킴블리는 에드에게 ‘현자의 돌’과@n맞바꾸어 “브릭스에 ‘피의 문장’을@n새겨라”라고 명령한다.@n⊥@n<~nar119b>@n인질을 잡혀 거역할 수 없는@n에드는 이를 받아들이고, 진실을@n윈리에게 털어놓는 것이었다.@n⊿@n",
+   "state": "draft",
+   "flag": "血の紋 → ‘피의 문장’(용어집 제안)"
   },
   {
    "id": "srt:M048_1_t:17",
    "src_sha1": "6225f8596f36",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~nar120a>@n한편, 센트럴에서는@n머스탱 대령이 정보 수집에 힘쓰고,@n호크아이는 새로운 적의@n표적이 되어 있었다.@n⊥@n<~nar120b>@n셀림은 호문쿨루스였던 것이다.@n그 모습은 브릭스 병사를 습격한@n것과 꼭 닮아 있었다…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M048_1_t:23",
    "src_sha1": "4b53f846624c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~nar121>@n그리고 마침내 스카와 합류한@n마르코와 메이. 은신처에서 쫓겨난@n일행은 폐광 ‘바즈쿨’로 도망친다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M048_1_t:28",
    "src_sha1": "1d8ca68a3819",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~nar122>@n온갖 사람들의 생각과 책략이@n뒤얽히는 가운데, 북쪽 대지를 무대로@n사태는 크게, 그리고 급속히@n움직이기 시작한다――.@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

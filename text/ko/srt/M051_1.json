@@ -4,267 +4,267 @@
   {
    "id": "srt:M051_1:11",
    "src_sha1": "4d90c9ff8bf1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:12",
    "src_sha1": "4d90c9ff8bf1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:30",
    "src_sha1": "e95ba4d984b1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "(저기, 에드워드 군.@n 이거, 움직이기 힘들어)@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:32",
    "src_sha1": "fd971dc7d916",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "(그건 어떻게 좀 부탁해, 믹 씨.@n 킴블리한테 들키지만 않으면@n 되니까, 잘 얼버무려 줘)@n⊿@n",
+   "state": "draft",
+   "flag": "ミック 음역 \"믹\"(용어집 없음). 알 대신 갑옷을 쓴 대역으로 보임"
   },
   {
    "id": "srt:M051_1:33",
    "src_sha1": "41a804d7a559",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "(으으으……)@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:46",
    "src_sha1": "10355626c902",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "3반, 4반, 전원 모였군.@n좋아, 각자 담당 지구의 수색을@n시작하도록.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:47",
    "src_sha1": "3e4cc8b9a42b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "우리는 단독으로 수색하러 나가겠습니다.@n당신들 부하는 믿을 수가@n없으니까요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:56",
    "src_sha1": "59c5645eb8a9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "쳇……@n놈, 노리고 있다는 걸 눈치챘나.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:58",
    "src_sha1": "7c083dbe1a92",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "킴블리는 어디를 수색하러@n나간다고 했지?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:59",
    "src_sha1": "4488819cb66e",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "시가지 중심에 커다란 수직갱이@n있는데, 거기로 들어가서 갱도를@n조사한답니다.@n⊿@n",
+   "state": "draft",
+   "flag": "竪坑 → \"수직갱\"(신규 용어, 제안)"
   },
   {
    "id": "srt:M051_1:60",
    "src_sha1": "01bdefbff7e3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "좋아, 먼저 가서 수직갱 근처에@n저격 위치를 확보한다.@n저격반에 준비시켜라!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:61",
    "src_sha1": "21a89ec7aa4c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "옛!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:64",
    "src_sha1": "4d90c9ff8bf1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:76",
    "src_sha1": "5b9847303557",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "당신들.@n우선 갱도 입구를 찾으세요.@n발자국이 여럿 있으면 틀림없습니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:77",
    "src_sha1": "8df1d905d46a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "예.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:78",
    "src_sha1": "2ca9e922cffa",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "알겠습니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:84",
    "src_sha1": "b14ed8c79ad6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……되겠나?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:85",
    "src_sha1": "50135f30bef5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "예, 이 거리라면……@n⊥@n아……@n에드워드 군이.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:86",
    "src_sha1": "d43988656ef4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "뭐라고?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:105",
    "src_sha1": "a9d30d5e9bb0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……킴블리. 갱도를 조사할 거면@n브릭스 병사한테 맡기는 게 낫지 않아?@n⊥@n안은 꽤 복잡하게 얽혀 있는 것 같고,@n익숙하지 않은 녀석이 찾아봤자……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:106",
    "src_sha1": "10b7c73608f0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "당신이 일부러 말리러 왔다는 건,@n여기가 정답이라는 거군요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:108",
    "src_sha1": "badfd7894926",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "무슨 소리야?@n난 빨리 스카를……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:109",
    "src_sha1": "96d32d4a9cde",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아니면 저격수를 배치할 때까지@n시간을 버는 겁니까?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:115",
    "src_sha1": "8943c5d7326d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "!!@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:117",
    "src_sha1": "bd291fd85ce7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……역시 눈치채고 있었나.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:118",
    "src_sha1": "6e16e76ec13e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "이렇게 주위에 살기가 가득하면@n눈치챕니다. 괜히 이슈발 내란에서@n살아남은 게 아니랍니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:122",
    "src_sha1": "b2894e48be80",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "킴블리만 노릴 수 있겠나?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:123",
    "src_sha1": "c154ae54d936",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "예.@n이 거리라면……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:126",
    "src_sha1": "0031b1c6433f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "알고 있다면, 항복해 주지 않겠어?@n쓸데없는 살생은 하고 싶지 않아.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:127",
    "src_sha1": "43587d839b1a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……무르군요, 강철의 연금술사.@n적에게 자비를 베풀다니. 게다가@n무른 점이 하나 더 있습니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:134",
    "src_sha1": "229db87d9f5b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……제 힘을 너무 얕보셨군요!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:148",
    "src_sha1": "4586b99e7e45",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:161",
    "src_sha1": "1fc13c33a728",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……큭!@n눈을 날려서……눈가림인가!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:165",
    "src_sha1": "813d9d6616d3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……젠장!@n거기 서, 킴블리!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:168",
    "src_sha1": "95cfbb82e8ba",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "강철의!@n무슨 일이 일어나고 있나!?@n어디냐, 대답해라!!@n⊥@n저격은 실패했다!@n이 눈보라로는 아무것도 안 보인다!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:169",
    "src_sha1": "0038b16ed97a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "마일즈 소령, 난@n킴블리를 쫓아서 수직갱에 들어갈게!@n⊥@n눈보라 속으로 들어오지 마!@n아마 놈들, 함정을 쳐 놨을 거야!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:170",
    "src_sha1": "5a7931d607d9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "무리하지 마라, 강철의!@n시야가 회복되는 대로@n우리도 뒤따르겠다!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M051_1:171",
    "src_sha1": "8a7b6d35958e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그래!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

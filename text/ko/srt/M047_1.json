@@ -4,43 +4,43 @@
   {
    "id": "srt:M047_1:23",
    "src_sha1": "640538000efa",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "죽였다고!?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:24",
    "src_sha1": "205f79900028",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "레이븐 중장을!?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:25",
    "src_sha1": "8db455a21a6a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그래.@n그럼, 분명히 전했다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:33",
    "src_sha1": "07c51a8ae780",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "잠깐 기다려!@n우린 계속 이대로냐고!@n대체 언제 나갈 수 있는 건데!?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:34",
    "src_sha1": "a1c858893ad6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "글쎄다, 소장님한테 물어봐.@n그럼 간다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:41",
    "src_sha1": "e548f6054271",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "젠장~…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
@@ -60,8 +60,8 @@
   {
    "id": "srt:M047_1:51",
    "src_sha1": "bcebe1d99af2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "응?@n또 누가 왔나…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
@@ -109,8 +109,8 @@
   {
    "id": "srt:M047_1:77",
    "src_sha1": "4d90c9ff8bf1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
@@ -130,8 +130,8 @@
   {
    "id": "srt:M047_1:81",
    "src_sha1": "acc8fe72f30c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "손님?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
@@ -144,596 +144,596 @@
   {
    "id": "srt:M047_1:101",
    "src_sha1": "3f37ac6de9a7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……아.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:103",
    "src_sha1": "f54b40cfaf31",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:114",
    "src_sha1": "3170527e9014",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "이 바보야아아!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:119",
    "src_sha1": "9d96a9402874",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "왜 온 거야아!?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:125",
    "src_sha1": "d26ac4d38ef8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "뭐!?@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:126",
    "src_sha1": "7d8aaf56bad3",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "뭐, 뭐냐니……@n북쪽 지방용 오토메일로@n바꿔 달아야 하잖아!?@n⊿@n",
+   "state": "draft",
+   "flag": "北国用 → \"북쪽 지방용\"(M044_1:58 北国 \"북쪽 나라\"와 비교 검수), 寒冷地用은 \"한랭지용\"으로 구분"
   },
   {
    "id": "srt:M047_1:127",
    "src_sha1": "d62036055793",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아무도 안 불렀잖아!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:133",
    "src_sha1": "3c46424bc8dd",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그게 무슨 말이야! 걱정했단 말이야!@n군 사람이 연락해 줘서……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:140",
    "src_sha1": "2174c8d7eb6f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "군이……?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:141",
    "src_sha1": "2f58d7065052",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그보다, 왜 감옥에 갇혀 있는 거야!?@n무슨 사고를 친 건데!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:148",
    "src_sha1": "74c0475b4407",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "자자, 진정하세요, 여러분.@n감옥에 있는 것도 단순한 착오라서@n곧 나오실 수 있으니 안심하십시오.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:150",
    "src_sha1": "aeb1d7ca342d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:151",
    "src_sha1": "01b8da802832",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "듣자 하니 강철의 연금술사님은@n북쪽 지방용 오토메일로 교체하지@n않으셨다더군요.@n⊥@n그 얘기를 들은 대총통께서@n이렇게 록벨 양을@n불러 주신 겁니다.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:153",
    "src_sha1": "5ffed48d1665",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "두 분 모두……대총통 각하께서@n무척 걱정하고 계셨답니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:159",
    "src_sha1": "19867712884f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "크……!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:179",
    "src_sha1": "c7e1c714d13a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "정말이지……@n북쪽에 갈 거면 한마디쯤은@n말을 하라고…….@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:180",
    "src_sha1": "77349d2a1ed4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……자, 다 됐어.@n그럼 움직여 봐.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:194",
    "src_sha1": "631c1084bff3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "오……가볍다!@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:196",
    "src_sha1": "8ec233f3e7eb",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……북쪽 지방용 오토메일은@n이렇게 가벼운데 강도는 괜찮은 거야?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:197",
    "src_sha1": "5d09aeb53e63",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "응. 전 거랑 비교하면 전체@n강도는 떨어지지만, 중요한 부분은@n보강해 뒀어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:211",
    "src_sha1": "d281bfc9ebfc",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "음?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:213",
    "src_sha1": "0b48160a282c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "어?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:214",
    "src_sha1": "545e689c2737",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "네놈, 왜 감옥에서 나와 있지?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:220",
    "src_sha1": "e670beabcb5f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "글쎄.@n뭐, 이게 국가 연금술사의 힘이랄까?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:221",
    "src_sha1": "fb1b68d1d8ee",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "흥!@n이제야 한랭지용으로 교체냐.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:232",
    "src_sha1": "93272c35f9cd",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "우와, 그거 경전투용 M1910!?@n손톱 끝만 강화돼 있네……혹시@n다이아 소재!? 굉장해!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:239",
    "src_sha1": "c2be6af9388d",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "오냐, M1910 개량형 매드베어 G다!@n⊥@n",
+   "state": "draft",
+   "flag": "マッドベアＧ → \"매드베어 G\" 음역 제안(신규 고유명)"
   },
   {
    "id": "srt:M047_1:241",
    "src_sha1": "62acea2d4cef",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……그래서, 이 귀여운 아가씨는 누구냐?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:243",
    "src_sha1": "33a5d59481a4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아……저는 에드의 오토메일 기술자@n윈리 록벨이라고 해요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:244",
    "src_sha1": "69a2624b049a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그렇구나~,@n네가 강철의 연금술사 전속 정비사구나.@n괜찮으면 내 작업장 구경할래?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:250",
    "src_sha1": "0ffecf3270a4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "꺄아♪@n보여 주세요~♪@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:252",
    "src_sha1": "26dddef49372",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "야!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:254",
    "src_sha1": "9abb8002a5ef",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "왜?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:255",
    "src_sha1": "658344a7c3ad",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아니……너무 들떠서@n그 근처 얼쩡거리지 마라.@n여기 안은 이것저것 위험하니까.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:257",
    "src_sha1": "015a5338ddc2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "응, 알았어.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:259",
    "src_sha1": "28cddb8a94cd",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "헤헤, 이번에 출장 온 김에@n한랭지용 오토메일 노하우도@n공부할 생각으로 왔거든.@n⊥@n북쪽 지방 기술을 직접 볼 기회는@n좀처럼 없잖아~♪@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:279",
    "src_sha1": "4d90c9ff8bf1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:280",
    "src_sha1": "724d6d20d5b4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……부모님을 닮아 일에 열심이시군요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:287",
    "src_sha1": "9abee6d9c4b9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "자, 윈리 씨 덕분에@n무사히 교체도 끝났으니,@n이걸로 저도 안심입니다.@n⊥@n……일 얘기를 하죠,@n강철의 연금술사님.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:288",
    "src_sha1": "4d90c9ff8bf1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:306",
    "src_sha1": "b85d8a8342af",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "얘기 전에……왜 알은@n감옥에서 안 꺼내 주는 거야.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:307",
    "src_sha1": "6c6107c82e18",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "때가 되면 꺼내 드리지요.@n지금은 아직 안 됩니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:309",
    "src_sha1": "ea9052e18805",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "(우리를 함께 움직이지 못하게@n 할 셈인가……경계하고 있군.@n 윈리도 있고……)@n⊥@n(서두르지 마. 지금은 기회를@n 노리는 수밖에 없어……)@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:311",
    "src_sha1": "e910c5a750c3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……그래서, 일이라는 건@n무슨 얘기야?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:312",
    "src_sha1": "b1fc95b0462b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "무슨 얘기고 뭐고, 국가 연금술사로서@n일하라는 겁니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:314",
    "src_sha1": "0524492e3f4e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "거절한다……고 해 봤자@n어차피 안 통하겠지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:315",
    "src_sha1": "3473d3561a72",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "네, 대총통의 지시는 3가지.@n참고로 전부 저의 동행이 전제입니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:317",
    "src_sha1": "fb00a6cb7800",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "우선 첫째.@n이 부근으로 도망쳐 들어왔다고 보이는@n스카의 수색.@n⊥@n찾기만 하면 됩니다.@n뒤처리는 제 일이죠.@n⊥@n둘째……@n마찬가지로 도주 중일 가능성이 있는@n닥터 마르코의 수색.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:323",
    "src_sha1": "33c947d737fb",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "닥터 마르코가 스카랑!?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:324",
    "src_sha1": "def566ecb22d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "이것도 찾으면 나머지는 제 일입니다.@n……그리고 셋째.@n⊥@n이 브릭스에……@n“피의 문장”을 새기는 것.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:326",
    "src_sha1": "852b15626628",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……“피의 문장”을 새긴다고?@n잘 모르겠는데……무슨 소리야?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:327",
    "src_sha1": "16dede20241a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……이슈발과 같습니다.@n사람들을 죽여, 증오와 슬픔을@n이 땅에 새기는 것이죠.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:338",
    "src_sha1": "cfff7506e39d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그런 짓을 할 수 있을 리가 없잖아!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:339",
    "src_sha1": "071ea5c03353",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……그래도 괜찮겠습니까?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:354",
    "src_sha1": "a122c11e2197",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "크……윈리인가.@n네놈, 그래서 그 녀석을……@n협상 재료로 쓰려고……!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:356",
    "src_sha1": "f42426f54891",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "이런, 듣기 거북하군요.@n저는 윈리 씨를 인질로 잡았다고는@n한마디도 하지 않았습니다만.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:365",
    "src_sha1": "c4058d51b1b1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그리고, 한 가지 더@n착각하고 계신 게 있습니다.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:367",
    "src_sha1": "d9d3fe32e474",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "이건 “협상”이 아니라 “명령”입니다.@n국가 연금술사로서 일을 하라고@n말씀드리는 겁니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:368",
    "src_sha1": "19867712884f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "크……!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:369",
    "src_sha1": "d9de85641b91",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "설마 “사람을 죽일 각오”도 없이@n군의 개가 된 겁니까?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:370",
    "src_sha1": "c44afbd4eced",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……“죽이지 않을 각오”라는 거다!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:376",
    "src_sha1": "bc20f1c4c620",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:378",
    "src_sha1": "09eb99b6b604",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "“죽이지 않을 각오”……흐음.@n그것 또한 끝까지 관철한다면@n진리.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:380",
    "src_sha1": "144737c762c7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "킴블리 씨, 당신@n그 녀석들이 하려는 짓을@n알고서 협력하는 거야?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:381",
    "src_sha1": "06e254262d90",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "알고 있습니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:382",
    "src_sha1": "f989bb3fe2dd",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "국민을 희생시켜서 말이야!?@n왜 이런 바보 같은 짓에@n협력을……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:388",
    "src_sha1": "3bce1d2359fd",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "세상이 변하는 모습을 보고 싶습니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:390",
    "src_sha1": "033f584083e4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……뭐?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:391",
    "src_sha1": "69f2f1a4210f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "각오와 각오, 의지와 의지.@n목숨과 목숨, 신념과 신념의 충돌.@n⊥@n인간 쪽과 “진화한 인간”이라 자칭하는@n호문쿨루스 쪽……@n어느 쪽이 이길지 보고 싶습니다.@n⊥@n무엇이 옳고, 무엇이 강하며 살아남는가.@n세계가 무엇을 선택하는가……그 역사적@n순간을, 저는 지켜보고 싶을 뿐입니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:393",
    "src_sha1": "25143a37de82",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……그럼, 인간인 당신이@n왜 인조인간 쪽에 붙은 거야?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:395",
    "src_sha1": "fc37d51b1513",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "제 연금술을 제 쾌락을 위해@n마음껏 쓰게 해 주니까요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:401",
    "src_sha1": "3e0b4abfb95a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……제정신이 아니군, 당신.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:402",
    "src_sha1": "54cb3e3113ea",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……제가 이단이라는 건@n알고 있습니다.@n⊥@n하지만 저 같은 자가 살아남는다면,@n그건 세계가 저를 선택했다는 것.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:408",
    "src_sha1": "0cf80b5c3ad1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "살아남기를……그야말로 생존을 건@n싸움. 이렇게 보람 있는 인생은@n없지요, 강철의 연금술사.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:414",
    "src_sha1": "40bfb6f3375f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……난 모르겠다고!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:416",
    "src_sha1": "ea3c634a5c59",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……이런, 유감이군요.@n연금술사란 다들 자기중심적인@n존재라고 생각했는데 말이죠.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:426",
    "src_sha1": "4586b99e7e45",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:427",
    "src_sha1": "0746fe1a8c9b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그럼, 당신의 자기중심적인 부분에@n말을 걸어 보도록 하죠.@n⊥@n목이 타도록 갖고 싶으실 겁니다.@n당신들 형제라면…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:430",
    "src_sha1": "655a796fccdb",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "뭐……‘현자의 돌’!?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:431",
    "src_sha1": "7ebdf101ff6a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "동생분 몸에 대한 건 대총통 각하께@n들었습니다. 일을 맡아 주신다면@n드리지요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:432",
    "src_sha1": "bc20f1c4c620",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:434",
    "src_sha1": "15408de563d0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……알이랑 윈리하고도@n얘기하게 해 줘.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:435",
    "src_sha1": "12fdf20a7bcc",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "윈리 씨와도?@n왜죠?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:437",
    "src_sha1": "ca552076aece",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "나, 그 녀석한테 아무 말도 안 했어.@n언제까지고 그 녀석만 따돌려 둘 순@n없어.@n⊥@n……이제 당사자잖아. 무슨 일을@n하든, 거짓말로 배신 같은 짓은@n하고 싶지 않다고.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M047_1:439",
    "src_sha1": "e4d7ed681f9d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……좋습니다.@n쓸데없는 말을 하지 않도록,@n저도 동석하겠습니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

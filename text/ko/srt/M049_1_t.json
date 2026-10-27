@@ -4,29 +4,29 @@
   {
    "id": "srt:M049_1_t:5",
    "src_sha1": "a3628c08a14f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~nar123>@n에드 일행은 버려진 도시 바즈쿨에서@n닥터 마르코, 메이, 그리고@n스카와 재회한다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M049_1_t:11",
    "src_sha1": "111093ac7489",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~nar124a>@n부모를 죽인 진의를 윈리에게@n추궁당한 스카는 아무 대답도@n하지 못했다――.@n⊥@n<~nar124b>@n윈리는 스카를 용서하지 않았지만,@n스스로 참아 냄으로써 증오의 연쇄를@n끊고 앞으로 나아가기로 한다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M049_1_t:19",
    "src_sha1": "998f2092fabf",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~nar125>@n그리고 킴블리에게서 벗어나기 위해,@n스카가 윈리를 납치하는 연극으로@n그 자리를 빠져나왔다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M049_1_t:28",
    "src_sha1": "f40a0669ec44",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~nar126a>@n한편 그 무렵, 브릭스 요새에는@n레이븐 실종 소식을 받은 중앙군의@n사자가 찾아와 있었다.@n⊥@n<~nar126b>@n눈보라가 몰아치는 북쪽 대지에서,@n올리비에, 윈리, 그리고 에드 일행의@n운명은 거센 물결에 휘말려 간다――.@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]
