@@ -4,71 +4,71 @@
   {
    "id": "srt:F006_999_011_2:16",
    "src_sha1": "3e7fe4043fa8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0069990112_edw01>@n여기인가…….@n숨어 있기엔 딱 좋은 곳이군.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F006_999_011_2:18",
    "src_sha1": "02ed5148d319",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0069990112_gun01>@n조심하십시오.@n놈들이 이웃 나라 지원자한테서@n강력한 무기를 입수했다는@n정보가 있습니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F006_999_011_2:19",
    "src_sha1": "604741d9016c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0069990112_alp04>@n강력한 무기요?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F006_999_011_2:20",
    "src_sha1": "60a22abc84fc",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0069990112_gun04>@n네, 그중에서도 지뢰식 함정이@n나돌고 있다는 소문이라,@n어쩌면 이 아지트도…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F006_999_011_2:22",
    "src_sha1": "262b2a835829",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0069990112_edw02a>@n헤헤……문제없어.@n지금까지 훨씬 위험한 놈들이랑@n실컷 싸워 왔으니까.@n⊥@n<~F0069990112_edw02b>@n인간이 상대라면 편하지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F006_999_011_2:23",
    "src_sha1": "63269e616ba8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0069990112_gun02>@n인간……?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F006_999_011_2:25",
    "src_sha1": "be59a1e9b987",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0069990112_alp01a>@n그, 그러니까 저흰 싸움에@n익숙하니까 걱정하지 마시라는@n뜻이에요!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F006_999_011_2:28",
    "src_sha1": "58d8b6b32b7f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0069990112_alp01b>@n……앗, 저건!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F006_999_011_2:45",
    "src_sha1": "578f93cc3bb7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0069990112_han01>@n큭……군 놈들이@n여기를 냄새 맡았나?!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F006_999_011_2:49",
    "src_sha1": "a124b5a6506f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0069990112_edw03>@n벌써 납셨군.@n한꺼번에 잡아 주마!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

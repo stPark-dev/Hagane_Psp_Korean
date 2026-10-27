@@ -4,50 +4,50 @@
   {
    "id": "srt:F009_999_017_2:8",
    "src_sha1": "45bee474a26e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0099990172_cat01>@n야옹.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F009_999_017_2:11",
    "src_sha1": "08e951efe9e8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0099990172_cat02>@n야옹.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F009_999_017_2:14",
    "src_sha1": "f81913ea9f0d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0099990172_cat03>@n야옹.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F009_999_017_2:17",
    "src_sha1": "a1915dd0721d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0099990172_cat04>@n야옹.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F009_999_017_2:19",
    "src_sha1": "d1c9c8b84039",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0099990172_edw01>@n우왓.@n이 근처, 고양이 천지잖아.@n게다가 다 비슷하게 생겼어…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F009_999_017_2:21",
    "src_sha1": "07fe3033e5ba",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0099990172_alp01a>@n아까 주인 아가씨가 말한@n특징의 고양이를 잡아야 해.@n⊥@n<~F0099990172_alp01b>@n시간이 지나면 도망친다니까,@n최대한 서둘러 잡자!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F009_999_017_2:24",
    "src_sha1": "d436a33eac5b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0099990172_edw02>@n그래, 고양이 따위@n금방 잡아 주지!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

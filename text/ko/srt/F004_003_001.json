@@ -4,240 +4,240 @@
   {
    "id": "srt:F004_003_001:12",
    "src_sha1": "dce77a84c2f6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……그러고 보니, 스승님의@n스승님은 어떤 분이었어요?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:13",
    "src_sha1": "fd994bbd8d45",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "뭐?@n갑자기 그런 건 왜 묻는 거야?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:19",
    "src_sha1": "8637939535e7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아뇨, 깊은 뜻은 없는데요……@n스승님의 스승님쯤 되면 굉장한@n분이었을까 하고, 문득 궁금해서요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:20",
    "src_sha1": "5ef742d8491a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "음……스승이라…….@n나한테 “하나는 전체, 전체는 하나”의@n의미를 가르쳐 준 사람은 있었지만……@n⊥@n딱히 재미있는 얘기도 아닌데?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:21",
    "src_sha1": "6595ba2c63ff",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "네, 스승님만 괜찮으시다면@n꼭 들려주세요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:27",
    "src_sha1": "6f0a87bcbf80",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "할 수 없네…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:33",
    "src_sha1": "c5c3dda59e14",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "――내가 18살 때였지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:41",
    "src_sha1": "4868a64f37f4",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "북쪽에 굉장한 연금술사가 있다길래,@n나는 서부 시골에서 그 술사……@n실바 스타이너 씨를 찾아갔어.@n⊥@n그리고 제자로 받아 달라고@n했더니……나이프 한 자루를 주면서@n이렇게 말하더군.@n⊥@n",
+   "state": "draft",
+   "flag": "신규 인명(게임 오리지널) シルバ・スタイナー → 실바 스타이너(음역 제안, 대안: 실버 스타이너). 결정필요."
   },
   {
    "id": "srt:F004_003_001:42",
    "src_sha1": "6cad216cb43f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "“그 나이프 한 자루로 한 달.@n　겨울 설산에서 살아남아 봐.@n　그러면 정식 제자로 삼아 주지”@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:48",
    "src_sha1": "aee8b4a5b502",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "――그렇게 변변한 장비도 없이@n한겨울 설산에서 한 달에 걸친@n수행이 시작됐지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:49",
    "src_sha1": "5555dfe5937a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "한겨울……설산이요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:50",
    "src_sha1": "0e5053731d3d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "우리 수행 조건보다 굉장해……!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:51",
    "src_sha1": "9f2a8d688fa0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "겨울 산의 자연환경은 혹독해서@n식량 조달도 잠자리 확보도@n여의치 않았어. 이 나조차@n몇 번이나 죽음을 각오했지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:57",
    "src_sha1": "a20634db4955",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그때 산악 경비병한테서 식량이랑@n겨울 장비를 빼앗지 못했다면@n지금 여기 없었을지도 몰라…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:58",
    "src_sha1": "b0acfdfb70c2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "네……산악 경비병한테서?@n식량이랑 장비를 빼앗아요??@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:59",
    "src_sha1": "8b442d43542e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그 시점에서 이미@n수행이 필요 없을 만큼@n강하셨던 거 아니에요…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:73",
    "src_sha1": "da63b29db136",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그런 혹독한 환경 속에서@n내가 세상에 있어 얼마나@n보잘것없는 존재인지 알았어.@n⊥@n세상이라는 커다란 흐름 속에@n존재하는, 나라는 작은 존재.@n⊥@n그런 작은 존재가@n모여서 생기는 커다란 흐름.@n⊥@n즉, 그것이 연금술의 기본.@n“하나는 전체, 전체는 하나”라는 걸@n몸소 깨달았지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:75",
    "src_sha1": "e7e77221809f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……그래서 한 달을 버티고,@n굉장한 연금술사인 스승님께 인정받아@n본격적인 수행에 들어가신 거군요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:77",
    "src_sha1": "b91205f57ee1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아니, 결국 제자로는 안 들어갔어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:84",
    "src_sha1": "1ed364ca512f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……네?@n그치만 그러려고 한 수행 조건@n아니었어요……?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:85",
    "src_sha1": "45542e9ad56f",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "아니, 그 스승이란 사람이 스타이너라는@n사람인 건 틀림없었는데, 내가 얘기를@n나눈 건 형인 골드 씨 쪽이었어.@n⊥@n굉장한 연금술사인 실바 씨는@n동생 쪽이고, 내가 찾아갔을 땐 이미@n한참 전에 죽었더라고.@n⊿@n",
+   "state": "draft",
+   "flag": "신규 인명 ゴルド → 골드(シルバ와 은/금 말장난으로 판단; 대안: 고르도). 결정필요."
   },
   {
    "id": "srt:F004_003_001:92",
    "src_sha1": "d86bdb44defb",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "뭐어?!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:93",
    "src_sha1": "377e0f25e717",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "형은 형대로 유명한 격투가였던 모양이라,@n자기 제자로 들어오려는 줄 착각하고@n나한테 서바이벌 수행을 시켰다나.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:95",
    "src_sha1": "e9f88d285459",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "나도 젊은 혈기에 앞만 보고 달렸다곤@n해도, 확인은 필요했지.@n⊥@n뭐, 그래도 결과적으로 연금술의@n기본을 체득했으니, 그야말로@n결과 오케이였지만.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:96",
    "src_sha1": "4d90c9ff8bf1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:97",
    "src_sha1": "4d90c9ff8bf1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:103",
    "src_sha1": "f5fe5cc92d8d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "혹시, 저희가 요크섬에서@n한 달 동안 서바이벌 수행을 했던@n건……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:105",
    "src_sha1": "2b51a2e70b07",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그래, 내 경험을 바탕으로 한@n수행 플랜이다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:111",
    "src_sha1": "acf53c6be552",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그거,@n잘못된 수행 아니었어요……?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:113",
    "src_sha1": "5e24caa35ccc",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그렇다 해도 그 덕분에@n나도 너희도 연금술의 기본을@n체득했잖아?@n⊥@n결과가 같으면@n그걸로 된 거 아니야?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:114",
    "src_sha1": "0d8531395e0b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……어쩐지 대령이나 소령한테@n수행 시절 얘기를 하면 놀라더라.@n다른 연금술 수행이랑은 전혀 다르다고.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:115",
    "src_sha1": "932bd9770758",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "우리, 정말 엄청난 스승님을@n만났던 거구나…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:116",
    "src_sha1": "a5c8b24dc870",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "자자, 쓸데없는 얘기는 이쯤 하고@n얼른 밥 준비하자!@n에드도 알도 도와!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_001:139",
    "src_sha1": "9c6ceb2fd793",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "EX 미션@n‘사제 VS 국군 팀!’을@n플레이할 수 있게 되었습니다.@n⊿@n",
+   "state": "draft",
+   "flag": "신규 EX 미션명 師弟ＶＳ国軍チーム！ → ‘사제 VS 국군 팀!’ 초안(대안: 스승과 제자 VS 국군 팀!). 결정필요."
   }
  ]
 }

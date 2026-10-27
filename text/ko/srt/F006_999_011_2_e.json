@@ -4,64 +4,64 @@
   {
    "id": "srt:F006_999_011_2_e:21",
    "src_sha1": "99952e95b2c5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0069990112_edw04>@n후우……@n이걸로 우리 일은 끝이군.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F006_999_011_2_e:23",
    "src_sha1": "bfad48603f8d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0069990112_gun03>@n수고하셨습니다.@n역시 대단하시네요!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F006_999_011_2_e:24",
    "src_sha1": "e878e90c01d0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0069990112_edw05>@n나머지는 잘 부탁해.@n그럼 가자, 알.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F006_999_011_2_e:26",
    "src_sha1": "8d434f7174dd",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0069990112_alp02a>@n응…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F006_999_011_2_e:28",
    "src_sha1": "de6a09dccf21",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0069990112_alp02b>@n……형, 정말 괜찮은 거야?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F006_999_011_2_e:31",
    "src_sha1": "c33e2cbaeedf",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0069990112_edw06>@n무슨 소리야.@n난 멀쩡하다고?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F006_999_011_2_e:33",
    "src_sha1": "d82ae8f9cbf5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0069990112_alp03>@n…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F006_999_011_2_e:50",
    "src_sha1": "0f5af9de059d",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~F0089990152_edw09>@n나도 아직 수행이 부족하네.@n기합을 다시 넣자!@n⊿@n",
+   "state": "draft",
+   "flag": "음성 큐가 다른 이벤트(F008·F014)의 것으로, 앞 대화 흐름(형을 걱정하는 알)과 맞지 않는 공용 마무리 대사로 보임. 원문대로 번역"
   },
   {
    "id": "srt:F006_999_011_2_e:52",
    "src_sha1": "57ebf485ea09",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0149990242_alp11>@n응…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

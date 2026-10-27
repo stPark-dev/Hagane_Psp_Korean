@@ -4,44 +4,44 @@
   {
    "id": "srt:F008_999_015_2_e:19",
    "src_sha1": "5f2c9226b15f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0089990152_jy103>@n에드, 고마워!@n이걸로 우리 양치기들도@n한시름 놓겠어!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F008_999_015_2_e:20",
    "src_sha1": "55d07df4bf7c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0089990152_edw05>@n그래, 내 고향을@n저런 놈들 맘대로 하게 둘@n수는 없으니까.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F008_999_015_2_e:21",
    "src_sha1": "f39a7267ef12",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0089990152_jy104>@n정말 살았어.@n그나저나 잠깐 못 본 사이에@n듬직해졌구먼.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F008_999_015_2_e:22",
    "src_sha1": "e4e2e8f55968",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0089990152_edw06>@n헤헤, 늘 훨씬 더 위험한@n놈들을 상대하고 있으니까.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F008_999_015_2_e:24",
    "src_sha1": "4afba4fe0a19",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0089990152_edw07>@n또 곤란한 일 있으면@n말해 줘.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F008_999_015_2_e:39",
    "src_sha1": "a3fe07757372",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~F0099990172_edw06>@n윽!@n큰일 났다…….@n⊿@n",
+   "state": "draft",
+   "flag": "음성 큐가 F0099990172_edw06(고양이 이벤트)과 동일. 원본 음성 재사용으로 보이며 대사도 F009_999_017_2_e:51과 같게 번역"
   }
  ]
 }

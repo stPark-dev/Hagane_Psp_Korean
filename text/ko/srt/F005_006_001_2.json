@@ -4,43 +4,43 @@
   {
    "id": "srt:F005_006_001_2:10",
    "src_sha1": "6e0c124d9b64",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0050060012_edw01>@n자, 어디서든 덤벼 봐.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F005_006_001_2:13",
    "src_sha1": "abc78af8670e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0050060012_lin01>@n……라는데.@n란팡, 후, 마음껏@n혼내 줘.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F005_006_001_2:15",
    "src_sha1": "e3d2bc0a949b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0050060012_lan01>@n……네, 도련님!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F005_006_001_2:17",
    "src_sha1": "7c4ad1b12cf8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……분부대로!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F005_006_001_2:19",
    "src_sha1": "37ddfa22ebe5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0050060012_alp01>@n(또 거리를 부수지만@n　않으면 좋겠는데……)@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F005_006_001_2:21",
    "src_sha1": "d6c76fb84894",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0050060012_lin07>@n아아, 깜빡했네. 이 근처엔@n싱국 특제 함정을 준비해 뒀어.@n밟지 않게 힘내~.@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

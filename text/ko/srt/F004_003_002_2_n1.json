@@ -4,29 +4,29 @@
   {
    "id": "srt:F004_003_002_2_n1:19",
    "src_sha1": "20e2073f1fbf",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0040030022_lea01>@n어이, 너희들!@n이런 꼬맹이들한테 무시당하기나 하고.@n우리 체면이 구겨지잖아!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_002_2_n1:23",
    "src_sha1": "7d4d2b866f40",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0040030022_edw02>@n당신이 두목이야?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_002_2_n1:27",
    "src_sha1": "d5ce470934e4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0040030022_alp03>@n이제 그만 좀@n돌아가 주면 안 될까……@n줄줄이 나오니 끝이 없네.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_002_2_n1:31",
    "src_sha1": "b11ad2f9ac6b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0040030022_lea02>@n날 저놈들이랑 똑같이 보지 마라?@n간다!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

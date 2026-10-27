@@ -4,86 +4,86 @@
   {
    "id": "srt:F004_003_002_2_e:30",
    "src_sha1": "529da87af3e2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0040030022_lea03>@n크윽……세다…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_002_2_e:32",
    "src_sha1": "5d09304185c7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0040030022_izu01>@n하여간, 맞아 봐야@n아는 게 짐승이랑 똑같네.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_002_2_e:34",
    "src_sha1": "917f6a05ffe7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0040030022_edw03>@n이제 좀 정신 차렸지?@n다시는 나쁜 짓 하지 마라.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_002_2_e:37",
    "src_sha1": "222c89a10983",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0040030022_lea04>@n크……젠장.@n너희나 술집 놈들이나@n왜 이렇게 센 거야……!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_002_2_e:39",
    "src_sha1": "1523ddb6c3ee",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0040030022_izu02>@n술집 놈들?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_002_2_e:42",
    "src_sha1": "dd58fb89d797",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0040030022_lea05>@n허, 헌병 놈들이 온다!@n튀어!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_002_2_e:56",
    "src_sha1": "99ab94034093",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0040030022_izu03>@n(……저놈들 말고도 아직@n　질 나쁜 놈들이 있다는 건가?)@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_002_2_e:59",
    "src_sha1": "69c057a6fd7c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0040030022_alp04>@n스승님, 몸은 괜찮으세요?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_002_2_e:63",
    "src_sha1": "3fae119072d4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0040030022_edw04>@n귀찮은 놈들도 갔으니까@n저희도 돌아가죠.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_002_2_e:65",
    "src_sha1": "b5162a618b61",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0040030022_izu04>@n……그래.@n장도 다 봤으니, 돌아가서 밥 먹자!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_003_002_2_e:82",
    "src_sha1": "e9961932331f",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~F0099990172_alp02>@n앗!@n⊿@n",
+   "state": "draft",
+   "flag": "음성 F0099990172 재사용(F002_999_002_2_e:68과 같은 음성). 어느 분기(패배·놓침?)에서 나오는지 실기 확인."
   },
   {
    "id": "srt:F004_003_002_2_e:84",
    "src_sha1": "a3fe07757372",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~F0099990172_edw06>@n윽!@n아차…….@n⊿@n",
+   "state": "draft",
+   "flag": "음성 F0099990172 재사용(F001_999_001_2_e:40과 같은 음성·번역 \"윽! 아차…….\"). \"しまった\"의 대상 불명, 실기 확인."
   }
  ]
 }

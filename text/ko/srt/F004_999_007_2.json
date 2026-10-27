@@ -4,29 +4,29 @@
   {
    "id": "srt:F004_999_007_2:15",
    "src_sha1": "35311a5e37c2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0049990072_edw01>@n아저씨 얘기로는 이 근처에@n자주 나타난다던데……@n아저씨는 아직 안 왔네.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_999_007_2:17",
    "src_sha1": "a898035db96e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0049990072_ten01>@n으아아아악!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_999_007_2:20",
    "src_sha1": "591b27250e21",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0049990072_alp01>@n형! 저기야!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_999_007_2:45",
    "src_sha1": "b40188439de4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0049990072_edw02>@n그래, 가자!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

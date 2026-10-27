@@ -4,141 +4,141 @@
   {
    "id": "srt:F004_999_007_1:14",
    "src_sha1": "e8e89c71a5bb",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……어라.@n가게 쪽이 아니라 이쪽으로@n손님인가?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_999_007_1:15",
    "src_sha1": "e05ad480346d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "네~.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_999_007_1:27",
    "src_sha1": "65efba7ce1e1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "안녕하세요.@n갑자기 미안하네요. 시그 씨 계신가요?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_999_007_1:28",
    "src_sha1": "e3840396badb",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "무슨 일이세요?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_999_007_1:29",
    "src_sha1": "25841ef0c7c4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "실은 시그 씨한테 부탁할 게@n있어서요. 요즘 동네에 무법자들이@n출몰하고 있거든요.@n⊥@n사람을 협박해서 금품을 빼앗거나@n가게를 부수거나 하는 형편없는 놈들이라.@n저항하면 폭력으로 짓누르려 들고요.@n⊥@n상가에서 순찰이라도 돌까 하고@n얘기하던 참인데……댁의 시그 씨가@n있으면 든든하니까, 꼭 좀 부탁하고@n싶어서요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_999_007_1:30",
    "src_sha1": "68d4810c7b8e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그렇군요……그런데 남편은 지금@n물건 떼러 나가 있어서요.@n저도 몸이 계속 안 좋고…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_999_007_1:42",
    "src_sha1": "21c7361f6cfd",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "스승님, 시그 씨 대신@n저희가 순찰에 참가할까요?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_999_007_1:44",
    "src_sha1": "8c449c506206",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "너희가?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_999_007_1:45",
    "src_sha1": "10a3dc1368c7",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "아니……혹시 너, 옛날에@n이즈미 선생님 댁에서 수행하던@n남자애 아니니? 많이 컸구나!@n⊿@n",
+   "state": "draft",
+   "flag": "신규 호칭: 동네 남자→이즈미 イズミ先生 → \"이즈미 선생님\"(:53, F004_999_007_2_e:20 동일). 대안: 이즈미 씨. 결정필요."
   },
   {
    "id": "srt:F004_999_007_1:47",
    "src_sha1": "9576e092cf1d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아, 안녕하세요…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_999_007_1:48",
    "src_sha1": "bc20f1c4c620",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_999_007_1:50",
    "src_sha1": "d2c1d070190e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그래, 에드랑 알도 몸이@n둔해졌을 테니, 운동 삼아@n다녀오게 할까!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_999_007_1:51",
    "src_sha1": "70fda60802f8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아니 그래도, 상대는 무법자인데……@n괜찮겠어요?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_999_007_1:52",
    "src_sha1": "5e0ad2e0e4f0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "이 애들은 제 제자예요.@n허투루 키우지 않았어요. 게다가@n연금술도 나름대로 쓸 줄 알고요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_999_007_1:53",
    "src_sha1": "118561a9119c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그래요……@n이즈미 선생님이 보증하신다면 안심이죠.@n그럼, 부탁해도 되겠니?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_999_007_1:55",
    "src_sha1": "311afcda6cb5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "맡겨 주세요!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_999_007_1:56",
    "src_sha1": "4b0f11e8ddd9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "늘 스승님께@n신세 지고 있으니까, 은혜를@n갚아야죠.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_999_007_1:57",
    "src_sha1": "0d780b70faff",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그럼 이따가 큰길 쪽으로@n와 주겠니? 같이 순찰을@n돌자. 잘 부탁한다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_999_007_1:59",
    "src_sha1": "e76f454fdf3d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "에드, 알, 제대로@n도움이 되고 와.@n아, 그래도 너무 지나치진 말고.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F004_999_007_1:60",
    "src_sha1": "beca3d6bc443",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "네!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

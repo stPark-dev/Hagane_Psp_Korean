@@ -4,30 +4,30 @@
   {
    "id": "srt:F009_999_018_2:7",
    "src_sha1": "9f6f47e7ed86",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0099990182_edw01>@n으음……꽤 흩어져 있네.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F009_999_018_2:13",
    "src_sha1": "b99e17d37ecc",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0099990182_alp01>@n빨리 치우지 않으면 정체가 심해지니까,@n한꺼번에 해치우자, 형.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F009_999_018_2:15",
    "src_sha1": "17bca318af01",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~F0099990182_edw08>@n짐은 전부 부숴도@n된다고 했으니까, 한꺼번에 몰아서@n파괴해 주겠어!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F009_999_018_2:17",
    "src_sha1": "bb06c9abff2f",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~F0099990182_edw09>@n그리고 다들 소문을 퍼뜨려@n주면……그 녀석을 꾀어내 주마!@n⊿@n",
+   "state": "draft",
+   "flag": "ヤツ = 국가 연금술사를 노리는 스카(소문으로 꾀어내기 작전)로 추정. “그 녀석”으로 모호하게 둠"
   }
  ]
 }

@@ -4,107 +4,107 @@
   {
    "id": "srt:F005_006_002:9",
    "src_sha1": "b69039b428a0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……설마@n네놈이 그렇게까지 할 줄은@n몰랐다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F005_006_002:10",
    "src_sha1": "93588070937b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "무슨 소리야?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F005_006_002:11",
    "src_sha1": "23da27654da0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……팔을 떼어 내서@n나를 속이는 함정으로 썼지?@n⊥@n아무리 부서졌다지만, 자기 팔을@n떼어 내는 데 망설임은@n없었던 거냐?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F005_006_002:13",
    "src_sha1": "68317bb9c62a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……딱히.@n쓸모없어진 걸@n최대한 유용하게 썼을 뿐이야.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F005_006_002:14",
    "src_sha1": "3de9271202e6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……기계 팔이라고 해도@n신경이 이어져 있다고 들었다.@n그만큼 아픔도 있겠지?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F005_006_002:16",
    "src_sha1": "440f31e1311b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그 정도 아픔쯤……@n우리한텐 각오가 있으니까.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F005_006_002:17",
    "src_sha1": "ba16c1db497b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……각오?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F005_006_002:18",
    "src_sha1": "455b416b028e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "나랑 알이 가는 길, 짊어진 것,@n쉽지 않다는 건 알고 있어. 그래도@n둘이서 나아가겠다고 각오했어.@n⊥@n그러니까 그걸 이루기 위해서라면@n그런 아픔쯤은 아무것도@n아니야.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F005_006_002:19",
    "src_sha1": "96bf24a1cb66",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……그런가.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F005_006_002:20",
    "src_sha1": "1fe460d62689",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "너도 일부러 싱에서@n나온 거잖아? 그만한 각오는@n하고 있는 거 아냐?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F005_006_002:21",
    "src_sha1": "b0c3d72f16c7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……물론이다.@n나에게는 도련님을 지킬 사명이 있다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F005_006_002:23",
    "src_sha1": "0c2494902d57",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그럼, 그런 거야.@n나도 너도, 그 사명을 위해서라면@n……라는 거지. 알겠지?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F005_006_002:24",
    "src_sha1": "5967f59652c0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……아아.@n……그렇군. 쓸데없는 질문을 했다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F005_006_002:37",
    "src_sha1": "4d90c9ff8bf1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:F005_006_002:58",
    "src_sha1": "ee78b379ee02",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "EX 미션@n‘동방검문록’을@n플레이할 수 있게 되었습니다.@n⊿@n",
+   "state": "draft",
+   "flag": "신규 EX 미션명 東方剣聞録(東方見聞録 말장난) → ‘동방검문록’ 초안(대안: 동방견문록 그대로/동방 검(劍)문록). 결정필요."
   }
  ]
 }
