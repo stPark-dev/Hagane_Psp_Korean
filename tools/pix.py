@@ -6,6 +6,23 @@ from tools import gim
 
 def textures(buf):
     """GIM files in the container, in table order."""
+    return [buf[a:b] for a, b in spans(buf)]
+
+
+def replace(buf, new):
+    """Container with textures swapped in place: new = {table index: GIM of the same length}."""
+    out = bytearray(buf)
+    sp = spans(buf)
+    for i, g in new.items():
+        a, b = sp[i]
+        if len(g) != b - a:
+            raise ValueError(f"texture {i}: {len(g)} bytes, slot holds {b - a}")
+        out[a:b] = g
+    return bytes(out)
+
+
+def spans(buf):
+    """(start, end) of each GIM in the container."""
     if buf[:4] != b"FPIX":
         raise ValueError("not an FPIX container")
     dpix, = struct.unpack_from("<I", buf, 0x20)
@@ -23,5 +40,5 @@ def textures(buf):
             raise ValueError(f"entry at {x:#x} is not XPIX")
         size, = struct.unpack_from("<I", buf, x + 4)
         g = buf.index(gim.MAGIC, x, x + size)
-        out.append(buf[g:x + size])
+        out.append((g, x + size))
     return out

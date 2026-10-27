@@ -55,3 +55,21 @@ def test_pixel_data_offset_comes_from_the_header_when_set():
     data = bytes(hdr) + bytes(0x10) + bytes([1, 2, 3, 4])  # 16 filler bytes, pixels at 0x40
     img = struct.pack("<HHIII", 4, 0, 0x10 + len(data), 0x10 + len(data), 0x10) + data
     assert gim.decode(gim_file(img)) == (1, 1, bytes([1, 2, 3, 4]))
+
+
+def test_swizzle_is_the_inverse_of_unswizzle():
+    data = bytes(i * 7 % 256 for i in range(32 * 16))
+    assert gim.unswizzle(gim.swizzle(data, 32, 16), 32, 16) == data
+
+
+def test_remap_keeps_unchanged_indices_and_picks_nearest_colour():
+    pal = bytes([0, 0, 0, 0, 250, 250, 250, 255, 0, 0, 0, 255, 250, 250, 250, 255]) + bytes(4 * 252)
+    idx = bytes([3, 0, 2, 0]) + bytes(12) + bytes(16 * 7)       # 16x8 swizzled = one block
+    src = gim_file(image_block(5, 3, 0, 256, 1, pal), image_block(4, 5, 1, 16, 8, idx))
+    w, h, rgba = gim.decode(src)
+    new = bytearray(rgba)
+    new[4:8] = bytes([255, 255, 255, 255])                      # pixel 1: white -> nearest is index 1
+    out = gim.remap(src, bytes(new))
+    assert len(out) == len(src)
+    assert gim.decode(out)[2][:16] == bytes([250, 250, 250, 255] * 2 + [0, 0, 0, 255, 0, 0, 0, 0])
+    assert out[-128:-124] == bytes([3, 1, 2, 0])                # index 3 kept, not folded into 1

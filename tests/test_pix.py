@@ -1,5 +1,7 @@
 import struct
 
+import pytest
+
 from tools import pix
 
 
@@ -23,3 +25,11 @@ def test_textures_reads_a_single_xpix_without_dpix_table():
     x = b"XPIX" + struct.pack("<I", 0x20 + len(g)) + bytes(0x18) + g
     buf = b"FPIX" + struct.pack("<I", 0x24 + len(x)) + bytes(0x18) + struct.pack("<I", 0x24) + x
     assert pix.textures(buf) == [g]
+
+
+def test_replace_swaps_a_texture_of_the_same_size():
+    a, b = b"MIG.00.1PSP\0" + b"A" * 8, b"MIG.00.1PSP\0" + b"B" * 12
+    c = b"MIG.00.1PSP\0" + b"C" * 12
+    assert pix.textures(pix.replace(fpix(a, b), {1: c})) == [a, c]
+    with pytest.raises(ValueError):
+        pix.replace(fpix(a, b), {0: c})

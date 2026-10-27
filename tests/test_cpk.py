@@ -193,3 +193,17 @@ def test_dat000_rebuild_with_replacement(tmp_path):
 def test_rebuild_rejects_unknown_path(tmp_path):
     with pytest.raises(KeyError):
         cpk.rebuild(DAT000, tmp_path / "x.cpk", {"no/such.file": b""})
+
+
+@needs_dat000
+def test_rebuild_can_store_replacements_compressed(tmp_path):
+    src = cpk.CpkArchive(DAT000)
+    target = next(e for e in src.entries if e.path == "FLASH/ID/g_menu.pix")
+    new = bytearray(src.read(target))
+    new[0x1000:0x1010] = b"\x11" * 16
+    out = tmp_path / "DAT000.cpk"
+    cpk.rebuild(DAT000, out, {target.path: bytes(new)}, compress=True)
+    arc = cpk.CpkArchive(out)
+    e = arc.by_path()[target.path]
+    assert e.compressed and e.extract_size == len(new) and e.size < len(new) // 2
+    assert arc.read(e) == new

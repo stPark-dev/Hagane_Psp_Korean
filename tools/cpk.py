@@ -222,11 +222,12 @@ def _patch(buf, pos, column, value):
     struct.pack_into(fmt, buf, off, value)
 
 
-def rebuild(src, out, replacements):
+def rebuild(src, out, replacements, compress=False):
     """Write a copy of a TOC-based CPK with some files replaced.
 
     replacements: {entry path: new bytes}; replaced files are stored
-    uncompressed. Physical file order and alignment are preserved, and the
+    uncompressed, or with compress=True as CRILAYLA when that is smaller
+    (each stream is checked by decompressing it again). Physical file order and alignment are preserved, and the
     TOC/header fields that depend on sizes and offsets are patched in place,
     so an empty replacement set reproduces the source byte for byte."""
     arc = CpkArchive(src)
@@ -237,6 +238,17 @@ def rebuild(src, out, replacements):
     for p in replacements:
         if p not in paths:
             raise KeyError(p)
+    if compress:
+        from tools import crilayla  # numba import is slow; only load it when asked
+    stored = {}
+    for p, data in replacements.items():
+        stored[p] = data
+        if compress and len(data) > crilayla.PREFIX:
+            c = crilayla.compress(data)
+            if len(c) < len(data):
+                if crilayla.decompress(c) != data:
+                    raise ValueError(f"{p}: CRILAYLA round trip failed")
+                stored[p] = c
     align = h["Align"]
     content_off = h["ContentOffset"]
     toc_off = h["TocOffset"]
@@ -253,7 +265,7 @@ def rebuild(src, out, replacements):
     cursor = content_off
     for e in sorted(arc.entries, key=lambda e: e.offset):
         if e.path in replacements:
-            size = extract = len(replacements[e.path])
+            size, extract = len(stored[e.path]), len(replacements[e.path])
         else:
             size, extract = e.size, e.extract_size
         offset = _align(cursor, align)
@@ -278,7 +290,7 @@ def rebuild(src, out, replacements):
         for e, offset, size, _ in layout:
             fout.write(bytes(offset - written))
             if e.path in replacements:
-                fout.write(replacements[e.path])
+                fout.write(stored[e.path])
             else:
                 fin.seek(e.offset)
                 fout.write(fin.read(e.size))
