@@ -130,3 +130,6 @@ def test_apply_release_needs_every_entry_approved():
     data, offs = sample(gap=0x100)
     with pytest.raises(kotext.TranslationError, match="release"):
         ebootstr.apply(data, translated(data, {f"eboot:{offs[0]:#x}": "적"}, state="approved"), policy="release")
+def test_help_text_longer_than_four_lines_is_allowed_when_the_source_is():
+    src = "@n".join(["ヘルプ"] * 6)
+    assert ebootstr.check(src, "@n".join(["도움말"] * 6)) == []

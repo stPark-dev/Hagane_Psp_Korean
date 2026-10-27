@@ -86,7 +86,7 @@ def wider_lines(src, ko):
 
 
 def check(src, ko):
-    errs = textcheck.check(src, ko)
+    errs = textcheck.check(src, ko, max_lines=max(4, src.count("@n") + 1))  # UI text has no 4-line pages
     for name, pat in (("format", FORMAT), ("button glyph", BUTTONS)):
         if pat.findall(src) != pat.findall(ko):
             errs.append(f"{name} sequence differs: {pat.findall(src)} != {pat.findall(ko)}")
