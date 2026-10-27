@@ -165,7 +165,7 @@ G163	錬丹術	연단술		term	정발추정	잠정승인	https://namu.wiki/w/연
 G164	銀時計	은시계		term	정발추정	잠정승인	https://namu.wiki/w/국가%20연금술사	Namuwiki spelling; the page does not say it follows the 정발판.
 G165	ウロボロス	우로보로스		term	정발추정	잠정승인	https://namu.wiki/w/호문쿨루스(강철의%20연금술사)	Namuwiki spelling; the page does not say it follows the 정발판.
 G166	東方司令部	동방사령부		rank	정발추정	잠정승인	https://namu.wiki/w/리자%20호크아이	Namuwiki spelling; the page does not say it follows the 정발판.
-G167	中央司令部	중앙사령부		rank	정발추정	잠정승인	https://namu.wiki/w/아메스트리스(강철의%20연금술사)	Namuwiki spelling; the page does not say it follows the 정발판.
+G167	中央司令部	중앙사령부		rank	정발추정	결정필요	https://namu.wiki/w/아메스트리스(강철의%20연금술사)	Namuwiki spelling; the page does not say it follows the 정발판. | D7-16 적용 범위 미확정: 센트럴 사령부 / 중앙사령부
 G168	約束の日	약속의 날		term	정발추정	잠정승인	https://namu.wiki/w/아버지(강철의%20연금술사)	Namuwiki spelling; the page does not say it follows the 정발판.
 G169	鋼の錬金術師	강철의 연금술사		term	정발확인	승인	https://namu.wiki/w/강철의%20연금술사	Official Korean title of the 학산 manga and the anime.
 G170	焔の錬金術師	불꽃의 연금술사		term	정발추정	잠정승인	https://namu.wiki/w/국가%20연금술사	Namuwiki uses 불꽃 and argues 화염 would fit better. A guidebook used 불꽃의 연금술사 as a special-episode title.
@@ -188,3 +188,32 @@ G186	チェーンラッシュ	체인 러시		term	결정	잠정승인		D6-4. 메
 G187	ガードブレイク	가드 브레이크		term	결정	잠정승인		D6-4
 G188	ラッシュゲージ	러시 게이지		term	결정	잠정승인		D6-4
 G189	ブレイク	브레이크		term	결정	잠정승인		D6-4
+G190	綴命の錬金術師	철명의 연금술사		term	결정	승인		D7-1
+G191	人柱	제물		term	결정	승인		D7-2. 설명 문맥에서는 "인간 제물" 허용
+G192	査定	심사		term	결정	승인		D7-3. 국가 연금술사 자격 평가는 "자격 심사". 니나의 “さてい”(아이 말투)는 "심사"
+G193	師匠	스승님		address	결정	승인		D7-4. 師匠（せんせい）= 이즈미
+G194	准尉	준위		rank	결정	승인		D7-5
+G195	傷の男	스카		name	결정	승인		D7-6. 신원 공개 전에는 서술형 명칭 유지, 이후 스카. 로이가 傷の男（スカー）라 부르는 M003_3:54부터 스카
+G196	鋼の大将	강철의 대장		address	결정	승인		D7-7. 하보크→에드
+G197	君	자네 / 너		address	결정	승인		D7-8. 인물 관계에 따라
+G198	お兄ちゃん	오빠		address	결정	승인		D7-9. 니나→형제
+G199	ばっちゃん	할머니		address	결정	승인		D7-10. 형제→피나코
+G200	殿	님 / 공 / 양		address	결정	승인		D7-11. 대상과 문맥에 따라(예: 암스트롱→윈리 "양", →피나코 "님", 군인→에드 "강철의 연금술사님")
+G201	鋼の坊や	강철의 꼬마		address	결정	승인		D7-12. 러스트→에드
+G202	中央（セントラル）	센트럴		place	결정	승인		D7-16. 지명 中央 → 센트럴, 일반 명사 中央 → 중앙. 합성어(中央司令部·中央軍·国立中央図書館)는 결정필요 행 참조
+G203	哲学者の石	철학자의 돌		term	결정	승인		D7-17. 현자의 돌 별칭
+G204	天上の石	천상의 돌		term	결정	승인		D7-17
+G205	大エリクシル	대엘릭시르		term	결정	승인		D7-17
+G206	赤きティンクトゥラ	붉은 팅크투라		term	결정	승인		D7-17
+G207	第五実体	제5실체		term	결정	승인		D7-17
+G208	を手に入れた！	~을 손에 넣었다!		system	결정	승인		D7-14. 아이템 획득 알림
+G209	（スキル）を手に入れた！	~을 습득했다!		system	결정	승인		D7-15. 스킬 획득 알림(원문은 手に入れた！)
+G210	中央軍			term	결정필요	결정필요		D7-16 적용 범위 미확정: 센트럴군 / 중앙군
+G211	国立中央図書館			place	결정필요	결정필요		D7-16 적용 범위 미확정: 국립 센트럴 도서관 / 국립중앙도서관. M004_1:294 초벌은 "국립중앙도서관"(플래그)
+G212	ショウ・タッカー	쇼우 터커		name	음역제안	제안		초벌 에이전트 안(M002). 정발 대조 필요
+G213	合成獣（キメラ）	합성수(키메라)		term	음역제안	제안		M001부터 사용. 정발 대조 필요
+G214	生体錬成	생체연성		term	음역제안	제안		M002~005 초벌 안
+G215	軍の狗	군의 개		term	음역제안	제안		M002~005 초벌 안
+G216	血の紋	피의 문장		term	음역제안	제안		M003 초벌 안
+G217	イシュヴァールの民	이슈발 민족		term	음역제안	제안		M003 초벌 안
+G218	イシュヴァラ	이슈발라		name	음역제안	제안		M003 초벌 안(창조신)
