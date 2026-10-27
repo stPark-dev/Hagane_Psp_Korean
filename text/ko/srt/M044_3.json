@@ -4,43 +4,43 @@
   {
    "id": "srt:M044_3:9",
    "src_sha1": "874fd9377459",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0443_olv01>@n전차대, 놈을 게이트 앞까지@n몰아붙여라!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M044_3:20",
    "src_sha1": "a9609147e5cb",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "네놈들은 전차대를 엄호해 줘.@n아까 그 연금술이라면, 어떻게든@n되겠지?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M044_3:22",
    "src_sha1": "f8529dcccfea",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0443_edw01>@n멋대로 지껄이긴!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M044_3:24",
    "src_sha1": "3e47931cb0e7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "부탁한다, 국가 연금술사!@n괴물한테 통할지는 모르겠지만@n나도 전력으로 싸우겠다!!@n⊥@n소장의 전차대 호령에 따라, 전차 3대가@n포신 사선상에 일제 공격을 퍼붓는다.@n사선에 있으면 공격을 맞으니 조심해라.@n⊥@n그 공격으로 놈을 게이트 쪽으로@n밀어낼 수 있을 거다. 세세한 위치@n조정은 여기 부재를 이용한 연금술로@n궁리해 줘.@n⊥@n놈은 무거워 보이니……던지기 기술은@n안 통할 것 같지만, 내 특기라면@n밀어내는 걸 돕는 정도는 할 수 있겠지.@n⊥@n놈을 게이트로 몰아넣으면,@n내가 연료를 퍼붓겠다!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M044_3:27",
    "src_sha1": "5eb1bc821950",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0443_edw02>@n좋아, 가자 알!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M044_3:30",
    "src_sha1": "d5e48565c31a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0443_alp01>@n응, 형!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

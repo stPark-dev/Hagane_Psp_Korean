@@ -4,71 +4,71 @@
   {
    "id": "srt:M043_2:7",
    "src_sha1": "ee022d11dd8f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0432_edw01>@n잠깐만 기다려!@n당신 군인이잖아?@n우리는……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M043_2:11",
    "src_sha1": "e7061ea4d5cc",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "모른다!@n얌전히 있어라!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M043_2:16",
    "src_sha1": "360dd18ff0c4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0432_edw02>@n젠장……@n해 보는 수밖에 없나.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M043_2:20",
    "src_sha1": "41716dd1e0b9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0432_alp01>@n형……우왓?!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M043_2:26",
    "src_sha1": "9c92e4d91e4f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0432_edw03>@n알?!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M043_2:30",
    "src_sha1": "d278538b6b5b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0432_alp02>@n미안, 형……@n눈에 빠져서 다리가 안 움직여!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M043_2:34",
    "src_sha1": "a705348a261e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "흥, 여기서 싸우는 데는 익숙하지@n않은 모양이군. 네놈의 오토메일도@n평범한 물건인 것 같고.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M043_2:38",
    "src_sha1": "9dfba3a6ef94",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0432_edw04>@n……뭐?@n그쪽이야말로 취향 나쁜 걸@n달고 있잖아.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M043_2:42",
    "src_sha1": "3887deebcc17",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "이 기계미를 모르다니 어리석은 놈!@n전투용 오토메일 M1913-A@n‘크로커다일’!!@n⊿@n",
+   "state": "draft",
+   "flag": "クロコダイル 크로커다일: 신규 고유명칭, 정발 표기 확인 필요(대안: 크로코다일)"
   },
   {
    "id": "srt:M043_2:48",
    "src_sha1": "4634e1f0ad4c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "물어뜯기기 싫으면@n얌전히 잡혀라, 드라크마의@n첩자 놈!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]
