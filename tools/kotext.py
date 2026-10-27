@@ -4,6 +4,10 @@ text/ko/srt/<NAME>.json holds, per text command: stable id, hash of the
 source text it was written against, Korean text, review state and a flag
 for unresolved meaning. Source text itself stays out of the repository and
 is regenerated from the disc (source_view).
+
+An entry may carry speaker_fix {"from": n, "to": m} to correct a name plate
+the original data gets wrong; the command's current speaker must equal
+"from", and only that command's first argument changes.
 """
 import hashlib
 
@@ -66,6 +70,12 @@ def apply_srt(name, raw, kofile, policy):
         if e["src_sha1"] != src_hash(t.raw):
             problems.append(f"{i}: stale translation (source text changed)")
             continue
+        fix = e.get("speaker_fix")
+        if fix:
+            if _speaker(s, t) != fix["from"]:
+                problems.append(f"{i}: speaker_fix expects speaker {fix['from']}, found {_speaker(s, t)}")
+                continue
+            s.commands[t.index] = s.commands[t.index].with_int_arg(0, fix["to"])
         if policy == "release" and (e["state"] != "approved" or e.get("flag")):
             why = f"flag {e['flag']!r}" if e.get("flag") else f"state {e['state']}"
             problems.append(f"{i}: not release eligible ({why})")

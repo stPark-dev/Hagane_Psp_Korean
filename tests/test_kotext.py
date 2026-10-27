@@ -116,3 +116,21 @@ def test_merge_draft_does_not_overwrite_reviewed_entries():
     t["entries"][0].update(ko="<~V1>@n검수본@n⊿@n", state="needs_human_review")
     with pytest.raises(kotext.TranslationError, match="already"):
         kotext.merge_draft("T001", script(), t, {"srt:T001:1": {"ko": "<~V1>@n가@n⊿@n", "flag": ""}})
+
+
+def test_speaker_fix_changes_only_that_commands_speaker():
+    t = translated()
+    t["entries"][0]["speaker_fix"] = {"from": 0, "to": 1}
+    out = srt.parse(kotext.apply_srt("T001", script(), t, policy="dev"))
+    ref = srt.parse(kotext.apply_srt("T001", script(), translated(), policy="dev"))
+    assert out.commands[1].int_arg(0) == 1
+    assert out.commands[1].body[4:] == ref.commands[1].body[4:]
+    assert [c for i, c in enumerate(out.commands) if i != 1] == \
+        [c for i, c in enumerate(ref.commands) if i != 1]
+
+
+def test_speaker_fix_rejects_unexpected_current_speaker():
+    t = translated()
+    t["entries"][1]["speaker_fix"] = {"from": 0, "to": 1}  # command 2 has speaker 193
+    with pytest.raises(kotext.TranslationError, match="speaker"):
+        kotext.apply_srt("T001", script(), t, policy="dev")
