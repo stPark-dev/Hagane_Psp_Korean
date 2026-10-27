@@ -77,3 +77,20 @@ def add_hangul(font, bdf_font, chars, baseline, level=15, x_shift=0):
         out.glyphs.append(render_cell(g, font.width, font.height, baseline, level, x_shift))
         out.double[_KUTEN[ch]] = len(out.glyphs)
     return out
+
+
+def add_symbols(font, bdf_font, chars, baseline, level=15, x_shift=0):
+    """Return a copy of `font` with glyphs for Shift-JIS symbols it lacks
+    (e.g. ‘ ’, which the translations use for 『』, D4)."""
+    out = copy.deepcopy(font)
+    for ch in chars:
+        kuten = ffon.sjis_to_kuten(int.from_bytes(ch.encode("cp932"), "big"))
+        if kuten in out.double:
+            continue
+        g = bdf_font.glyphs.get(ord(ch))
+        if g is None:
+            raise ValueError(f"BDF font has no glyph for {ch!r}")
+        out.glyphs.append(render_cell(g, font.width, font.height, baseline, level, x_shift))
+        out.double[kuten] = len(out.glyphs)
+    return out
+

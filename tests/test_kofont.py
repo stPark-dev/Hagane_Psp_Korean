@@ -112,3 +112,21 @@ def test_galmuri_bold_centered_leaves_cell_edges_empty():
         cell = kofont.render_cell(f.glyphs[ord(c)], 14, 16, 13, 15, x_shift=kofont.HANGUL_X_SHIFT)
         cols = {x for y in range(16) for x in range(14) if (cell[y * 7 + x // 2] >> (4 * (x & 1))) & 15}
         assert 0 not in cols and 13 not in cols, c
+
+
+def test_add_symbols_gives_missing_sjis_symbols_a_glyph():
+    quote = TINY_BDF.replace("U+AC00", "U+2018").replace("ENCODING 44032", "ENCODING 8216")
+    base = ffon.Font(width=4, height=4, bpp=4, unknown_size=0, flags=bytes([1, 0]) + bytes(30),
+                     single={}, double={(16, 1): 1}, glyphs=[bytes(8)])
+    out = kofont.add_symbols(base, bdf.parse(quote), "‘", baseline=3)
+    code = int.from_bytes("‘".encode("cp932"), "big")
+    assert out.double[ffon.sjis_to_kuten(code)] == 2
+    assert out.glyphs[1] == kofont.render_cell(bdf.parse(quote).glyphs[0x2018], 4, 4, 3, 15)
+
+
+def test_add_symbols_leaves_existing_glyphs_alone():
+    quote = TINY_BDF.replace("U+AC00", "U+2018").replace("ENCODING 44032", "ENCODING 8216")
+    k = ffon.sjis_to_kuten(int.from_bytes("‘".encode("cp932"), "big"))
+    base = ffon.Font(width=4, height=4, bpp=4, unknown_size=0, flags=bytes([1, 0]) + bytes(30),
+                     single={}, double={k: 1}, glyphs=[bytes(8)])
+    assert kofont.add_symbols(base, bdf.parse(quote), "‘", baseline=3).glyphs == [bytes(8)]
