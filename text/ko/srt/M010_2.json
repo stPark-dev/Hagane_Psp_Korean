@@ -4,15 +4,15 @@
   {
    "id": "srt:M010_2:8",
    "src_sha1": "01d7212d7845",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0102_alp01>@n형, 상처 벌어진다니까.@n아직 무리하면……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M010_2:10",
    "src_sha1": "5e21d18e3e4a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0102_edw01>@n두말 말라고 했지!@n자세 잡아, 알. 내가 먼저 간다!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

@@ -4,36 +4,36 @@
   {
    "id": "srt:M015_1_t:5",
    "src_sha1": "be9502b6cbc4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~nar39>@n연금술사에게@n금기로 여겨지는 인체연성――.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M015_1_t:11",
    "src_sha1": "bf37fd8db31f",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~nar40>@n에드와 알은 스승인@n이즈미 커티스에게, 자신들이 엄마를@n연성하려 했던 일을 고백한다.@n⊿@n",
+   "state": "draft",
+   "flag": "_t 요약의 母親 → '엄마'(형제 시점 D6 호칭에 맞춤). 해라체 서술이므로 '어머니'도 가능."
   },
   {
    "id": "srt:M015_1_t:17",
    "src_sha1": "c4f48bf21459",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~nar41>@n그리고 이즈미도 잃어버린 자식을@n연성하려다 실패한 사실을 털어놓는다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M015_1_t:25",
    "src_sha1": "159c4bc0805b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~nar42>@n에드와 알의 인체연성을 꾸짖으며@n한 번은 파문을 선언하는 이즈미.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M015_1_t:30",
    "src_sha1": "a68217fb6299",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~nar43>@n하지만 다시 찾아온 두 사람의@n열의를 헤아려, 함께 원래 몸으로@n돌아갈 방법을 찾게 되는데…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

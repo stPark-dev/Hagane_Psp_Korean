@@ -4,36 +4,36 @@
   {
    "id": "srt:M013_2:11",
    "src_sha1": "89cafb688fc8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0132_izu01>@n오랜만의 대련이다.@n진심으로 갈 테니까 너희도@n그럴 각오로 덤벼.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M013_2:13",
    "src_sha1": "4fe76db9bc7f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0132_alp01>@n스승님……@n그래도 몸은 괜찮으세요?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M013_2:15",
    "src_sha1": "202e7ca4196c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0132_izu02>@n……알.@n내 걱정을 하다니,@n꽤 여유가 있구나.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M013_2:17",
    "src_sha1": "98297508f078",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0132_izu03>@n규칙은 간단해, 날 쓰러뜨려 봐!@n지금의 너희라면@n꽤 괜찮게 해낼 거다!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M013_2:19",
    "src_sha1": "d4f8fd3439fe",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0132_edw01>@n네! 전력으로 덤비겠습니다!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

@@ -4,36 +4,36 @@
   {
    "id": "srt:M015_5:9",
    "src_sha1": "3dacdeb125aa",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "결국 또 힘으로 하자는 거냐…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M015_5:11",
    "src_sha1": "bf92c17620e0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0155_edw01>@n……얼른@n너희를 쓰러뜨리고@n동생을 돌려받아야겠어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M015_5:13",
    "src_sha1": "6a5545292a26",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0155_rgr01>@n하하!@n자신만만한 낯짝이군. 하지만 넌@n나한테 상처 하나 못 낸다고!!@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M015_5:16",
    "src_sha1": "5463191327d9",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~M0155_rgr02>@n나한텐 ‘최강의 방패’가 있거든.@n⊿@n",
+   "state": "draft",
+   "flag": "용어: 最強の盾 → '최강의 방패'(용어집 없음)."
   },
   {
    "id": "srt:M015_5:18",
    "src_sha1": "a2f35ba79640",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0155_edw02>@n……뭐?@n무슨 소린지@n모르겠지만, 각오해라!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

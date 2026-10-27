@@ -4,22 +4,22 @@
   {
    "id": "srt:M007_1_t:8",
    "src_sha1": "1c359a65783c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~nar19>@n화재로 소실된 마르코의 연구서.@n전직 사서 셰스카의 협력으로@n에드는 마침내 그것을 손에 넣는다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M007_1_t:17",
    "src_sha1": "9f5f6d4b4b79",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~nar20>@n그러나 그 연구서는 마르코 고유의@n암호문으로 짜여 있어, 쉽게 해독할@n수 없는 물건이었다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M007_1_t:23",
    "src_sha1": "30446227bd63",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~nar21>@n도서관에 틀어박힌 지 1주일 이상……@n여러 사람의 협력을 얻어 마침내@n해독의 실마리를 찾은 에드 일행이지만――@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

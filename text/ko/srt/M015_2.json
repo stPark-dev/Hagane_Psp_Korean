@@ -4,29 +4,29 @@
   {
    "id": "srt:M015_2:6",
    "src_sha1": "1200f604957b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0152_alp01a>@n(……라고는 했지만, 정체도@n　모르는 상대랑 싸우긴 싫은데)@n⊥@n<~M0152_alp01b>@n(적당히 도망치다가 상대가@n　지쳤을 때 캐물어@n　볼까……)@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M015_2:8",
    "src_sha1": "ef668cbf238e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "뭘 중얼중얼거리는 거야!@n……내 칼은 빠르다고~.@n쫄지 마라!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M015_2:10",
    "src_sha1": "091f5711380e",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "난 먼저 빠질게.@n이따 봐, 갑옷 군.@n⊿@n",
+   "state": "draft",
+   "flag": "鎧クン → '갑옷 군'(마텔·그리드 공통). 호칭 확인 필요."
   },
   {
    "id": "srt:M015_2:11",
    "src_sha1": "4d90c9ff8bf1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

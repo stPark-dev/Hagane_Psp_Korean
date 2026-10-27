@@ -4,50 +4,50 @@
   {
    "id": "srt:M013_2_e:19",
    "src_sha1": "4b9d467bc5e1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0132_izu04>@n에드, 알.@n둘 다 연금술을 빠르고 정확하게@n쓸 수 있게 됐구나.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M013_2_e:21",
    "src_sha1": "6c2d080f6539",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~M0132_izu05a>@n연금술의 기본은 원의 힘.@n원은 힘의 순환을 나타내고, 거기에@n구축식을 그려야 힘이 발동한다.@n⊥@n<~M0132_izu05b>@n힘의 흐름과 법칙을 알면@n어떤 일에든 대응할 수 있지.@n연금술만이 아니라, 무엇이든.@n⊿@n",
+   "state": "draft",
+   "flag": "構築式 → ‘구축식’으로 초벌(용어집 미등록)"
   },
   {
    "id": "srt:M013_2_e:23",
    "src_sha1": "ea0e6a27d486",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0132_alp02>@n……그렇네요.@n옛날에 배운 그대로예요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M013_2_e:25",
    "src_sha1": "73a6a05fc458",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0132_izu06a>@n흐름을 받아들이고, 이해한 다음에@n창조하는 자……그게 연금술사다.@n⊥@n<~M0132_izu06b>@n세상은 늘 큰 흐름에 따라@n움직인다. 사람이 죽는 것도,@n태어나는 것도 그 흐름의 일부.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M013_2_e:27",
    "src_sha1": "bf81dfd3b4da",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0132_izu07>@n……그러니 사람을 되살리려는@n짓은 해선 안 된다.@n생각해서도 안 돼.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M013_2_e:29",
    "src_sha1": "deaa79d5a506",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0132_edw02>@n……네.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M013_2_e:31",
    "src_sha1": "9742d2fba93c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0132_izu08>@n……자.@n슬슬 밥 먹을 시간이구나.@n너희, 배고프지?@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

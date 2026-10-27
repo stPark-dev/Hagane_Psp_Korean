@@ -4,78 +4,78 @@
   {
    "id": "srt:M007_2:8",
    "src_sha1": "5574bbd1dc81",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0072_edw01>@n아저씨, 빠르네……혹시@n그 갑옷 속, 텅 빈 거 아냐?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M007_2:9",
    "src_sha1": "64ba3c99eeb5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……잘도 알아챘군.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M007_2:13",
    "src_sha1": "e670abdcf151",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0072_edw02>@n……싫어지네. 나 말고도@n영혼을 갑옷에 정착시킨다는 걸@n생각하는 바보가 있다니.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M007_2:18",
    "src_sha1": "60cecac44b0b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "다시 이름을 대지.@n내 “48”은 사형수 번호.@n생전에는 ‘슬라이서’라 불렸다.@n⊥@n표면상으로는 2년 전에 사형당한@n살인마의 이름이다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M007_2:21",
    "src_sha1": "0ee121d3c080",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0072_edw03>@n역시 사형수였나.@n여기서 ‘현자의 돌’을 만들려고@n사형수를 재료로 쓰고 있었구나.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M007_2:22",
    "src_sha1": "615cb9db47d9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그건 대답하기 어렵군.@n다만, 나는 솜씨를 인정받아 실험 재료가@n되었지. 지금은 이곳의 번견이다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M007_2:26",
    "src_sha1": "cdf5092b96a0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "연금술사라면 알겠지?@n내 “머리”에 혈인이 있다.@n이걸 부수면 네 승리다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M007_2:30",
    "src_sha1": "af8fa930d6c8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0072_edw04>@n약점을 알려 주다니, 친절하네.@n친절한 김에 이대로 그냥 보내@n주면 안 될까……라는 건 농담.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M007_2:34",
    "src_sha1": "fa22f96ea0a9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "살인마가 눈앞의 사냥감을 순순히@n놓아줄 리 없지 않나.@n⊥@n게다가 놓아준다 해도, 밖에 있는@n네 동료는 지금쯤 내 패거리가@n처리하고 있을 거다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M007_2:39",
    "src_sha1": "8fe256985d28",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0072_edw05>@n뭐……!@n젠장, 냉큼 쓰러뜨려 주마!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M007_2:44",
    "src_sha1": "09e585b141f0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……자, 간다!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

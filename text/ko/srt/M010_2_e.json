@@ -4,22 +4,22 @@
   {
    "id": "srt:M010_2_e:19",
    "src_sha1": "24c1203d5a02",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0102_edw02>@n……이겼다!@n처음으로 너한테 이겼어!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M010_2_e:21",
    "src_sha1": "cdd4f2d0b7ed",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0102_alp07>@n치사해, 형.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M010_2_e:23",
    "src_sha1": "fbfc9d6ecc06",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0102_edw03>@n시끄러.@n이긴 건 이긴 거야!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

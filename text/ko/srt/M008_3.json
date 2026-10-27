@@ -4,302 +4,302 @@
   {
    "id": "srt:M008_3:15",
    "src_sha1": "f9388a141c9c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "넘버 48과의 사투로@n에드는 새로운 스킬을 습득했다……@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:17",
    "src_sha1": "9d51a683b849",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "에드는 스킬@n‘파괴의 연금술’을 습득했다!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:20",
    "src_sha1": "3696cddc6b35",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "해냈구나, 이 꼬맹이가!@n……으으~, 형님~!!@n⊿@n",
+   "state": "draft",
+   "flag": "화자 넘버 48 — 머리 쪽 동생의 대사로 보임(같은 갑옷이라 표기는 맞을 수 있음). 원문 やりやがったな=‘해치웠구나(분노)’"
   },
   {
    "id": "srt:M008_3:21",
    "src_sha1": "f37cacca7589",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "후후후……훌륭하다, 꼬마.@n이번에야말로 정말 네 승리다.@n자, 어서 파괴해라.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:22",
    "src_sha1": "8973355646b1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……살인은 사양할게.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:23",
    "src_sha1": "75dfcb3d694d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "이런 몸인 우리를 사람이라 하는 건가?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:24",
    "src_sha1": "1513a53ceb00",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "당신들을 사람이 아니라고@n인정해 버리면, 같은 갑옷 몸을 가진@n동생도 인간이 아니라고 인정하는 거야.@n⊥@n그러니까……죽이는 건 싫어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:25",
    "src_sha1": "454921dc39db",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "후……후하하하핫.@n우리 형제는 철들 무렵부터@n훔치고, 부수고, 죽여 왔다.@n⊥@n살인마, 짐승이라 멸시받아 왔지.@n설마 이런 몸이 되어서야 처음으로@n인간 대접을 받을 줄이야……재밌군.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:26",
    "src_sha1": "4d90c9ff8bf1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:31",
    "src_sha1": "968ff54d9b1a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "꼬마, 선물이다. 전부 알려 주마.@n……‘현자의 돌’을 만들고, 우리에게@n이곳을 지키라 명한 자는……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:48",
    "src_sha1": "76001d77907e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "으윽……크…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:57",
    "src_sha1": "3f37b3b31020",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "형님, 형님…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:66",
    "src_sha1": "3b104666a1e9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "?!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:75",
    "src_sha1": "70ba385eb6c0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "위험해라, 위험해.@n안 돼, 48?@n쓸데없는 말을 하면.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:80",
    "src_sha1": "df8a8c0ebf95",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "정말이지, 이 멍청이가!@n귀중한 ‘제물’을 죽일 뻔했잖아.@n알고나 있는 거야?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:86",
    "src_sha1": "59dd13cc41c7",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "……그나저나 왜@n강철의 꼬맹이가@n이런 데 있는 거지?@n⊿@n",
+   "state": "draft",
+   "flag": "鋼のおチビさん 호칭 미정 — 초벌 '강철의 꼬맹이'. 대안: 강철의 꼬마 / 강철의 땅꼬마"
   },
   {
    "id": "srt:M008_3:87",
    "src_sha1": "d21236dde30d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "‘제물’?@n뭐, 뭐야……너희들!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:89",
    "src_sha1": "432f3d5e3730",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "처음 뵙겠습니다, 강철의 꼬맹이 씨.@n여기까지 오다니 역시 대단한걸?@n그래도 곤란한 걸 보여 버렸네.@n⊿@n",
+   "state": "draft",
+   "flag": "鋼のおチビさん 호칭 미정 — 초벌 '강철의 꼬맹이'. 대안: 강철의 꼬마 / 강철의 땅꼬마"
   },
   {
    "id": "srt:M008_3:95",
    "src_sha1": "61139f1c3d70",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "이게……꼬맹이 꼬맹이 시끄러워!@n그 싸움, 받아 주마!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:108",
    "src_sha1": "4dcc0e5d0f8d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……어?@n왜, 왜……?@n갑자기 오른팔이 안 움직여?!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:109",
    "src_sha1": "2dfbb5a0d023",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "럭키♪@n오토메일@n고장인가 봐?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:135",
    "src_sha1": "6d4c0f2cfbc7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "커헉!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:152",
    "src_sha1": "4c598c569047",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "팔이 고장 나서 다행이네?@n괜히 더 다치지 않았으니까.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:153",
    "src_sha1": "f76d9553e460",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "잘 들으렴, 꼬마야.@n너는 “살려 두고 있는” 거라는@n걸 잊으면 안 돼?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:154",
    "src_sha1": "390c2f5f774c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "젠……장…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:162",
    "src_sha1": "e67074c56aa9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그럼……@n또 이런 꼬마가 나타나면 곤란하니,@n여길 폭파해서 증거를 없애 볼까.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:163",
    "src_sha1": "ca8aa8be13de",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그런데 정말 이 꼬마,@n살려 둬도 괜찮을까?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:164",
    "src_sha1": "65a01e8865eb",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "여기까지 온 건 계산 밖이지만,@n돌의 제조법을 안 것만으로는@n아무것도 못 해.@n⊥@n“계획”은 이미 최종 단계에@n들어서 있으니까…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:183",
    "src_sha1": "e918cc554d4e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "꼼짝 마! 다음엔 머리를 노립니다!!@n얌전히 큰 갑옷을 입은 사람을@n이쪽으로 넘겨주세요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:185",
    "src_sha1": "8217ce8b37a5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "로스 소위님, 블로슈 중사님……@n호텔 빠져나온 거@n들켰었구나…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:212",
    "src_sha1": "7887751c905d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "폭발?!@n중사, 알폰스 군,@n빨리 도망쳐요!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:213",
    "src_sha1": "d2d39cf47a74",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아, 안에 아직 형이!@n내가 구하러 가야 해!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:214",
    "src_sha1": "4c9ee5bd4e93",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "바보 같은 소리 하지 마!@n휘말려요!@n지금은 당신이 피하는 게 먼저예요!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:215",
    "src_sha1": "456a7f5bc9f7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "으~음……@n이건, 그거다.@n얌전히 튀자!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:216",
    "src_sha1": "0c709be81720",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아……기, 기다려!@n젠장, 지금은 피하는 게 먼저인가……!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:217",
    "src_sha1": "46e21c6309d4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "형이……형이……!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:225",
    "src_sha1": "9c933fa59744",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "안녕하쇼~.@n짐, 배달 왔습니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:226",
    "src_sha1": "3e7ba6f7a6e3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "형!@n너……형한테 무슨 짓을 했어!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:227",
    "src_sha1": "ef0556c34946",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "목숨엔 지장 없지만, 출혈이 심하니까@n빨리 병원에 데려가 줘?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:228",
    "src_sha1": "d8108a434f18",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "정말로, 너무 무리하지 않게@n너희가 잘 감시해 줘?@n귀중한 인재니까 말이야…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:234",
    "src_sha1": "4935e2b61de9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "블로슈 중사, 좀 도와줘요!@n빨리 여길 벗어나야 해요!!@n당신도……@n⊥@n어라?@n없어……?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:235",
    "src_sha1": "74e177a5e4dd",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "자, 빨리 가요!@n알폰스 군, 로스 소위님도!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M008_3:236",
    "src_sha1": "433616e01bf2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "네, 네에…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

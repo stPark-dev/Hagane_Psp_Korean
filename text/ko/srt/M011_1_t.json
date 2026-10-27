@@ -4,22 +4,22 @@
   {
    "id": "srt:M011_1_t:5",
    "src_sha1": "15b3232da3c2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~nar28>@n――매스 휴즈는 죽었다.@n우로보로스 문신을 지닌@n정체불명의 자들에게 살해당한 것이다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M011_1_t:12",
    "src_sha1": "4e48338f8b76",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~nar29>@n그 죽음에 의문을 품은 머스탱은@n군 상층부의 관여를 알고, 다시금@n센트럴 진출을 결심한다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M011_1_t:15",
    "src_sha1": "bee28ba9629b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~nar30>@n한편, 아무것도 모르는 에드와 알은@n윈리와 함께 남부로 떠났다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]
