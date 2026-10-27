@@ -4,36 +4,36 @@
   {
    "id": "srt:M020_2:10",
    "src_sha1": "558aa82f3f25",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0202_edw01>@n알, 넌 수염 쪽을 맡아.@n난 이쪽을 상대할 테니까.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_2:12",
    "src_sha1": "8a4344226930",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0202_alp01>@n아직 윈리한테@n오토메일을 못 고쳤으니까@n무리하지 마.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_2:14",
    "src_sha1": "dd721bf4405a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0202_edw02>@n알았다니까!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_2:16",
    "src_sha1": "82ca62b3753b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0202_edw03>@n자……네 상대는 바로 나다.@n그 실눈 바보랑 너희가 뭘 꾸미고@n있는지, 불어 줘야겠어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_2:18",
    "src_sha1": "2ba62b92eca6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0202_lan01>@n……!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

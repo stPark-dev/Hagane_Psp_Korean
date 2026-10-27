@@ -4,58 +4,58 @@
   {
    "id": "srt:M020_2_n1:5",
    "src_sha1": "8662ec4f7190",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0202_alp02>@n앗!@n오랜만이야, 패니냐!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_2_n1:9",
    "src_sha1": "8b6a51a82c70",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "뭐 하는 거야, 대체?@n……라고 해도, 뭐@n대충 알 것 같지만.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_2_n1:13",
    "src_sha1": "29c54057d892",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0202_alp03>@n맞다, 패니냐.@n부탁이 있어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_2_n1:17",
    "src_sha1": "7a60cfb860ac",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……동료를 늘리면@n어떻게든 될 줄 알았나!@n어리석은 것들!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_2_n1:21",
    "src_sha1": "54ab821fefc6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "짜잔!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_2_n1:25",
    "src_sha1": "0cf86a3ced6b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "읏!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_2_n1:29",
    "src_sha1": "b495f95bc5a1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0202_alp04>@n음……뭐,@n처음 치고는 이 정도면 됐나.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_2_n1:33",
    "src_sha1": "a72334cae3bc",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "으음……의족 내장포에, 진 없는@n연단술이라니……만만찮은 나라로군.@n⊿@n",
+   "state": "draft",
+   "flag": "義肢内蔵砲 → '의족 내장포'(패니냐의 다리 대포로 해석)"
   }
  ]
 }

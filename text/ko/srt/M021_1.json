@@ -4,148 +4,148 @@
   {
    "id": "srt:M021_1:24",
    "src_sha1": "49b721cd000b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아~……겨우 도착했다.@n왠지 평소보다 더 피곤하네.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M021_1:25",
    "src_sha1": "dfddae96fd1a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "린의 수행원인 후 씨랑 란팡한테@n줄곧 감시당했으니까…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M021_1:31",
    "src_sha1": "a237eb555bc1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "참 나, 따라오지 말라고@n했는데도 센트럴까지@n따라오기나 하고…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M021_1:32",
    "src_sha1": "6fbe2d48a292",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "이봐, 도련님은 어디 계시나?@n네놈들, 계속 함께 있었을 텐데!@n⊿@n",
+   "state": "draft",
+   "flag": "若 → \"도련님\"(새 호칭, 미결)"
   },
   {
    "id": "srt:M021_1:34",
    "src_sha1": "458e384832b6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……뭐?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M021_1:35",
    "src_sha1": "dc4b28835979",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……없네.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M021_1:40",
    "src_sha1": "a1879104b640",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "또 행방불명……인가…….@n……정말이지, 한눈만 팔면 금세!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M021_1:41",
    "src_sha1": "f16255688a1c",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "도련님……@n또 쓰러져 계시면……어떡하지.@n⊿@n",
+   "state": "draft",
+   "flag": "若 → \"도련님\"(새 호칭, 미결)"
   },
   {
    "id": "srt:M021_1:45",
    "src_sha1": "8f16f228ee1e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아~, 속 시원하다!@n우린 이제 간다!!@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M021_1:47",
    "src_sha1": "57fba038123a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "자, 우선 군부에 얼굴 좀 내밀까.@n휴즈 중령은 군법회의소에@n있댔지…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M021_1:53",
    "src_sha1": "e3ab94495958",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그럼 나, 먼저 휴즈 씨 댁에@n인사하러 가도 돼?@n⊥@n그레이시아 씨랑 엘리시아를@n빨리 보고 싶거든.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M021_1:54",
    "src_sha1": "061d275155d2",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "알았어.@n우리도 곧 뒤따라갈게.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M021_1:55",
    "src_sha1": "d84fa43022d9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "응,@n그럼 이따 봐!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M021_1:73",
    "src_sha1": "4e28b0f38876",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "으으……밥……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M021_1:74",
    "src_sha1": "d012a45fbc89",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아~아……길바닥에 쓰러졌구먼.@n이봐, 괜찮나? 어디 사람이야?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M021_1:75",
    "src_sha1": "35b411dd7d03",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "싱……@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M021_1:76",
    "src_sha1": "12b548740c0d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "또 먼 데서 왔구먼…….@n그래서, 입국증은?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M021_1:78",
    "src_sha1": "4d90c9ff8bf1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M021_1:79",
    "src_sha1": "4d90c9ff8bf1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M021_1:84",
    "src_sha1": "9078ac1bd56b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "자, 비켜, 비켜!@n불법 입국자 지나가신다~!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M021_1:88",
    "src_sha1": "d83f14e25a32",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "살려 줘~…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

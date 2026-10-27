@@ -4,393 +4,393 @@
   {
    "id": "srt:M020_1:20",
    "src_sha1": "66949a8ce5f0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "정말, 너희는……@n맨날 맨날 연락도 없이@n돌아온다니까!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:26",
    "src_sha1": "d30e49496d7d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그 패니냐도 지금은@n성실하게 일하고 있는데……@n너희는 발전이 없다니까.@n⊥@n……그래서, 더블리스 스승님한테서@n수확은 있었어?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:28",
    "src_sha1": "0c0d5f3cf21e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "음……뭐, 멀리 돌아가고는 있지만@n앞으로 나아가고는 있다……려나.@n다음엔 센트럴의 군부에서 조사야.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:34",
    "src_sha1": "0d8252bacdbb",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아, 센트럴에 간다면 나도@n가고 싶어! 휴즈 씨 댁에@n감사 인사 드리러 가고 싶거든!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:35",
    "src_sha1": "e715ec069102",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그러네. 형도 입원했을 때@n신세를 졌으니까,@n인사 정도는 해 둬야지.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:37",
    "src_sha1": "fe921b953826",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……그래.@n그럼, 다 같이 가자!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:39",
    "src_sha1": "c37aff57c991",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "응! 그렇게 정해졌으면@n빨리 오토메일을@n고쳐야지!!@n⊥@n모자란 부품 구해 올 테니까@n잠깐 시간 좀 때우고 있을래?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:57",
    "src_sha1": "ca0bce9284bc",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……시간 때우라고 해도,@n여긴 오토메일 가게뿐이라서@n재미없단 말이지.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:59",
    "src_sha1": "3572f53951bf",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "어쩔 수 없지.@n일단 아무 데나 좀 들여다볼까.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:60",
    "src_sha1": "355a085bbe25",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "어서 옵쇼!@n뭐든지 다 있으니까 구경하고 가요!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:61",
    "src_sha1": "1f904a1f433e",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "‘동방식 외날 블레이드’@n‘동방 전래 두꺼비 기름’@n‘엄마표 수제 도시락’@n",
+   "state": "draft",
+   "flag": "상품명(ガマオイル→두꺼비 기름 등) 메뉴·아이템 번역 확정 시 대조"
   },
   {
    "id": "srt:M020_1:67",
    "src_sha1": "9ead9fafdb6d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "오토메일용 블레이드 어태치먼트를@n구입했다. 동방 전래의 잘 드는 칼날이@n장착되어 공격력이 올라가는 모양이다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:74",
    "src_sha1": "286bc52b3226",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "에드의 오토 스킬@n‘참격 강화’를 습득했다!@n⊿@n",
+   "state": "draft",
+   "flag": "스킬명 斬撃強化 → '참격 강화', 메뉴 번역과 대조 필요"
   },
   {
    "id": "srt:M020_1:76",
    "src_sha1": "855b4f12fdc7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "동방 전래의 두꺼비 기름을 구입했다.@n신비한 힘으로 베여도 미끄러지듯@n흘려 넘겨 방어력이 올라가는 모양이다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:83",
    "src_sha1": "adff2decf2cc",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "알의 오토 스킬@n‘프런트 가드’를 습득했다!@n⊿@n",
+   "state": "draft",
+   "flag": "스킬명 フロントガード → '프런트 가드', 메뉴 번역과 대조 필요"
   },
   {
    "id": "srt:M020_1:85",
    "src_sha1": "9563c9fa0f14",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "오토메일 가게에서 파는 도시락을@n구입했다. 가게 아주머니가 손수 만든@n맛으로 최대 HP가 올라가는 모양이다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:92",
    "src_sha1": "2ae4ebc206c5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "에드의 오토 스킬@n‘HP 업・중’을 습득했다!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:97",
    "src_sha1": "51a5813eb39a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "매번 감사합니다~!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:100",
    "src_sha1": "993ea333c370",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……어라.@n알 어디 갔지?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:101",
    "src_sha1": "f5166b773e23",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "형.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:103",
    "src_sha1": "4cc3c0be32ff",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……뭐야, 알.@n고양이라도 주워 왔냐?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:111",
    "src_sha1": "e9558e132991",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "응.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:116",
    "src_sha1": "674cc5e9ed03",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "푸흡!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:134",
    "src_sha1": "519f45469642",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "야~, 살았다, 살았어!@n당신들은 생명의 은인이야! 고마워!@n잘 먹었어!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:140",
    "src_sha1": "0fade806cc08",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "쓰러져 있길래 도와줬더니……@n그냥 배고파서 뻗어 있던 거냐!@n게다가 사 준다고는 안 했거든!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:141",
    "src_sha1": "0cbb3c77f016",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "작은 일은 신경 쓰지 마!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:147",
    "src_sha1": "1235c3fdb705",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "작다고 하지 마!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:149",
    "src_sha1": "ed6f02488ad4",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그나저나, 타국에서 접하는 인정……@n고맙구먼.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:151",
    "src_sha1": "cac373da1276",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "억양이 좀 있는데, 외국 사람이야?@n⊿@n",
+   "state": "draft",
+   "flag": "D4-5로 린의 억양은 재현하지 않으나 알이 억양을 언급함. 원문대로 둠"
   },
   {
    "id": "srt:M020_1:157",
    "src_sha1": "929d2ab647bb",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그래! ‘싱’에서 왔어!@n아, 난 린 야오라고 해!@n잘 부탁해!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:163",
    "src_sha1": "ac6c7f58687d",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "동쪽 대국 ‘싱’?!@n이렇게 먼 데까지@n그 대사막을 건너서 관광하러 온 거야?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:168",
    "src_sha1": "4f8ea821646f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "아이고~, 그 사막 넘느라 힘들었어.@n‘크세르크세스 유적’을 보고@n싶었으니까 어쩔 수 없지만.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:169",
    "src_sha1": "d699650f68d0",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "크세르크세스……@n거긴 아무것도 없다고 들었는데.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:175",
    "src_sha1": "df74abed9abd",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "좀 조사할 게 있어서. 이 나라에도@n‘연단술’ 관련으로@n조사하러 왔어.@n⊥@n……아, 이 나라에선 ‘연금술’이던가?@n⊥@n의학 방면에 특화된 ‘연단술’과@n과학 기술에 특화된 ‘연금술’.@n설명하자면 그런 느낌이려나?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:177",
    "src_sha1": "f8d9b7fae029",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "헤에……나라 특색이란 거군.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:179",
    "src_sha1": "cfaeb79efd86",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "우린 군사 전용이 많아……. 지금도@n남쪽의 ‘아에르고’, 서쪽의 ‘크레타’와@n국경 부근에서 소규모 충돌이@n끊이질 않아.@n⊥@n북쪽은 북쪽대로 대국 ‘드라크마’가@n버티고 있어. 일단 불가침 조약은@n맺었지만, 이쪽도 일촉즉발의@n위험한 관계야.@n⊥@n",
+   "state": "draft",
+   "flag": "용어: クレタ → '크레타'(용어집 없음)"
   },
   {
    "id": "srt:M020_1:181",
    "src_sha1": "e1974c055670",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……어라? 잘 생각해 보면@n이렇게 군사 쪽으로 기운 건@n지금 대총통이 되고 나서부턴가…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:182",
    "src_sha1": "abca801273c3",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……그건 그렇고, 흥미롭네.@n의학에 특화된 ‘연단술’이라는 거.@n연금술과의 차이를 조사해 보고 싶어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:183",
    "src_sha1": "2af1bb8e05f8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……혹시, 너희 연금술사야?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:185",
    "src_sha1": "adf84dd4df93",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "응? 맞아!@n난 에드워드 엘릭.@n국가 연금술사다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:186",
    "src_sha1": "babfa1eb4e0c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "나는 동생 알폰스 엘릭이야,@n잘 부탁해. 당장 그 연단술이라는 걸@n가르쳐 줄 수 없을까?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:192",
    "src_sha1": "bb81f8cfca5b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "국가 자격? 야아, 박식한 사람을@n만나다니 운이 좋은걸!@n그래도 난 연단술사가 아니라서 무리!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:198",
    "src_sha1": "7584026c4ac5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……술사도 아니면서, 뭘 조사하러@n이 나라에 온 건데……!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:200",
    "src_sha1": "382d43c21c64",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "음~……좀 찾는 물건이 있어.@n엄청 갖고 싶은데,@n너희라면 알고 있으려나……@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:203",
    "src_sha1": "82bdcb4f705a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……‘현자의 돌’.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:210",
    "src_sha1": "4d90c9ff8bf1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:213",
    "src_sha1": "619a7fddd9cd",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……글쎄, 모르겠는데.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:214",
    "src_sha1": "000b76100477",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "흐……그 표정.@n뭔가 알고 있는 것 같은데?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:215",
    "src_sha1": "a13946e1a78a",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……‘현자의 돌’을@n손에 넣어서 어쩌려고?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:216",
    "src_sha1": "fcf8a826fdbf",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "‘불로불사의 법’을 손에 넣을 거야!@n……집안 사정이라는 거지.@n이래 봬도 진지하다고.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:222",
    "src_sha1": "b8757f42888b",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "뭔가 알고 있다면,@n힘으로라도 캐물어야겠어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:225",
    "src_sha1": "9bd17386420f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "후, 란팡!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:238",
    "src_sha1": "4d90c9ff8bf1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:239",
    "src_sha1": "4d90c9ff8bf1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:240",
    "src_sha1": "d45e893c9a20",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……시시하네, 불로불사 따위.@n어쨌든, 이게 남한테 뭘 묻는@n태도라곤 생각이 안 드는데.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M020_1:242",
    "src_sha1": "7e080eb8e7cc",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "가게 안에선 민폐다. 밖으로 나와.@n스승님한테 단련받은 성과,@n보여 주마!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

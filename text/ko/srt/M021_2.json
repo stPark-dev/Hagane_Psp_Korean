@@ -67,8 +67,8 @@
   {
    "id": "srt:M021_2:59",
    "src_sha1": "4586b99e7e45",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
@@ -81,8 +81,8 @@
   {
    "id": "srt:M021_2:67",
    "src_sha1": "bc20f1c4c620",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "…….@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
@@ -144,57 +144,57 @@
   {
    "id": "srt:M021_2:101",
    "src_sha1": "ffe3453f0c22",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……뭐야, 방금 그거?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M021_2:102",
    "src_sha1": "4e8e36ed8527",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……글쎄?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M021_2:122",
    "src_sha1": "77fd59984799",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……이럴 때만 아이 취급이시군요.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M021_2:123",
    "src_sha1": "997ebebfa49f",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "지금은 알 필요가 없어……@n그 형제가 앞으로 나아가는 데@n방해되는 건 적을수록 좋다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M021_2:125",
    "src_sha1": "26aeb08c6225",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……하지만@n언젠가는 알게 될 겁니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M021_2:126",
    "src_sha1": "8b11adf5cab7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "……나도@n암스트롱 소령을@n“호인”이라 할 처지가 못 되는군.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M021_2:128",
    "src_sha1": "84cb839255dd",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "“호인”으로 끝날 이야기일까요……@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M021_2:130",
    "src_sha1": "85a48244df59",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "잔혹합니다.@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

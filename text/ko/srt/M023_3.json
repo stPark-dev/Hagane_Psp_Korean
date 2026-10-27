@@ -4,29 +4,29 @@
   {
    "id": "srt:M023_3:11",
    "src_sha1": "19ae93f2fbc7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "그 아가씨는 못 쫓게 할 거다.@n애초에 너희 상대해 줄@n틈은 없다고!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M023_3:13",
    "src_sha1": "6c531a9f5f21",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0233_alp01>@n린!@n왜 그런 녀석이랑 같이 있는 거야!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M023_3:15",
    "src_sha1": "4355739f2bd9",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0233_lin01>@n나중에 얘기할게…….@n저기, 여긴 좀 봐주면 안 될까?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M023_3:17",
    "src_sha1": "797be2e590b6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0233_edw01>@n……우리야말로 너희를@n상대할 틈은 없어.@n억지로라도 지나가겠어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]
