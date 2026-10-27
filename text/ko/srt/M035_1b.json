@@ -4,71 +4,71 @@
   {
    "id": "srt:M035_1b:14",
    "src_sha1": "e2be33e3d3f7",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0351b_edw01>@n그건 그렇고……뭐야, 여긴.@n별도 달도 안 보이고……@n그냥 밤이라는 건 아닌 것 같은데.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M035_1b:15",
    "src_sha1": "4ab29d14abdf",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0351b_lin01a>@n그래. 생물의 기척이 없으니까@n야외도 아닌 것 같아. 여기 오기 전에@n한동안 걸어 봤는데……@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M035_1b:17",
    "src_sha1": "055d6215ab80",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0351b_lin01b>@n그저 어둠뿐이었어.@n아무리 가도 끝이 없어.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M035_1b:19",
    "src_sha1": "509d7df628fb",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0351b_edw02>@n출구를 찾을 때까지 뒤지는 수밖에.@n……응? 이건……혹시@n크세르크세스 유적의 일부……?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M035_1b:27",
    "src_sha1": "9f05c3686d10",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0351b_edw03>@n……역시 이상해, 여기.@n온갖 건물들이 굴러다니는데……@n시대가 제각각이야. 어떻게 된 거지?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M035_1b:28",
    "src_sha1": "245c525c8a92",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0351b_lin02>@n애초에 정말 출구가 있긴 한 거야,@n여기……아무리 걸어도, 전혀@n벽에 부딪힐 것 같지가 않아…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M035_1b:30",
    "src_sha1": "bb0d1928e350",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0351b_edw04>@n몰라! 모르지만 나갈 거야!@n이런 데서 쓰러져 죽는 건@n딱 질색이다.@n⊥@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M035_1b:31",
    "src_sha1": "72d35ce2ce30",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0351b_edw05>@n게다가……기다리는 녀석도 있고.@n너한테도@n기다리는 녀석이 있잖아…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M035_1b:33",
    "src_sha1": "861293bba92e",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0351b_lin03>@n…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M035_1b:35",
    "src_sha1": "618e490791fc",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0351b_edw06>@n자, 수다는 이쯤 하고@n얼른 가자고.@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

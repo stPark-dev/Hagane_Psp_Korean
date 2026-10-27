@@ -4,57 +4,57 @@
   {
    "id": "srt:M038_4:15",
    "src_sha1": "565487683fa6",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0384_oto01>@n…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M038_4:18",
    "src_sha1": "8d6e149db562",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0384_may01>@n……?!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M038_4:20",
    "src_sha1": "1dfc6b920ed5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0384_sca01>@n왜 그러지?@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M038_4:22",
    "src_sha1": "f408b4b14c8c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0384_may02>@n싫어……저 사람, 싫어…….@n사람이지만……사람이 아니야……!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M038_4:24",
    "src_sha1": "97f346a20d2c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0384_sca02>@n흥……@n하나같이 “사람이 아닌” 놈들이군.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M038_4:27",
    "src_sha1": "e2f573ef6f4a",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~M0384_env01>@n글러트니,@n갑옷의 연금술사는 먹지 마……@n나머지는 마음대로 해도 돼!@n⊿@n",
+   "state": "draft",
+   "flag": "鎧の錬金術師(알의 별칭) 신규: 초안 \"갑옷의 연금술사\""
   },
   {
    "id": "srt:M038_4:30",
    "src_sha1": "205318c78270",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0384_glu01>@n여자애 정말 좋아~!@n말랑말랑한 고기 정말 좋아~!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M038_4:32",
    "src_sha1": "7afa11299904",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0384_alp01>@n젠장, 왜 내가 스카랑@n같이 싸워야 하는 거야……@n형, 무리하고 있지 않으면 좋겠는데!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

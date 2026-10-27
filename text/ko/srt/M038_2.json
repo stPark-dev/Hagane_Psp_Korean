@@ -4,43 +4,43 @@
   {
    "id": "srt:M038_2:11",
    "src_sha1": "0eba27905316",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0382_edw01a>@n단기 결전이다!@n이번엔 잔챙이는 상대 안 해!!@n⊥@n<~M0382_edw01b>@n글러트니랑 엔비는 무시하고@n저 수염을 치자!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M038_2:13",
    "src_sha1": "16c23197a474",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0382_alp01>@n린은 몸을 고치지 않았으니까@n오래는 못 싸우잖아? 단번에 하자.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M038_2:15",
    "src_sha1": "69a4ad8894b5",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0382_lin01>@n……한 나라의 황자가 일반인한테@n동정을 받다니, 이거 곤란한걸.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M038_2:21",
    "src_sha1": "ac75cb081cc8",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0382_env01>@n잔챙이라니 말 한번 잘하네, 꼬맹이!@n글러트니, 넌 실눈을 노려!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M038_2:23",
    "src_sha1": "863f98c21823",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0382_glu01>@n네에~.@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M038_2:28",
    "src_sha1": "3c8ffe32bc5c",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0382_oto01>@n…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]

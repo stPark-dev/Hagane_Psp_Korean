@@ -4,36 +4,36 @@
   {
    "id": "srt:M035_3_e:16",
    "src_sha1": "4f9afdd41d20",
-   "ko": "",
-   "state": "untranslated",
-   "flag": ""
+   "ko": "<~M0353_env04>@n오빠! 놀자……@n⊿@n",
+   "state": "draft",
+   "flag": "お兄ちゃん→“오빠”(D7). 엔비 몸속 아이 목소리라 성별 불명. 남아면 “형아” 검토."
   },
   {
    "id": "srt:M035_3_e:22",
    "src_sha1": "a9b331aa0600",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0353_edw07>@n!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M035_3_e:26",
    "src_sha1": "eb6eeac84216",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0353_env05>@n움직임이 멈췄군……@n놀이는 끝이다!@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M035_3_e:34",
    "src_sha1": "e8879b8192f1",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0353_edw08>@n젠……장…….@n⊿@n",
+   "state": "draft",
    "flag": ""
   },
   {
    "id": "srt:M035_3_e:38",
    "src_sha1": "71604e388935",
-   "ko": "",
-   "state": "untranslated",
+   "ko": "<~M0353_lin06>@n에드, 일어나!@n정신 차려! 젠장……!!@n⊿@n",
+   "state": "draft",
    "flag": ""
   }
  ]
