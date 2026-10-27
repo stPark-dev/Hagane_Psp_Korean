@@ -45,13 +45,15 @@ def _pattern(ja):
     return re.compile(p)
 
 
-def _source_terms(src, rows):
+def _compiled(rows):
+    """(row, pattern), longest ja first; compiled once per run since the re cache holds only 512."""
+    return [(row, _pattern(row["ja"])) for row in sorted(rows, key=lambda r: -len(r["ja"])) if row["ja"]]
+
+
+def _source_terms(src, compiled):
     """Rows whose ja occurs in src; a longer term hides the shorter ones inside it."""
     found = []
-    for row in sorted(rows, key=lambda r: -len(r["ja"])):
-        if not row["ja"]:
-            continue
-        pat = _pattern(row["ja"])
+    for row, pat in compiled:
         if pat.search(src):
             found.append(row)
             src = pat.sub("\0", src)
@@ -60,11 +62,12 @@ def _source_terms(src, rows):
 
 def lint(entries, src, glossary, max_cells=22):
     out = []
+    compiled = _compiled(glossary)
     for e in entries:
         if e["state"] == "untranslated":
             continue
         ko = _squash(e["ko"])
-        for row in _source_terms(src[e["id"]].replace("@n", ""), glossary):
+        for row in _source_terms(src[e["id"]].replace("@n", ""), compiled):
             if row["state"] == PENDING_STATE and not e.get("flag"):
                 out.append(Finding(e["id"], "pending", f"{row['ja']} is undecided; flag the entry"))
             elif _checked(row) and _squash(row["ko"]) not in ko:
