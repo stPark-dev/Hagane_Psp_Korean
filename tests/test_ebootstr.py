@@ -91,3 +91,8 @@ def test_line_widths_count_full_width_as_two_and_skip_codes():
 def test_wider_lines_are_reported():
     assert ebootstr.wider_lines("スキル取得", "스킬 획득") == []
     assert ebootstr.wider_lines("決定", "결정하기") == [(1, 8, 4)]
+
+
+def test_help_text_longer_than_four_lines_is_allowed_when_the_source_is():
+    src = "@n".join(["ヘルプ"] * 6)
+    assert ebootstr.check(src, "@n".join(["도움말"] * 6)) == []
