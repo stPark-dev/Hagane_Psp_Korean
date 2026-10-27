@@ -62,11 +62,11 @@ def missing_glyphs(font, texts):
 
 
 def graphics(arc, doc, fonts_dir):
-    """Patched .pix files for the graphics text in doc (FLASH/*.pix only)."""
+    """Patched .pix files for the graphics text in doc (2D textures: FLASH/ and ID/)."""
     def read(e):  # numba decoder: the plain one is too slow for ~650 MB of textures
         raw = arc.read_raw(e)
         return crilayla.decompress(raw) if e.compressed else raw
-    files = {e.path: read(e) for e in arc.entries if e.path.startswith("FLASH/") and e.path.endswith(".pix")}
+    files = {e.path: read(e) for e in arc.entries if e.path.startswith(("FLASH/", "ID/")) and e.path.endswith(".pix")}
     return gfxtext.patch(files, doc, fonts_dir)
 
 

@@ -13,11 +13,11 @@
    - `python3 scripts/prepare_work.py` → `work/dat000/`, `work/text/srt_src.json`, `work/text/eboot_names.json`(이 PC의 파일과 바이트 동일함을 확인함)
    - Windows: 7z 대신 Bandizip `bz.exe x -o:work/iso <iso>`로 풀어도 됨. pspdecrypt는 GitHub 릴리스(John-K/pspdecrypt 1.0 windows)를 work/ext/pspdecrypt에 받아 실행. 파이썬은 `PYTHONUTF8=1`로 실행(기본 cp949 때문에 JSON 쓰기 실패).
 3. 글꼴: 저장소 옆 `../galmuri/Galmuri11-Bold.bdf`(Galmuri, OFL). 테스트 `test_galmuri_covers_ks_hangul`이 경로를 확인.
-4. 테스트: `python3 -m pytest -q`(main 96개 통과, 2026-10-27). Windows에서는 `python -m pytest -q --import-mode=importlib`(다른 `tests` 패키지와 이름 충돌).
+4. 테스트: `python3 -m pytest -q`(main 109개 통과, 2026-10-27). Windows에서는 `python -m pytest -q --import-mode=importlib`(다른 `tests` 패키지와 이름 충돌).
 5. PPSSPP(flatpak `org.ppsspp.PPSSPP`, 설정 RemoteDebuggerOnStartup=True)로 트리 폴더를 직접 실행. 입력·캡처 도구는 `tools/ppdbg.py`, `scripts/emu/drive.py`(단계 실행), `scripts/emu/mash.py`(버튼 연타 + 10초마다 캡처). 화면 전환 직후 입력은 2초쯤 기다려야 먹힘. 버튼 이름: circle, cross, triangle, square, start, select, up/down/left/right, ltrigger, rtrigger.
 
 ## 2. 빌드
-- DAT000(대사 전체 + 한글 글꼴): `python3 -m tools.build work/iso/PSP_GAME/USRDIR/DATA/DAT000.cpk OUT/DAT000.cpk --bdf ../galmuri/Galmuri11-Bold.bdf [--policy release]`
+- DAT000(대사 전체 + 한글 글꼴 + 그림 텍스트): `python3 -m tools.build work/iso/PSP_GAME/USRDIR/DATA/DAT000.cpk OUT/DAT000.cpk --bdf ../galmuri/Galmuri11-Bold.bdf --fonts ../fonts [--policy release]`(약 50초, numba·opencv·scipy 필요). 교체 파일은 CRILAYLA로 다시 압축(`tools/crilayla.py`).
 - EBOOT(브랜치에서): `ebootstr.apply(원본 ELF, text/ko/eboot.json, 'dev')` 다음 `ebootstr.apply_utf8(결과, text/ko/eboot_utf8.json)`. 결과는 평문 ELF EBOOT.BIN(커스텀 펌웨어 필요 여부 실기 확인 대상).
 - 테스트 트리: 원본 트리를 하드링크 복사(`cp -al work/iso work/poc/u2/tree`)하고 DAT000.cpk와 SYSDIR/EBOOT.BIN만 교체.
 
@@ -28,10 +28,10 @@
 - 알려진 오탐/승인 예외는 `docs/decisions.md` D15 표(termlint 경고 11건이 정상).
 
 ## 4. 다음 작업 (사용자 지정 순서: 1 → 2 → 3)
-1. **그림 텍스트 목록 마무리**(조사 완료 2026-10-27, `docs/graphics.md` 2차)
-   - 장 제목 16장(51개 제목, 모두 EBOOT 미션 이름 번역과 원문 일치), 장소 표시 부제 55종, 3D 텍스처는 일본어 없음.
-   - 다음: 소유자에게 범위 결정 요청: A(공통 UI 아틀라스) / B(장소 표시 ~120종) / C(장 제목) / D(로고 등) 중 어디까지, 그리고 한국어 글꼴(굵은 명조 계열 OFL 후보).
-   - 구현에 필요한 것: GIM 인코더(인덱스8 + 팔레트 + 스위즐), pix 재조립, 같은 해시 사본 일괄 교체.
+1. **그림 텍스트**(D20: A+B+C+D, 구현 완료 2026-10-27 — `docs/graphics.md` 구현 상태)
+   - 글꼴: `../fonts/`에 notofonts/noto-cjk SubsetOTF/KR의 NotoSerifKR-Black·Bold, NotoSansKR-Bold·Black(OFL)과 LICENSE. 작은 UI 글자는 `../galmuri/`.
+   - 남은 것: PPSSPP로 실제 화면 확인, 컷인 그림 속 글씨 목록·범위, 작업자 판단 용어 검수(D20 끝).
+   - 그림 작업 스크립트는 work/gfx(저장소 밖)에 시험용으로만 있음. 재현에 필요한 것은 `scripts/gfx/`(gfx_index → gfx_sheets → gfx_label_score/crops, gfx_titles)와 `text/ko/graphics.json`의 상자 좌표.
 2. **실기 테스트용 ISO**
    - 지금 상태(대사 전체 + UI + 시스템 화면 한국어)로 ISO를 만들어 사용자가 실제 PSP(커스텀 펌웨어)에서 확인.
    - 확인 항목: 평문 ELF EBOOT 실행 여부, 한글 표시, XMB 세이브 정보 한글(시스템 글꼴), 저장·불러오기·덮어쓰기·삭제, 설치 데이터(INS000.DNS, D2) 동작.

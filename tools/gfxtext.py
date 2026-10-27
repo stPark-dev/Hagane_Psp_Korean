@@ -180,13 +180,6 @@ def draw_label(rgba, rect, text, style, fonts_dir, align="center"):
         row[on[ew + r]] = tuple(grad[min(r * len(grad) // ch, len(grad) - 1)]) + (255,)
 
 
-def label_atlas(original_rgba, size, labels, fonts_dir):
-    rgba = np.frombuffer(original_rgba, np.uint8).reshape(size[1], size[0], 4).copy()
-    for lb in labels:
-        draw_label(rgba, lb["rect"], lb["ko"], lb["style"], fonts_dir, lb.get("align", "center"))
-    return rgba.tobytes()
-
-
 PLACE_NAME_PX, PLACE_SUB_PX, PLACE_NAME_ROWS = 20, 12, 23  # name band = first 23 rows of the box
 
 
@@ -233,33 +226,104 @@ def place_label(rgba, box, name, sub, fonts_dir):
         rgba[oy:oy + o.shape[0], ox:ox + o.shape[1]] = np.clip(region + 0.5, 0, 255).astype(np.uint8)
 
 
+def erase(rgba, box, mode, thr=110):
+    """Remove text inside box = [x0, y0, x1, y1]: "clear" makes every visible pixel transparent,
+    "inpaint" fills the pixels brighter than thr from their surroundings (text drawn over a picture),
+    "inpaint_dark" the pixels darker than thr and the light outline around them."""
+    x0, y0, x1, y1 = box
+    sub = rgba[y0:y1, x0:x1]
+    if mode == "clear":
+        sub[sub[..., 3] > 20] = 0
+        return
+    import cv2
+    lum = sub[..., :3].astype(int).mean(-1)
+    m = (((lum < thr) if mode == "inpaint_dark" else (lum > thr)) & (sub[..., 3] > 20)).astype(np.uint8) * 255
+    if mode == "inpaint_dark":                      # and the light outline right around the letters
+        m |= ((lum > 200) & (cv2.dilate(m, np.ones((5, 5), np.uint8)) > 0)).astype(np.uint8) * 255
+    m = cv2.dilate(m, np.ones((3, 3), np.uint8))
+    sub[..., :3] = cv2.inpaint(np.ascontiguousarray(sub[..., :3]), m, 4, cv2.INPAINT_TELEA)
+    sub[..., 3] = cv2.inpaint(np.ascontiguousarray(sub[..., 3]), m, 4, cv2.INPAINT_TELEA)
+
+
+def draw_text(rgba, text, box, px, fonts_dir, fill=(255, 255, 255), edge=(0, 0, 0), width=1, spacing=0):
+    """Text centred in box = [x0, y0, x1, y1], in Noto Serif KR, with an outline; squeezed to fit.
+
+    The box may run past the texture edge (text cut there, like the original)."""
+    pad = 64
+    big = np.zeros((rgba.shape[0] + 2 * pad, rgba.shape[1] + 2 * pad, 4), np.uint8)
+    big[pad:-pad, pad:-pad] = rgba
+    _draw_text(big, text, [v + pad for v in box], px, fonts_dir, fill, edge, width, spacing)
+    rgba[:] = big[pad:-pad, pad:-pad]
+
+
+def _draw_text(rgba, text, box, px, fonts_dir, fill, edge, width, spacing):
+    x0, y0, x1, y1 = box
+    font = ImageFont.truetype(os.path.join(fonts_dir, SERIF), px)
+    advances = [font.getlength(c) for c in text]
+    m = Image.new("L", (int(sum(advances) + spacing * len(text)) + 8, 2 * px), 0)
+    d, x = ImageDraw.Draw(m), 2
+    for c, adv in zip(text, advances):
+        d.text((x, 0), c, font=font, fill=255)
+        x += adv + spacing
+    m = m.crop(m.getbbox())
+    m = m.resize((min(m.width, x1 - x0 - 2 * width), min(m.height, y1 - y0 - 2 * width)), Image.LANCZOS)
+    m = Image.fromarray(np.pad(np.asarray(m), width))
+    t = np.asarray(m, float) / 255
+    o = np.asarray(m.filter(ImageFilter.MaxFilter(2 * width + 1)), float) / 255
+    ox, oy = x0 + (x1 - x0 - m.width) // 2, y0 + (y1 - y0 - m.height) // 2
+    region = rgba[oy:oy + m.height, ox:ox + m.width].astype(float)
+    for a, col in ((o, edge), (t, fill)):                    # outline first, then the letters over it
+        a = a[..., None]
+        base = region[..., 3:] / 255
+        out = a + base * (1 - a)
+        region[..., :3] = (np.array(col) * a + region[..., :3] * base * (1 - a)) / np.maximum(out, 1e-6)
+        region[..., 3:] = out * 255
+    rgba[oy:oy + m.height, ox:ox + m.width] = np.clip(region + 0.5, 0, 255).astype(np.uint8)
+
+
 def redraw(doc, originals, fonts_dir):
-    """{hash: new GIM} for every texture in doc that appears in originals ({hash: original GIM})."""
-    out = {}
+    """{hash: new GIM} for every texture in doc that appears in originals ({hash: original GIM}).
+
+    A texture named in several sections gets all their changes, in the order titles, labels,
+    places, logos, and is encoded once."""
+    work = {}
+
+    def canvas(h):
+        if h not in work:
+            w, hh, rgba = gim.decode(originals[h])
+            work[h] = np.frombuffer(rgba, np.uint8).reshape(hh, w, 4).copy()
+        return work[h]
+
     for t in doc.get("titles", []):
         lines = [x["ko"] for x in t["lines"]]
         for h in t["hashes"]:
             if h in originals:
-                out[h] = gim.remap(originals[h], title_atlas(lines, fonts_dir))
+                work[h] = np.frombuffer(title_atlas(lines, fonts_dir), np.uint8).reshape(256, 256, 4).copy()
     for t in doc.get("labels", []):
         for h in t["hashes"]:
             if h in originals:
-                w, hh, rgba = gim.decode(originals[h])
-                out[h] = gim.remap(originals[h], label_atlas(rgba, (w, hh), t["labels"], fonts_dir))
+                a = canvas(h)
+                for lb in t["labels"]:
+                    draw_label(a, lb["rect"], lb["ko"], lb["style"], fonts_dir, lb.get("align", "center"))
     places = doc.get("places", {})
     for lb in places.get("labels", []):
-        h = lb["hash"]
-        if h in originals:
-            w, hh, rgba = gim.decode(originals[h])
-            a = np.frombuffer(rgba, np.uint8).reshape(hh, w, 4).copy()
+        if lb["hash"] in originals:
             terms = places["terms"]
-            place_label(a, lb["box"], terms[lb["name"]], terms[lb["sub"]], fonts_dir)
-            out[h] = gim.remap(originals[h], a.tobytes())
-    return out
+            place_label(canvas(lb["hash"]), lb["box"], terms[lb["name"]], terms[lb["sub"]], fonts_dir)
+    for lg in doc.get("logos", []):
+        for h in lg["hashes"]:
+            if h in originals:
+                a = canvas(h)
+                for e in lg["erase"]:
+                    erase(a, e["box"], e["mode"], e.get("thr", 110))
+                for t in lg["draw"]:
+                    draw_text(a, t["ko"], t["box"], t["px"], fonts_dir, t.get("fill", (255, 255, 255)),
+                              t.get("edge", (0, 0, 0)), t.get("width", 1), t.get("spacing", 0))
+    return {h: gim.remap(originals[h], a.tobytes()) for h, a in work.items()}
 
 
 def targets(doc):
-    hashes = {h for key in ("titles", "labels") for t in doc.get(key, []) for h in t["hashes"]}
+    hashes = {h for key in ("titles", "labels", "logos") for t in doc.get(key, []) for h in t["hashes"]}
     return hashes | {lb["hash"] for lb in doc.get("places", {}).get("labels", [])}
 
 
