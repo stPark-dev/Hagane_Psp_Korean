@@ -56,3 +56,9 @@ def test_katakana_term_inside_a_longer_katakana_word_is_ignored():
     rows = [g("ハン", "한", kind="name")]
     out = termlint.lint([e("a", "밥"), e("b", "밥")], {"a": "ゴハン食べた", "b": "ハンが来た"}, rows)
     assert [f.id for f in out] == ["b"]
+
+
+def test_source_line_break_inside_a_term_is_ignored():
+    rows = [g("人造人間", "인조인간"), g("人造人間（ホムンクルス）", "호문쿨루스")]
+    out = termlint.lint([e("a", "호문쿨루스에 대해")], {"a": "人造人間@n（ホムンクルス）について"}, rows)
+    assert out == []

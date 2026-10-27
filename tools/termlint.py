@@ -64,7 +64,7 @@ def lint(entries, src, glossary, max_cells=22):
         if e["state"] == "untranslated":
             continue
         ko = _squash(e["ko"])
-        for row in _source_terms(src[e["id"]], glossary):
+        for row in _source_terms(src[e["id"]].replace("@n", ""), glossary):
             if row["state"] == PENDING_STATE and not e.get("flag"):
                 out.append(Finding(e["id"], "pending", f"{row['ja']} is undecided; flag the entry"))
             elif _checked(row) and _squash(row["ko"]) not in ko:
