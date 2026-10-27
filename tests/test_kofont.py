@@ -84,3 +84,31 @@ def test_galmuri_covers_ks_hangul(name):
     f = bdf.parse(path.read_text())
     missing = [c for c in kofont.KS_HANGUL if ord(c) not in f.glyphs]
     assert missing == []
+
+
+def test_render_shift_moves_glyph_right():
+    g = bdf.parse(TINY_BDF).glyphs[0xAC00]
+    cell = kofont.render_cell(g, width=4, height=4, baseline=3, level=15, x_shift=-1)
+    px = [[(cell[y * 2 + x // 2] >> (4 * (x & 1))) & 15 for x in range(4)] for y in range(4)]
+    assert px[2] == [15, 0, 15, 0]
+    assert px[3] == [0, 15, 0, 0]
+
+
+def test_add_hangul_passes_shift():
+    base = ffon.Font(width=4, height=4, bpp=4, unknown_size=0, flags=bytes([1, 0]) + bytes(30),
+                     single={}, double={(16, 1): 1}, glyphs=[bytes(8)])
+    font = bdf.parse(TINY_BDF)
+    out = kofont.add_hangul(base, font, "가", baseline=3, x_shift=-1)
+    assert out.glyphs[1] == kofont.render_cell(font.glyphs[0xAC00], 4, 4, 3, 15, x_shift=-1)
+
+
+def test_galmuri_bold_centered_leaves_cell_edges_empty():
+    """D8-7: centred Hangul keeps the outer columns of the 14px cell free (no bleed when upscaled)."""
+    path = GALMURI / "Galmuri11-Bold.bdf"
+    if not path.exists():
+        pytest.skip("Galmuri11-Bold.bdf not present")
+    f = bdf.parse(path.read_text())
+    for c in kofont.KS_HANGUL:
+        cell = kofont.render_cell(f.glyphs[ord(c)], 14, 16, 13, 15, x_shift=kofont.HANGUL_X_SHIFT)
+        cols = {x for y in range(16) for x in range(14) if (cell[y * 7 + x // 2] >> (4 * (x & 1))) & 15}
+        assert 0 not in cols and 13 not in cols, c

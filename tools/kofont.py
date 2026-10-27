@@ -40,9 +40,10 @@ def encode(text):
     return bytes(out)
 
 
-def render_cell(glyph, width, height, baseline, level):
+def render_cell(glyph, width, height, baseline, level, x_shift=0):
     """Render a BDF glyph into a 4bpp cell; `baseline` is the cell row the
-    glyph's baseline sits on (pixels with yoff 0 end on that row)."""
+    glyph's baseline sits on (pixels with yoff 0 end on that row). `x_shift`
+    moves the glyph right (negative: left)."""
     row_bytes = (width * 4 + 7) // 8
     cell = bytearray(row_bytes * height)
     top = baseline + 1 - glyph.yoff - glyph.height
@@ -51,13 +52,19 @@ def render_cell(glyph, width, height, baseline, level):
         if not 0 <= y < height:
             continue
         for gx in range(glyph.width):
-            x = glyph.xoff + gx
+            x = glyph.xoff + gx + x_shift
             if 0 <= x < width and glyph.pixel(gx, gy):
                 cell[y * row_bytes + x // 2] |= level << (4 * (x & 1))
     return bytes(cell)
 
 
-def add_hangul(font, bdf_font, chars, baseline, level=15):
+# Galmuri11-Bold Hangul ink spans columns 0-10; one column right centres it in
+# the 14px cell and keeps both edge columns empty (D8-7: no bleed between
+# glyphs when the emulator upscales with linear filtering).
+HANGUL_X_SHIFT = 1
+
+
+def add_hangul(font, bdf_font, chars, baseline, level=15, x_shift=0):
     """Return a copy of `font` with glyphs for `chars` appended and their
     assigned codes pointing at them."""
     if font.bpp != 4:
@@ -67,6 +74,6 @@ def add_hangul(font, bdf_font, chars, baseline, level=15):
         g = bdf_font.glyphs.get(ord(ch))
         if g is None:
             raise ValueError(f"BDF font has no glyph for {ch!r}")
-        out.glyphs.append(render_cell(g, font.width, font.height, baseline, level))
+        out.glyphs.append(render_cell(g, font.width, font.height, baseline, level, x_shift))
         out.double[_KUTEN[ch]] = len(out.glyphs)
     return out
