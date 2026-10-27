@@ -1,9 +1,10 @@
 """Product build: Korean DAT000.cpk from the user's original disc files.
 
-    python3 -m tools.build SRC_DAT000.cpk OUT_DAT000.cpk --bdf Galmuri11-Bold.bdf [--policy dev|release]
+    python3 -m tools.build SRC_DAT000.cpk OUT_DAT000.cpk --bdf Galmuri11-Bold.bdf [--fonts ../fonts] [--policy dev|release]
 
-Replaces FAfont14.fon (Hangul glyphs in JIS rows 16-40) and every FLASH/*.srt
-that has a translation file in text/ko/srt. The EBOOT is built separately
+Replaces FAfont14.fon (Hangul glyphs in JIS rows 16-40), every FLASH/*.srt
+that has a translation file in text/ko/srt, and with --fonts the .pix files whose
+textures text/ko/graphics.json redraws (D20); replaced files are stored CRILAYLA. The EBOOT is built separately
 (branch poc/eboot-ui until verified on a real PSP, D7). Fails on any problem.
 """
 import argparse
@@ -11,7 +12,7 @@ import json
 import os
 import sys
 
-from tools import bdf, cpk, ffon, kofont, kotext, textcheck
+from tools import bdf, cpk, crilayla, ffon, gfxtext, kofont, kotext, textcheck
 
 FONT = "FAfont14.fon"
 BASELINE = 13  # D1/PoC-K1
@@ -60,7 +61,16 @@ def missing_glyphs(font, texts):
     return out
 
 
-def build_dat000(src, out, bdf_path, policy, ko_dir="text/ko/srt"):
+def graphics(arc, doc, fonts_dir):
+    """Patched .pix files for the graphics text in doc (FLASH/*.pix only)."""
+    def read(e):  # numba decoder: the plain one is too slow for ~650 MB of textures
+        raw = arc.read_raw(e)
+        return crilayla.decompress(raw) if e.compressed else raw
+    files = {e.path: read(e) for e in arc.entries if e.path.startswith("FLASH/") and e.path.endswith(".pix")}
+    return gfxtext.patch(files, doc, fonts_dir)
+
+
+def build_dat000(src, out, bdf_path, policy, ko_dir="text/ko/srt", fonts_dir=None):
     arc = cpk.CpkArchive(src)
     paths = arc.by_path()
 
@@ -80,8 +90,12 @@ def build_dat000(src, out, bdf_path, policy, ko_dir="text/ko/srt"):
     lost = missing_glyphs(ffon.parse(repl[FONT]), texts)
     if lost:
         raise kotext.TranslationError([f"no glyph for {ch!r}" for ch in sorted(lost)])
-    cpk.rebuild(src, out, repl)
-    return len(repl) - 1
+    n = len(repl) - 1
+    gfx = os.path.join(os.path.dirname(ko_dir), "graphics.json")
+    if fonts_dir and os.path.exists(gfx):
+        repl.update(graphics(arc, json.load(open(gfx, encoding="utf-8")), fonts_dir))
+    cpk.rebuild(src, out, repl, compress=True)
+    return n, len(repl) - 1 - n
 
 
 def main(argv=None):
@@ -89,15 +103,16 @@ def main(argv=None):
     ap.add_argument("src")
     ap.add_argument("out")
     ap.add_argument("--bdf", required=True)
+    ap.add_argument("--fonts", help="folder with the Noto KR fonts (D20); omit to keep textures as they are")
     ap.add_argument("--policy", choices=("dev", "release"), default="dev")
     a = ap.parse_args(argv)
     try:
-        n = build_dat000(a.src, a.out, a.bdf, a.policy)
+        n, g = build_dat000(a.src, a.out, a.bdf, a.policy, fonts_dir=a.fonts)
     except kotext.TranslationError as e:
         print("\n".join(e.problems[:50]), file=sys.stderr)
         print(f"{len(e.problems)} problems; nothing written", file=sys.stderr)
         return 1
-    print(f"{a.out}: font + {n} scripts")
+    print(f"{a.out}: font + {n} scripts + {g} texture files")
     return 0
 
 
