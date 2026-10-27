@@ -115,7 +115,8 @@ def remap(buf, rgba):
     """Same-size GIM with its index8 pixels set to rgba (w*h*4 bytes), keeping the palette.
 
     Pixels whose colour did not change keep their old index; changed pixels take the nearest
-    palette colour (squared RGBA distance), so the palette must already hold the colours drawn."""
+    palette colour (squared RGBA distance, alpha weighted 4x; fully transparent pixels take a
+    transparent entry), so the palette must already hold the colours drawn."""
     leaves, w, h, pitch, raw, pal = _index8(buf)
     old = np.frombuffer(raw, np.uint8).reshape(-1, pitch)[:h, :w]
     new = np.frombuffer(rgba, np.uint8).reshape(h, w, 4)
@@ -123,7 +124,12 @@ def remap(buf, rgba):
     changed = (pal[old] != new).any(-1)
     if changed.any():
         cols, inv = np.unique(new[changed], axis=0, return_inverse=True)
-        d = ((cols[:, None, :].astype(int) - pal[None, :, :].astype(int)) ** 2).sum(-1)
+        diff = cols[:, None, :].astype(int) - pal[None, :, :].astype(int)
+        diff[..., 3] *= 4                                   # a wrong alpha shows more than a wrong hue
+        d = (diff ** 2).sum(-1)
+        clear = pal[:, 3] == 0
+        if clear.any():                                     # transparent stays transparent, whatever its RGB
+            d[cols[:, 3] == 0] = np.where(clear, 0, 1 << 40)
         idx[changed] = d.argmin(1).astype(np.uint8)[inv.ravel()]
     return _write_index8(buf, leaves, idx)
 
