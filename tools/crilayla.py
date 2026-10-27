@@ -172,7 +172,7 @@ def compress(data):
     arr = np.frombuffer(bytes(data), np.uint8)
     buf, nbits = _encode(arr)
     stream = buf[:-(-nbits // 8)][::-1].tobytes()
-    pad = -len(stream) % 4
+    pad = -len(stream) % 4 + 4        # the game's own files always keep 4-7 unread bytes in front
     body = bytes(pad) + stream
     return b"CRILAYLA" + struct.pack("<II", len(data) - PREFIX, len(body)) + body + bytes(data[:PREFIX])
 

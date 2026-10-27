@@ -226,8 +226,9 @@ def rebuild(src, out, replacements, compress=False):
     """Write a copy of a TOC-based CPK with some files replaced.
 
     replacements: {entry path: new bytes}; replaced files are stored
-    uncompressed, or with compress=True as CRILAYLA when that is smaller
-    (each stream is checked by decompressing it again). Physical file order and alignment are preserved, and the
+    uncompressed, or with compress=True as CRILAYLA when the original was
+    compressed, the new data is no larger than the original and the stream
+    is smaller (each stream is checked by decompressing it again). Physical file order and alignment are preserved, and the
     TOC/header fields that depend on sizes and offsets are patched in place,
     so an empty replacement set reproduces the source byte for byte."""
     arc = CpkArchive(src)
@@ -243,7 +244,10 @@ def rebuild(src, out, replacements, compress=False):
     stored = {}
     for p, data in replacements.items():
         stored[p] = data
-        if compress and len(data) > crilayla.PREFIX:
+        e = paths[p]
+        # the game unpacks a compressed file into a buffer sized for the original: a grown file
+        # (the Korean FAfont14.fon) hangs the boot when compressed, so it goes in uncompressed
+        if compress and e.compressed and len(data) <= e.extract_size and len(data) > crilayla.PREFIX:
             c = crilayla.compress(data)
             if len(c) < len(data):
                 if crilayla.decompress(c) != data:

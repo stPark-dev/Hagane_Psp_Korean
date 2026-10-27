@@ -207,3 +207,16 @@ def test_rebuild_can_store_replacements_compressed(tmp_path):
     e = arc.by_path()[target.path]
     assert e.compressed and e.extract_size == len(new) and e.size < len(new) // 2
     assert arc.read(e) == new
+
+
+@needs_dat000
+def test_rebuild_keeps_a_grown_file_uncompressed(tmp_path):
+    # a grown compressed file hangs the game's loader (Korean FAfont14.fon), so it is stored raw
+    src = cpk.CpkArchive(DAT000)
+    target = src.by_path()["FAfont14.fon"]
+    assert target.compressed
+    new = src.read(target) * 2
+    out = tmp_path / "DAT000.cpk"
+    cpk.rebuild(DAT000, out, {target.path: new}, compress=True)
+    e = cpk.CpkArchive(out).by_path()[target.path]
+    assert not e.compressed and e.size == len(new)

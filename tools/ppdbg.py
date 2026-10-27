@@ -63,7 +63,24 @@ def decode_frame(buf):
     return opcode, data, p + n
 
 
+def _find_port_windows():
+    pids = set()
+    tasks = subprocess.run(["tasklist", "/fo", "csv", "/nh"], capture_output=True, text=True, encoding="oem").stdout
+    for line in tasks.splitlines():
+        cells = [c.strip('"') for c in line.split('","')]
+        if cells and cells[0].lower().startswith("ppsspp"):
+            pids.add(cells[1])
+    out = subprocess.run(["netstat", "-ano", "-p", "tcp"], capture_output=True, text=True, encoding="oem").stdout
+    for line in out.splitlines():
+        f = line.split()
+        if len(f) == 5 and f[3] == "LISTENING" and f[4] in pids:
+            return int(f[1].rsplit(":", 1)[1])
+    raise RuntimeError("PPSSPP debugger port not found (is RemoteDebuggerOnStartup enabled?)")
+
+
 def find_port():
+    if sys.platform == "win32":
+        return _find_port_windows()
     out = subprocess.run(["ss", "-ltnp"], capture_output=True, text=True).stdout
     for line in out.splitlines():
         if "PPSSPP" in line:
@@ -79,7 +96,61 @@ def find_window():
     raise RuntimeError("PPSSPP window not found")
 
 
+def _capture_window_windows(path):
+    """Copy the PPSSPP window's own pixels (PrintWindow), so windows on top of it do not show."""
+    import ctypes
+    from ctypes import wintypes
+    from PIL import Image
+    user32, gdi32 = ctypes.windll.user32, ctypes.windll.gdi32
+    user32.SetProcessDPIAware()
+    found = []
+
+    @ctypes.WINFUNCTYPE(wintypes.BOOL, wintypes.HWND, wintypes.LPARAM)
+    def visit(hwnd, _):
+        title = ctypes.create_unicode_buffer(256)
+        user32.GetWindowTextW(hwnd, title, 256)
+        if user32.IsWindowVisible(hwnd) and title.value.startswith("PPSSPP"):
+            found.append(hwnd)
+        return True
+    user32.EnumWindows(visit, 0)
+    if not found:
+        raise RuntimeError("PPSSPP window not found")
+    hwnd = found[0]
+    rect = wintypes.RECT()
+    user32.GetClientRect(hwnd, ctypes.byref(rect))
+    w, h = rect.right, rect.bottom
+    wdc = user32.GetDC(hwnd)
+    mdc = gdi32.CreateCompatibleDC(wdc)
+    bmp = gdi32.CreateCompatibleBitmap(wdc, w, h)
+    gdi32.SelectObject(mdc, bmp)
+    user32.PrintWindow(hwnd, mdc, 1 | 2)            # client area only, full (GPU) content
+    header = struct.pack("<IiiHHIIiiII", 40, w, -h, 1, 32, 0, 0, 0, 0, 0, 0)
+    buf = ctypes.create_string_buffer(w * h * 4)
+    gdi32.GetDIBits(mdc, bmp, 0, h, buf, ctypes.create_string_buffer(header), 0)
+    gdi32.DeleteObject(bmp)
+    gdi32.DeleteDC(mdc)
+    user32.ReleaseDC(hwnd, wdc)
+    img = Image.frombuffer("RGB", (w, h), buf.raw, "raw", "BGRX", 0, 1)
+    if img.getbbox() is None:
+        # a GPU-drawn game frame does not come through PrintWindow: keep the window on top and
+        # grab its screen area, but only if the window really is what shows there
+        from PIL import ImageGrab
+        user32.SetWindowPos(hwnd, -1, 0, 0, 0, 0, 0x0001 | 0x0002 | 0x0010)  # TOPMOST, no move/size/activate
+        time.sleep(0.2)
+        corner = wintypes.POINT(0, 0)
+        user32.ClientToScreen(hwnd, ctypes.byref(corner))
+        for fx, fy in ((0.5, 0.5), (0.05, 0.05), (0.95, 0.95)):
+            pt = wintypes.POINT(corner.x + int(w * fx), corner.y + int(h * fy))
+            top = user32.GetAncestor(user32.WindowFromPoint(pt), 2)
+            if top != hwnd:
+                raise RuntimeError("another window covers PPSSPP; not capturing the screen")
+        img = ImageGrab.grab((corner.x, corner.y, corner.x + w, corner.y + h), all_screens=True)
+    img.save(path)
+
+
 def capture_window(path):
+    if sys.platform == "win32":
+        return _capture_window_windows(path)
     subprocess.run(["import", "-window", find_window(), path], check=True)
 
 
@@ -123,8 +194,14 @@ class Debugger:
         while True:
             r = decode_frame(self.buf)
             if r:
+                fin = self.buf[0] & 0x80
                 opcode, data, used = r
                 self.buf = self.buf[used:]
+                if opcode in (0, 1) and not (fin and opcode == 1):  # fragmented message
+                    self.parts = (getattr(self, "parts", b"") if opcode == 0 else b"") + data
+                    if not fin:
+                        continue
+                    data, self.parts = self.parts, b""
                 if opcode == 9:  # ping
                     self.sock.sendall(encode_frame(data, opcode=10))
                     continue
