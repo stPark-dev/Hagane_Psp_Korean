@@ -157,3 +157,23 @@ def test_place_label_lines_end_where_the_original_lines_ended():
     gfxtext.place_label(a, box, "식당", "리올", FONTS)
     ends = [np.nonzero((a[r0:r1, 150:250, 3] > 40).any(0))[0].max() + 151 for r0, r1 in ((200, 223), (223, 238))]
     assert abs(ends[0] - 250) <= 1 and abs(ends[1] - 244) <= 1
+
+
+def test_erase_grow_follows_a_stroke_past_the_box_but_not_other_marks():
+    a = np.zeros((40, 80, 4), np.uint8)
+    a[..., 3] = 255                                      # dark opaque picture
+    a[18:22, 20:54, :3] = 255                            # white stroke from inside the box to 4 px past it
+    a[18:22, 62:70, :3] = 255                            # another white mark, not touching the stroke
+    gfxtext.erase(a, [10, 10, 50, 30], "inpaint", 200, grow=8)
+    assert a[18:22, 20:54, :3].max() < 200               # the whole stroke is gone
+    assert a[18:22, 62:70, :3].min() == 255              # the separate mark stays
+
+
+def test_erase_grow_can_be_limited_to_one_axis():
+    a = np.zeros((40, 80, 4), np.uint8)
+    a[..., 3] = 255
+    a[18:22, 20:54, :3] = 255                            # runs 4 px past the box to the right
+    a[10:34, 30:32, :3] = 255                            # runs past the box above and below
+    gfxtext.erase(a, [10, 14, 50, 30], "inpaint", 200, grow=[8, 0])
+    assert a[18:22, 50:54, :3].max() < 200               # followed sideways
+    assert a[10:14, 30:32, :3].min() == 255 and a[30:34, 30:32, :3].min() == 255   # not up or down

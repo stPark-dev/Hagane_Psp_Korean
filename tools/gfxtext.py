@@ -264,18 +264,32 @@ def place_label(rgba, box, name, sub, fonts_dir):
         rgba[oy:oy + o.shape[0], ox:ox + o.shape[1]] = np.clip(region + 0.5, 0, 255).astype(np.uint8)
 
 
-def erase(rgba, box, mode, thr=110):
+def erase(rgba, box, mode, thr=110, grow=0):
     """Remove text inside box = [x0, y0, x1, y1]: "clear" makes every visible pixel transparent,
     "inpaint" fills the pixels brighter than thr from their surroundings (text drawn over a picture),
-    "inpaint_dark" the pixels darker than thr and the light outline around them."""
+    "inpaint_dark" the pixels darker than thr and the light outline around them.
+    grow (inpaint): also take the parts of those strokes that run up to grow px past box
+    (one number, or [x, y] to grow sideways and up/down by different amounts)."""
     x0, y0, x1, y1 = box
-    sub = rgba[y0:y1, x0:x1]
     if mode == "clear":
+        sub = rgba[y0:y1, x0:x1]
         sub[sub[..., 3] > 20] = 0
         return
     import cv2
+    H, W = rgba.shape[:2]
+    grx, gry = grow if isinstance(grow, (list, tuple)) else (grow, grow)
+    gx0, gy0, gx1, gy1 = max(0, x0 - grx), max(0, y0 - gry), min(W, x1 + grx), min(H, y1 + gry)
+    sub = rgba[gy0:gy1, gx0:gx1]
     lum = sub[..., :3].astype(int).mean(-1)
     m = (((lum < thr) if mode == "inpaint_dark" else (lum > thr)) & (sub[..., 3] > 20)).astype(np.uint8) * 255
+    inside = np.zeros(m.shape, bool)
+    inside[y0 - gy0:y1 - gy0, x0 - gx0:x1 - gx0] = True
+    if grow:                                        # keep the strokes that reach into box, whole
+        _, lab = cv2.connectedComponents(m, connectivity=8)
+        keep = np.unique(lab[inside & (m > 0)])
+        m = (np.isin(lab, keep[keep > 0])).astype(np.uint8) * 255
+    else:
+        m[~inside] = 0
     if mode == "inpaint_dark":                      # and the light outline right around the letters
         m |= ((lum > 200) & (cv2.dilate(m, np.ones((5, 5), np.uint8)) > 0)).astype(np.uint8) * 255
     m = cv2.dilate(m, np.ones((3, 3), np.uint8))
@@ -379,7 +393,7 @@ def redraw(doc, originals, fonts_dir):
                 edges = [glow_colour(a, t["box"]) if t.get("edge") == "sample" else t.get("edge", (0, 0, 0))
                          for t in lg["draw"]]
                 for e in lg["erase"]:
-                    erase(a, e["box"], e["mode"], e.get("thr", 110))
+                    erase(a, e["box"], e["mode"], e.get("thr", 110), e.get("grow", 0))
                 for t, edge in zip(lg["draw"], edges):
                     draw_text(a, t["ko"], t["box"], t["px"], fonts_dir, t.get("fill", (255, 255, 255)),
                               edge, t.get("width", 1), t.get("spacing", 0), t.get("glow", 0))
