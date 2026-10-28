@@ -130,3 +130,30 @@ def test_stat_label_draws_dark_11px_letters_unsqueezed_in_a_12px_cell():
     assert rows.max() - rows.min() + 1 == 11                    # full Galmuri11 height, not squeezed
     ink = a[a[..., 3] == 255]
     assert len(ink) and (ink[:, :3] == (37, 34, 31)).all()      # dark, no outline colour
+
+
+def test_label_anchors_on_the_original_ink_not_the_cell():
+    a = np.zeros((12, 80, 4), np.uint8)
+    a[2:10, 30:60] = (83, 83, 83, 200)                    # original text sits right of the cell's middle
+    gfxtext.draw_label(a, [0, 0, 80, 12], "효과", "grey", FONTS, "center", ink=True)
+    xs = np.nonzero(a[..., 3].any(0))[0]
+    assert abs((xs.min() + xs.max() + 1) / 2 - 45) <= 1  # centred on the old ink (30..60), not on 40
+
+
+def test_left_label_starts_where_the_original_ink_started():
+    a = np.zeros((12, 80, 4), np.uint8)
+    a[2:10, 7:50] = (83, 83, 83, 200)
+    gfxtext.draw_label(a, [0, 0, 80, 12], "효과", "grey", FONTS, "left", ink=True)
+    assert np.nonzero(a[..., 3].any(0))[0].min() == 7
+
+
+@needs_fonts
+def test_place_label_lines_end_where_the_original_lines_ended():
+    a = np.zeros((256, 256, 4), np.uint8)
+    a[:, :100] = (90, 90, 90, 255)                       # picture left of the transparent strip
+    box = [150, 200, 100, 38]
+    a[203:220, 200:250] = (255, 255, 255, 255)          # original name: ends at the box edge (250)
+    a[225:234, 220:244] = (255, 255, 255, 255)          # original sub-title: ends 6 px short (244)
+    gfxtext.place_label(a, box, "식당", "리올", FONTS)
+    ends = [np.nonzero((a[r0:r1, 150:250, 3] > 40).any(0))[0].max() + 151 for r0, r1 in ((200, 223), (223, 238))]
+    assert abs(ends[0] - 250) <= 1 and abs(ends[1] - 244) <= 1

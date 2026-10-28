@@ -33,6 +33,7 @@
    - 글꼴: `../fonts/`에 notofonts/noto-cjk SubsetOTF/KR의 NotoSerifKR-Black·Bold, NotoSansKR-Bold·Black(OFL)과 LICENSE. 작은 UI 글자는 `../galmuri/`.
    - 2026-10-28 처리: 전투 UI 그림 3장, 로딩 화면 로고 22장, 전투 준비 메뉴 '미션 정보' 제목, 능력치 이름 정렬(`docs/graphics.md` 구현 상태).
    - 전투 팝업은 battle01.fls 배치로 화면 합성을 재현해 확인(글자 간격 20–22px로 겹침 — 처음 가정한 24px 연속은 틀렸음). 게임 화면 확인은 진행 중 기회 될 때.
+   - 위치·칸 점검: `python3 scripts/gfx/gfx_audit.py`(그림 텍스트를 고친 뒤마다 실행, 문제 0이어야 함 — 옥상/중앙사령부 1건은 알려진 무해 항목).
    - 남은 것: 컷인 그림 속 글씨 목록·범위, 작업자 판단 용어 검수(D20 끝).
    - PPSSPP(Windows): 설정 `Documents/PPSSPP/PSP/SYSTEM/ppsspp.ini`의 [General] RemoteDebuggerOnStartup = True. 트리 폴더의 절대 경로로 실행. 시험 트리는 `work/poc/g1/tree`(원본 하드링크 + 새 DAT000), 부팅 확인 스크립트 `work/poc/boot_test.sh`(저장소 밖).
    - 그림 작업 스크립트는 work/gfx(저장소 밖)에 시험용으로만 있음. 재현에 필요한 것은 `scripts/gfx/`(gfx_index → gfx_sheets → gfx_label_score/crops, gfx_titles)와 `text/ko/graphics.json`의 상자 좌표.

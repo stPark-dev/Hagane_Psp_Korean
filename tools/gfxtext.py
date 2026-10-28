@@ -152,12 +152,16 @@ def _sample_gradient(rgba, rect, n=4):
     return out
 
 
-def draw_label(rgba, rect, text, style, fonts_dir, align="center", inset=0):
+def draw_label(rgba, rect, text, style, fonts_dir, align="center", inset=0, ink=False):
     """Clear rect in rgba (h, w, 4 array) and draw text in it (align: center, left or right), in one of STYLES.
-    inset keeps that many columns at the left free (the game's sprite of the label before may reach into them)."""
+    inset keeps that many columns at the left free (the game's sprite of the label before may reach into them).
+    ink: align on the original text's extent inside rect (its centre, left or right end) instead of on rect,
+    so the new text sits where the game expects the old one."""
     st = STYLES[style]
     x, y, w, h = rect
     fill = _sample_gradient(rgba, rect) if st["fill"] == "sample" else st["fill"]
+    cols = np.nonzero((rgba[y:y + h, x:x + w, 3] > 40).any(0))[0] if ink else []
+    ink_l, ink_r = (x + cols[0], x + cols[-1] + 1) if len(cols) else (x, x + w)
     rgba[y:y + h, x:x + w] = 0
     if not text:
         return
@@ -170,6 +174,10 @@ def draw_label(rgba, rect, text, style, fonts_dir, align="center", inset=0):
         ox = x + ew + inset
     elif align == "right":
         ox = x + w - ew - sh - cw
+    if ink and len(cols):
+        ox = {"left": max(ink_l, x + ew + inset), "right": ink_r - ew - sh - cw}.get(
+            align, (ink_l + ink_r - cw - sh) // 2)
+        ox = min(max(ox, x + ew + inset), x + w - ew - sh - cw)        # stay inside rect
     if edge is None:
         region = rgba[oy:oy + ch, ox:ox + cw]
         a = (cov * st["alpha"]).astype(np.uint8)
@@ -221,11 +229,16 @@ def _outlined(text, fonts_dir, px, edge, max_w):
 
 
 def place_label(rgba, box, name, sub, fonts_dir):
-    """Redraw a location label: black serif text with a white outline, right-aligned in box,
+    """Redraw a location label: black serif text with a white outline, each line ending where the
+    original line ended (right-aligned in box),
     name on top and the smaller sub-title under it. The label sits on the transparent strip
     (alpha <= 2) at the bottom of a background tile, right of the picture."""
     x, y, w, h = box
     left = rgba.shape[1]
+    ends = []                                      # right end of the original name and sub-title
+    for r0, r1 in ((y, y + PLACE_NAME_ROWS), (y + PLACE_NAME_ROWS, y + h)):
+        cols = np.nonzero((rgba[r0:r1, x:x + w, 3] > 40).any(0))[0]
+        ends.append(x + cols[-1] + 1 if len(cols) else x + w)
     firsts = {r: np.nonzero(rgba[r, :, 3] <= 2)[0] for r in range(y, y + h)}
     strip = int(np.median([z[0] for z in firsts.values() if len(z)]))
     for r, z in firsts.items():
@@ -233,9 +246,8 @@ def place_label(rgba, box, name, sub, fonts_dir):
             start = min(z[0], x, strip)            # a glyph touching the picture hides the strip edge
             rgba[r, start:] = 0                    # the strip right of the picture holds only the label
             left = min(left, start + 2)
-    right = x + w
-    for text, px, top, rows, edge in ((name, PLACE_NAME_PX, y, PLACE_NAME_ROWS, 2),
-                                      (sub, PLACE_SUB_PX, y + PLACE_NAME_ROWS, h - PLACE_NAME_ROWS, 1)):
+    for text, px, top, rows, edge, right in ((name, PLACE_NAME_PX, y, PLACE_NAME_ROWS, 2, ends[0]),
+                                             (sub, PLACE_SUB_PX, y + PLACE_NAME_ROWS, h - PLACE_NAME_ROWS, 1, ends[1])):
         if not text:
             continue
         o, t = _outlined(text, fonts_dir, px, edge, right - left)
@@ -353,7 +365,7 @@ def redraw(doc, originals, fonts_dir):
                         draw_cells(a, lb["cells"], lb["ko"], lb["style"], fonts_dir, lb.get("at"))
                     else:
                         draw_label(a, lb["rect"], lb["ko"], lb["style"], fonts_dir, lb.get("align", "center"),
-                                   lb.get("inset", 0))
+                                   lb.get("inset", 0), lb.get("ink", True))
     places = doc.get("places", {})
     for lb in places.get("labels", []):
         if lb["hash"] in originals:
