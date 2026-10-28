@@ -16,3 +16,11 @@ __pycache__/
 .pytest_cache/
 *.pyc
 OUT/
+
+# personal media (opening song etc.) never goes into the repository
+*.mp3
+*.wav
+*.flac
+*.m4a
+*.ogg
+*.at3p
