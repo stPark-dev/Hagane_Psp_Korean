@@ -14,6 +14,7 @@ from tools import bdf, gim, pix
 
 SERIF, SANS = "NotoSerifKR-Black.otf", "NotoSansKR-Black.otf"
 BOLD, SMALL, TINY = "galmuri/Galmuri11-Bold.bdf", "galmuri/Galmuri9.bdf", "galmuri/Galmuri7.bdf"
+CONDENSED = "galmuri/Galmuri11-Condensed.bdf"
 # Label styles, sampled from the original atlases. fill: one colour or a top-to-bottom gradient
 # ("sample" = take the gradient from the original pixels); alpha: plain styles only (anti-aliased
 # coverage); edge: outline colour and width; shadow: colour drawn one pixel down-right of the edge;
@@ -22,6 +23,9 @@ STYLES = {
     "black": {"fill": (0, 0, 0), "alpha": 190, "fonts": (SMALL,)},
     "grey": {"fill": (83, 83, 83), "alpha": 200, "fonts": (SMALL,)},
     "grey_tiny": {"fill": (83, 83, 83), "alpha": 200, "fonts": (TINY,)},
+    # stat and attribute names on light panels: dark 11-px condensed letters instead of the original
+    # white-with-outline, which at 9 px garbles syllables like 통 and 중 (owner decision, 2026-10-28)
+    "stat": {"fill": (37, 34, 31), "alpha": 255, "fonts": (CONDENSED,)},
     "blue": {"fill": (0, 120, 254), "alpha": 255, "fonts": (BOLD, SMALL)},
     "green": {"fill": [(0, 255, 113), (1, 228, 101), (0, 186, 83), (1, 121, 54)],
               "edge": ((2, 10, 6, 255), 1), "fonts": (BOLD, SMALL)},

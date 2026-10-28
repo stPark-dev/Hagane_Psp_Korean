@@ -121,3 +121,12 @@ def test_label_cells_placed_closer_than_their_width_share_the_overlap():
     c = [a[y:y + h, x:x + w] for x, y, w, h in cells]
     assert (c[0][:, 20:] == c[1][:, :4]).all()          # centres 20 px apart: 4 shared columns
     assert (c[1][:, 21:] == c[2][:, :3]).all()
+
+
+def test_stat_label_draws_dark_11px_letters_unsqueezed_in_a_12px_cell():
+    a = np.zeros((12, 40, 4), np.uint8)
+    gfxtext.draw_label(a, [0, 0, 40, 12], "관통", "stat", FONTS, "left", inset=2)
+    rows = np.nonzero(a[..., 3].any(1))[0]
+    assert rows.max() - rows.min() + 1 == 11                    # full Galmuri11 height, not squeezed
+    ink = a[a[..., 3] == 255]
+    assert len(ink) and (ink[:, :3] == (37, 34, 31)).all()      # dark, no outline colour

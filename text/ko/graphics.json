@@ -831,7 +831,7 @@
      ],
      "ja": "威力",
      "ko": "위력",
-     "style": "white"
+     "style": "stat"
     },
     {
      "rect": [
@@ -890,7 +890,7 @@
      ],
      "ja": "斬撃",
      "ko": "참격",
-     "style": "white",
+     "style": "stat",
      "align": "left",
      "inset": 2
     },
@@ -903,7 +903,7 @@
      ],
      "ja": "打撃",
      "ko": "타격",
-     "style": "white",
+     "style": "stat",
      "align": "left",
      "inset": 2
     },
@@ -916,7 +916,7 @@
      ],
      "ja": "貫通",
      "ko": "관통",
-     "style": "white",
+     "style": "stat",
      "align": "left",
      "inset": 2
     },
@@ -929,7 +929,7 @@
      ],
      "ja": "燃焼",
      "ko": "연소",
-     "style": "white",
+     "style": "stat",
      "align": "left",
      "inset": 2
     },
@@ -942,7 +942,7 @@
      ],
      "ja": "無属性",
      "ko": "무속성",
-     "style": "white",
+     "style": "stat",
      "align": "left",
      "inset": 2
     },
@@ -955,7 +955,7 @@
      ],
      "ja": "命中",
      "ko": "명중",
-     "style": "white"
+     "style": "stat"
     },
     {
      "rect": [
@@ -978,7 +978,7 @@
      ],
      "ja": "技力",
      "ko": "기력",
-     "style": "white",
+     "style": "stat",
      "align": "left",
      "inset": 2
     },
@@ -991,7 +991,7 @@
      ],
      "ja": "会心",
      "ko": "치명",
-     "style": "white"
+     "style": "stat"
     },
     {
      "rect": [
@@ -1002,7 +1002,7 @@
      ],
      "ja": "知力",
      "ko": "지력",
-     "style": "white",
+     "style": "stat",
      "align": "left",
      "inset": 2
     },
@@ -1015,7 +1015,7 @@
      ],
      "ja": "耐久力",
      "ko": "내구력",
-     "style": "white",
+     "style": "stat",
      "align": "left",
      "inset": 2
     },
@@ -1028,7 +1028,7 @@
      ],
      "ja": "素早さ",
      "ko": "민첩",
-     "style": "white",
+     "style": "stat",
      "align": "left",
      "inset": 2
     },
@@ -1041,7 +1041,7 @@
      ],
      "ja": "器用さ",
      "ko": "손재주",
-     "style": "white",
+     "style": "stat",
      "align": "left",
      "inset": 2
     },
@@ -1054,7 +1054,7 @@
      ],
      "ja": "運",
      "ko": "운",
-     "style": "white",
+     "style": "stat",
      "align": "left",
      "inset": 2
     },
@@ -1067,7 +1067,7 @@
      ],
      "ja": "移動力",
      "ko": "이동력",
-     "style": "white",
+     "style": "stat",
      "align": "left",
      "inset": 2
     }
@@ -1156,7 +1156,7 @@
      ],
      "ja": "威力",
      "ko": "위력",
-     "style": "white"
+     "style": "stat"
     },
     {
      "rect": [
@@ -1191,7 +1191,7 @@
      ],
      "ja": "無属性",
      "ko": "무속성",
-     "style": "white"
+     "style": "stat"
     },
     {
      "rect": [
@@ -1226,7 +1226,7 @@
      ],
      "ja": "知力",
      "ko": "지력",
-     "style": "white"
+     "style": "stat"
     },
     {
      "rect": [
@@ -1237,7 +1237,7 @@
      ],
      "ja": "斬撃",
      "ko": "참격",
-     "style": "white"
+     "style": "stat"
     },
     {
      "rect": [
@@ -1248,7 +1248,7 @@
      ],
      "ja": "打撃",
      "ko": "타격",
-     "style": "white"
+     "style": "stat"
     },
     {
      "rect": [
@@ -1259,7 +1259,7 @@
      ],
      "ja": "貫通",
      "ko": "관통",
-     "style": "white"
+     "style": "stat"
     },
     {
      "rect": [
@@ -1270,7 +1270,7 @@
      ],
      "ja": "燃焼",
      "ko": "연소",
-     "style": "white"
+     "style": "stat"
     },
     {
      "rect": [
@@ -1281,7 +1281,7 @@
      ],
      "ja": "素早さ",
      "ko": "민첩",
-     "style": "white",
+     "style": "stat",
      "align": "left",
      "inset": 2
     },
@@ -1294,7 +1294,7 @@
      ],
      "ja": "器用さ",
      "ko": "손재주",
-     "style": "white"
+     "style": "stat"
     },
     {
      "rect": [
@@ -1305,7 +1305,7 @@
      ],
      "ja": "運",
      "ko": "운",
-     "style": "white"
+     "style": "stat"
     },
     {
      "rect": [
@@ -1316,7 +1316,7 @@
      ],
      "ja": "移動力",
      "ko": "이동력",
-     "style": "white"
+     "style": "stat"
     },
     {
      "rect": [
@@ -1327,7 +1327,7 @@
      ],
      "ja": "技力",
      "ko": "기력",
-     "style": "white"
+     "style": "stat"
     },
     {
      "rect": [
@@ -1338,7 +1338,7 @@
      ],
      "ja": "会心",
      "ko": "치명",
-     "style": "white"
+     "style": "stat"
     },
     {
      "rect": [
@@ -1349,7 +1349,7 @@
      ],
      "ja": "命中",
      "ko": "명중",
-     "style": "white"
+     "style": "stat"
     },
     {
      "rect": [
@@ -1360,7 +1360,7 @@
      ],
      "ja": "耐久力",
      "ko": "내구력",
-     "style": "white"
+     "style": "stat"
     }
    ]
   },
@@ -1379,7 +1379,7 @@
      ],
      "ja": "会心",
      "ko": "치명",
-     "style": "white"
+     "style": "stat"
     },
     {
      "rect": [
@@ -1390,7 +1390,7 @@
      ],
      "ja": "攻撃",
      "ko": "공격",
-     "style": "white"
+     "style": "stat"
     },
     {
      "rect": [
@@ -1401,7 +1401,7 @@
      ],
      "ja": "命中",
      "ko": "명중",
-     "style": "white"
+     "style": "stat"
     },
     {
      "rect": [
@@ -1412,7 +1412,7 @@
      ],
      "ja": "威力",
      "ko": "위력",
-     "style": "white"
+     "style": "stat"
     }
    ]
   },
