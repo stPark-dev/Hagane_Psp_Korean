@@ -109,3 +109,15 @@ def test_left_aligned_label_keeps_an_inset_free_of_ink():
     a = np.zeros((12, 40, 4), np.uint8)
     gfxtext.draw_label(a, [0, 0, 40, 12], "운", "white", FONTS, "left", inset=2)
     assert not a[:, :2, 3].any() and a[:, 2:, 3].any()
+
+
+@needs_fonts
+def test_label_cells_placed_closer_than_their_width_share_the_overlap():
+    pal = struct.pack("<4B", 200, 40, 40, 255) + bytes(4 * 255)
+    t = gim_file(image_block(5, 3, 0, 256, 1, pal), image_block(4, 5, 1, 256, 256, bytes(256 * 256)))
+    a = np.frombuffer(gim.decode(t)[2], np.uint8).reshape(256, 256, 4).copy()
+    cells = [[0, 0, 24, 24], [100, 50, 24, 24], [24, 200, 24, 24]]
+    gfxtext.draw_cells(a, cells, "가나다", "popup", FONTS, at=[188, 208, 229])
+    c = [a[y:y + h, x:x + w] for x, y, w, h in cells]
+    assert (c[0][:, 20:] == c[1][:, :4]).all()          # centres 20 px apart: 4 shared columns
+    assert (c[1][:, 21:] == c[2][:, :3]).all()

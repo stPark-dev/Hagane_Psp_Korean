@@ -187,16 +187,19 @@ def draw_label(rgba, rect, text, style, fonts_dir, align="center", inset=0):
         row[on[ew + r]] = tuple(grad[min(r * len(grad) // ch, len(grad) - 1)]) + (255,)
 
 
-def draw_cells(rgba, cells, text, style, fonts_dir):
-    """Draw one line of text across cells ([x, y, w, h] each, same height) that the game shows side
-    by side in this order, like the battle pop-ups built from one-glyph tiles."""
-    h = cells[0][3]
-    strip = np.concatenate([rgba[y:y + h, x:x + w] for x, y, w, _ in cells], axis=1)
+def draw_cells(rgba, cells, text, style, fonts_dir, at=None):
+    """Draw one line of text across cells ([x, y, w, h] each, same size) that the game shows in this
+    order, like the battle pop-ups built from one-glyph tiles. at: screen x of each cell's centre
+    (cells may overlap there); default side by side."""
+    w, h = cells[0][2], cells[0][3]
+    at = at or [w // 2 + w * k for k in range(len(cells))]
+    left = min(at) - w // 2
+    strip = np.zeros((h, max(at) - left + w - w // 2, 4), np.uint8)
+    for (x, y, _, _), c in zip(cells, at):                  # original colours, for the sampled fill
+        strip[:, c - w // 2 - left:c - w // 2 - left + w] = rgba[y:y + h, x:x + w]
     draw_label(strip, [0, 0, strip.shape[1], h], text, style, fonts_dir)
-    left = 0
-    for x, y, w, _ in cells:
-        rgba[y:y + h, x:x + w] = strip[:, left:left + w]
-        left += w
+    for (x, y, _, _), c in zip(cells, at):
+        rgba[y:y + h, x:x + w] = strip[:, c - w // 2 - left:c - w // 2 - left + w]
 
 
 PLACE_NAME_PX, PLACE_SUB_PX, PLACE_NAME_ROWS = 20, 12, 23  # name band = first 23 rows of the box
@@ -343,7 +346,7 @@ def redraw(doc, originals, fonts_dir):
                 a = canvas(h)
                 for lb in t["labels"]:
                     if "cells" in lb:
-                        draw_cells(a, lb["cells"], lb["ko"], lb["style"], fonts_dir)
+                        draw_cells(a, lb["cells"], lb["ko"], lb["style"], fonts_dir, lb.get("at"))
                     else:
                         draw_label(a, lb["rect"], lb["ko"], lb["style"], fonts_dir, lb.get("align", "center"),
                                    lb.get("inset", 0))
