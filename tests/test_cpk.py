@@ -220,3 +220,22 @@ def test_rebuild_keeps_a_grown_file_uncompressed(tmp_path):
     cpk.rebuild(DAT000, out, {target.path: new}, compress=True)
     e = cpk.CpkArchive(out).by_path()[target.path]
     assert not e.compressed and e.size == len(new)
+
+
+@needs_dat001
+def test_overwrite_same_size_changes_only_that_file(tmp_path):
+    arc = cpk.CpkArchive(DAT001)
+    e = arc.by_path()["00058"]
+    new = bytes(reversed(arc.read(e)))
+    out = tmp_path / "DAT001.cpk"
+    cpk.overwrite_same_size(DAT001, out, {"00058": new})
+    assert out.stat().st_size == DAT001.stat().st_size
+    got = cpk.CpkArchive(out)
+    assert got.read(got.by_path()["00058"]) == new
+    assert got.read(got.by_path()["00057"]) == arc.read(arc.by_path()["00057"])
+
+
+@needs_dat001
+def test_overwrite_same_size_rejects_other_sizes(tmp_path):
+    with pytest.raises(ValueError):
+        cpk.overwrite_same_size(DAT001, tmp_path / "x.cpk", {"00058": b"short"})

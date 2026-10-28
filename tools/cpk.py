@@ -1,4 +1,5 @@
 """CRI CPK archive reader: @UTF tables, TOC/ITOC listings, CRILAYLA decompression."""
+import shutil
 import struct
 from dataclasses import dataclass
 from pathlib import Path
@@ -299,3 +300,21 @@ def rebuild(src, out, replacements, compress=False):
                 fin.seek(e.offset)
                 fout.write(fin.read(e.size))
             written = offset + size
+
+
+def overwrite_same_size(src, out, replacements):
+    """Copy src to out and write each replacement over its file in place. Works for TOC and ITOC
+    archives; every replaced file must be stored uncompressed and keep its exact size."""
+    arc = CpkArchive(src)
+    by = arc.by_path()
+    for path, data in replacements.items():
+        e = by.get(path)
+        if e is None:
+            raise ValueError(f"{path}: not in {src}")
+        if e.compressed or len(data) != e.size:
+            raise ValueError(f"{path}: need {e.size} uncompressed bytes, got {len(data)}")
+    shutil.copyfile(src, out)
+    with open(out, "r+b") as f:
+        for path, data in replacements.items():
+            f.seek(by[path].offset)
+            f.write(data)

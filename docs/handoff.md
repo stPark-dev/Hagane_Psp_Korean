@@ -21,6 +21,11 @@
 - EBOOT(브랜치에서): `ebootstr.apply(원본 ELF, text/ko/eboot.json, 'dev')` 다음 `ebootstr.apply_utf8(결과, text/ko/eboot_utf8.json)`. 결과는 평문 ELF EBOOT.BIN(커스텀 펌웨어 필요 여부 실기 확인 대상).
 - 테스트 트리: 원본 트리를 하드링크 복사(`cp -al work/iso work/poc/u2/tree`)하고 DAT000.cpk와 SYSDIR/EBOOT.BIN만 교체.
 
+## 2-1. 개인용: 오프닝 곡 교체 (배포 패치에는 넣지 않음)
+- 오프닝 영상은 DAT001.cpk 00058(PSMF, H.264 + ATRAC3plus 744바이트 프레임 1,790개 = 83.1초). 다른 PMF 18개는 이벤트 영상, 00044는 엔딩.
+- 인코더: atracdenc(LGPL, github dcherednik/atracdenc)를 `work/ext/atracdenc`에 받고 `src/atrac/at3p/at3p.cpp`의 `BitStream(out, 2048)`을 `744`로 바꿔 빌드(libsndfile1-dev 필요). 2048 그대로면 스크립트가 멈춤.
+- 실행: `python3 scripts/media/opening_song.py <내 음원> work/iso/PSP_GAME/USRDIR/DATA/DAT001.cpk OUT/DAT001.cpk [--start 초] [--fade 초]`. 음원은 빌드 때만 읽고 저장소·배포물에 넣지 않음(상업 음원).
+
 ## 3. 현재 상태
 - 대사 초벌 12,640 / 12,644(Script00 디버그 4줄 제외), D4–D19 반영. 상태는 모두 draft(검수 전).
 - EBOOT UI 2,137개 초벌·D19 반영(main `text/ko/eboot.json`), 시스템 화면 UTF-8 15개(브랜치).
