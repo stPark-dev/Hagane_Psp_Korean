@@ -49,3 +49,63 @@ def test_redraw_applies_every_section_that_names_a_texture():
     a = np.frombuffer(gim.decode(gfxtext.redraw(doc, {h: t}, FONTS)[h])[2], np.uint8).reshape(256, 256, 4)
     assert (a[0:12, 0:32, 3] == 0).all() and (a[100:120, 100:120, 3] == 0).all()
     assert a[50, 50, 3] == 255
+
+
+def test_glow_colour_is_the_tint_around_white_text():
+    a = np.zeros((20, 40, 4), np.uint8)
+    a[5:15, 5:35] = (200, 30, 40, 120)                # red halo
+    a[8:12, 10:30] = (255, 255, 255, 255)             # white letters
+    assert gfxtext.glow_colour(a, [0, 0, 40, 20]) == (200, 30, 40)
+
+
+@needs_fonts
+def test_logo_edge_sample_draws_white_text_in_the_original_glow():
+    pal = struct.pack("<4B", 0, 0, 0, 0) + struct.pack("<4B", 30, 60, 220, 140) + struct.pack("<4B", 255, 255, 255, 255) + bytes(4 * 253)
+    idx = bytearray(256 * 256)
+    for y in range(10, 40):
+        idx[y * 256 + 10:y * 256 + 120] = bytes([1]) * 110
+    for y in range(20, 30):
+        idx[y * 256 + 20:y * 256 + 110] = bytes([2]) * 90
+    t = gim_file(image_block(5, 3, 0, 256, 1, pal), image_block(4, 5, 1, 256, 256, bytes(idx)))
+    h = gfxtext.tex_hash(t)
+    doc = {"logos": [{"hashes": [h], "erase": [{"box": [0, 0, 128, 48], "mode": "clear"}],
+                      "draw": [{"ko": "강철", "box": [0, 0, 128, 48], "px": 30, "edge": "sample", "width": 2, "glow": 1}]}]}
+    a = np.frombuffer(gim.decode(gfxtext.redraw(doc, {h: t}, FONTS)[h])[2], np.uint8).reshape(256, 256, 4)
+    vis = a[0:48, 0:128][a[0:48, 0:128, 3] > 60]
+    assert (vis[:, :3].min(1) > 240).any()            # white letters
+    blue = vis[(vis[:, 2] > 150) & (vis[:, 0] < 120)]
+    assert len(blue) > 20                              # blue glow, not the default black outline
+    assert (vis[:, :3].max(1) < 30).sum() == 0
+
+
+@needs_fonts
+def test_label_cells_spread_one_line_over_separate_cells():
+    pal = struct.pack("<4B", 200, 40, 40, 255) + bytes(4 * 255)
+    t = gim_file(image_block(5, 3, 0, 256, 1, pal), image_block(4, 5, 1, 256, 256, bytes(256 * 256)))  # opaque red
+    h = gfxtext.tex_hash(t)
+    cells = [[0, 0, 24, 23], [200, 100, 24, 23], [40, 200, 24, 23]]
+    doc = {"labels": [{"hashes": [h], "labels": [{"cells": cells, "ko": "가나다", "style": "popup"}]}]}
+    a = np.frombuffer(gim.decode(gfxtext.redraw(doc, {h: t}, FONTS)[h])[2], np.uint8).reshape(256, 256, 4)
+    for x, y, w, hh in cells:
+        c = a[y:y + hh, x:x + w, 3]
+        assert (c == 0).any() and (c == 255).any()   # cleared, then part of the line drawn in each cell
+    assert a[60, 100, 3] == 255                        # outside the cells untouched
+
+
+def test_glow_colour_of_an_untinted_logo_is_its_grey_halo():
+    a = np.zeros((20, 40, 4), np.uint8)
+    a[5:15, 5:35] = (180, 180, 180, 120)              # white-ish halo, no tint
+    a[8:12, 10:30] = (255, 255, 255, 255)
+    assert gfxtext.glow_colour(a, [0, 0, 40, 20]) == (180, 180, 180)
+
+
+def test_glow_colour_of_a_see_through_white_glow_is_the_grey_it_shows_on_black():
+    a = np.zeros((20, 40, 4), np.uint8)
+    a[5:15, 5:35] = (255, 255, 255, 90)
+    assert gfxtext.glow_colour(a, [0, 0, 40, 20]) == (90, 90, 90)
+
+
+def test_left_aligned_label_keeps_an_inset_free_of_ink():
+    a = np.zeros((12, 40, 4), np.uint8)
+    gfxtext.draw_label(a, [0, 0, 40, 12], "운", "white", FONTS, "left", inset=2)
+    assert not a[:, :2, 3].any() and a[:, 2:, 3].any()

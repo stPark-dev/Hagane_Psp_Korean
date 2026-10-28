@@ -13,7 +13,7 @@ from PIL import Image, ImageDraw, ImageFilter, ImageFont
 from tools import bdf, gim, pix
 
 SERIF, SANS = "NotoSerifKR-Black.otf", "NotoSansKR-Black.otf"
-BOLD, SMALL = "galmuri/Galmuri11-Bold.bdf", "galmuri/Galmuri9.bdf"
+BOLD, SMALL, TINY = "galmuri/Galmuri11-Bold.bdf", "galmuri/Galmuri9.bdf", "galmuri/Galmuri7.bdf"
 # Label styles, sampled from the original atlases. fill: one colour or a top-to-bottom gradient
 # ("sample" = take the gradient from the original pixels); alpha: plain styles only (anti-aliased
 # coverage); edge: outline colour and width; shadow: colour drawn one pixel down-right of the edge;
@@ -21,12 +21,18 @@ BOLD, SMALL = "galmuri/Galmuri11-Bold.bdf", "galmuri/Galmuri9.bdf"
 STYLES = {
     "black": {"fill": (0, 0, 0), "alpha": 190, "fonts": (SMALL,)},
     "grey": {"fill": (83, 83, 83), "alpha": 200, "fonts": (SMALL,)},
+    "grey_tiny": {"fill": (83, 83, 83), "alpha": 200, "fonts": (TINY,)},
     "blue": {"fill": (0, 120, 254), "alpha": 255, "fonts": (BOLD, SMALL)},
     "green": {"fill": [(0, 255, 113), (1, 228, 101), (0, 186, 83), (1, 121, 54)],
               "edge": ((2, 10, 6, 255), 1), "fonts": (BOLD, SMALL)},
     "white": {"fill": [(255, 255, 255), (255, 255, 255), (237, 236, 235), (187, 186, 189)],
               "edge": ((37, 34, 31, 255), 1), "shadow": (0, 0, 0, 125), "fonts": (SMALL,)},
     "bond": {"fill": "sample", "edge": ((255, 255, 255, 255), 2), "fonts": ("sans", 15)},
+    "popup": {"fill": "sample", "edge": ((24, 16, 10, 255), 2), "fonts": ("sans", 20)},
+    "chain": {"fill": [(255, 236, 90), (255, 196, 50), (255, 150, 30), (235, 100, 20)],
+              "edge": ((20, 70, 210, 255), 1), "fonts": ("sans", 16)},
+    "chain_small": {"fill": [(255, 236, 90), (255, 196, 50), (255, 150, 30), (235, 100, 20)],
+                    "edge": ((20, 70, 210, 255), 1), "fonts": ("sans", 14)},
 }
 _bdf = {}
 
@@ -142,8 +148,9 @@ def _sample_gradient(rgba, rect, n=4):
     return out
 
 
-def draw_label(rgba, rect, text, style, fonts_dir, align="center"):
-    """Clear rect in rgba (h, w, 4 array) and draw text in it (align: center, left or right), in one of STYLES."""
+def draw_label(rgba, rect, text, style, fonts_dir, align="center", inset=0):
+    """Clear rect in rgba (h, w, 4 array) and draw text in it (align: center, left or right), in one of STYLES.
+    inset keeps that many columns at the left free (the game's sprite of the label before may reach into them)."""
     st = STYLES[style]
     x, y, w, h = rect
     fill = _sample_gradient(rgba, rect) if st["fill"] == "sample" else st["fill"]
@@ -152,11 +159,11 @@ def draw_label(rgba, rect, text, style, fonts_dir, align="center"):
         return
     edge, ew = st.get("edge", (None, 0))
     sh = 1 if "shadow" in st else 0
-    cov = _coverage(text, fonts_dir, w - 2 * ew - sh, h - 2 * ew - sh, st["fonts"])
+    cov = _coverage(text, fonts_dir, w - 2 * ew - sh - inset, h - 2 * ew - sh, st["fonts"])
     ch, cw = cov.shape
     ox, oy = x + (w - cw - sh) // 2, y + (h - ch - sh) // 2
     if align == "left":
-        ox = x + ew
+        ox = x + ew + inset
     elif align == "right":
         ox = x + w - ew - sh - cw
     if edge is None:
@@ -178,6 +185,18 @@ def draw_label(rgba, rect, text, style, fonts_dir, align="center"):
     for r in range(ch):
         row = region[ew + r]
         row[on[ew + r]] = tuple(grad[min(r * len(grad) // ch, len(grad) - 1)]) + (255,)
+
+
+def draw_cells(rgba, cells, text, style, fonts_dir):
+    """Draw one line of text across cells ([x, y, w, h] each, same height) that the game shows side
+    by side in this order, like the battle pop-ups built from one-glyph tiles."""
+    h = cells[0][3]
+    strip = np.concatenate([rgba[y:y + h, x:x + w] for x, y, w, _ in cells], axis=1)
+    draw_label(strip, [0, 0, strip.shape[1], h], text, style, fonts_dir)
+    left = 0
+    for x, y, w, _ in cells:
+        rgba[y:y + h, x:x + w] = strip[:, left:left + w]
+        left += w
 
 
 PLACE_NAME_PX, PLACE_SUB_PX, PLACE_NAME_ROWS = 20, 12, 23  # name band = first 23 rows of the box
@@ -245,18 +264,34 @@ def erase(rgba, box, mode, thr=110):
     sub[..., 3] = cv2.inpaint(np.ascontiguousarray(sub[..., 3]), m, 4, cv2.INPAINT_TELEA)
 
 
-def draw_text(rgba, text, box, px, fonts_dir, fill=(255, 255, 255), edge=(0, 0, 0), width=1, spacing=0):
+def glow_colour(rgba, box):
+    """Mean colour of the tinted (not white, visible) pixels in box = [x0, y0, x1, y1]: the glow
+    around white logo letters."""
+    x0, y0, x1, y1 = box
+    p = rgba[y0:y1, x0:x1].reshape(-1, 4).astype(int)
+    p = p[p[:, 3] > 30]
+    tinted = p[p[:, :3].max(1) - p[:, :3].min(1) > 40]
+    grey = p[p[:, :3].min(1) < 240]
+    if len(tinted) or len(grey):
+        halo = tinted if len(tinted) else grey
+        return tuple(int(round(v)) for v in halo[:, :3].mean(0))
+    # a see-through white glow: the grey it shows over the dark loading screen
+    return tuple(int(round(v)) for v in (p[:, :3] * p[:, 3:] / 255).mean(0))
+
+
+def draw_text(rgba, text, box, px, fonts_dir, fill=(255, 255, 255), edge=(0, 0, 0), width=1, spacing=0, glow=0):
     """Text centred in box = [x0, y0, x1, y1], in Noto Serif KR, with an outline; squeezed to fit.
+    glow > 0 blurs the outline by that radius (a soft halo instead of a hard edge).
 
     The box may run past the texture edge (text cut there, like the original)."""
     pad = 64
     big = np.zeros((rgba.shape[0] + 2 * pad, rgba.shape[1] + 2 * pad, 4), np.uint8)
     big[pad:-pad, pad:-pad] = rgba
-    _draw_text(big, text, [v + pad for v in box], px, fonts_dir, fill, edge, width, spacing)
+    _draw_text(big, text, [v + pad for v in box], px, fonts_dir, fill, edge, width, spacing, glow)
     rgba[:] = big[pad:-pad, pad:-pad]
 
 
-def _draw_text(rgba, text, box, px, fonts_dir, fill, edge, width, spacing):
+def _draw_text(rgba, text, box, px, fonts_dir, fill, edge, width, spacing, glow=0):
     x0, y0, x1, y1 = box
     font = ImageFont.truetype(os.path.join(fonts_dir, SERIF), px)
     advances = [font.getlength(c) for c in text]
@@ -267,9 +302,12 @@ def _draw_text(rgba, text, box, px, fonts_dir, fill, edge, width, spacing):
         x += adv + spacing
     m = m.crop(m.getbbox())
     m = m.resize((min(m.width, x1 - x0 - 2 * width), min(m.height, y1 - y0 - 2 * width)), Image.LANCZOS)
-    m = Image.fromarray(np.pad(np.asarray(m), width))
+    m = Image.fromarray(np.pad(np.asarray(m), width + glow))
     t = np.asarray(m, float) / 255
-    o = np.asarray(m.filter(ImageFilter.MaxFilter(2 * width + 1)), float) / 255
+    o = m.filter(ImageFilter.MaxFilter(2 * width + 1))
+    if glow:
+        o = o.filter(ImageFilter.GaussianBlur(glow))
+    o = np.asarray(o, float) / 255
     ox, oy = x0 + (x1 - x0 - m.width) // 2, y0 + (y1 - y0 - m.height) // 2
     region = rgba[oy:oy + m.height, ox:ox + m.width].astype(float)
     for a, col in ((o, edge), (t, fill)):                    # outline first, then the letters over it
@@ -304,7 +342,11 @@ def redraw(doc, originals, fonts_dir):
             if h in originals:
                 a = canvas(h)
                 for lb in t["labels"]:
-                    draw_label(a, lb["rect"], lb["ko"], lb["style"], fonts_dir, lb.get("align", "center"))
+                    if "cells" in lb:
+                        draw_cells(a, lb["cells"], lb["ko"], lb["style"], fonts_dir)
+                    else:
+                        draw_label(a, lb["rect"], lb["ko"], lb["style"], fonts_dir, lb.get("align", "center"),
+                                   lb.get("inset", 0))
     places = doc.get("places", {})
     for lb in places.get("labels", []):
         if lb["hash"] in originals:
@@ -314,11 +356,14 @@ def redraw(doc, originals, fonts_dir):
         for h in lg["hashes"]:
             if h in originals:
                 a = canvas(h)
+                # "edge": "sample" takes the glow colour of the original letters before they are erased
+                edges = [glow_colour(a, t["box"]) if t.get("edge") == "sample" else t.get("edge", (0, 0, 0))
+                         for t in lg["draw"]]
                 for e in lg["erase"]:
                     erase(a, e["box"], e["mode"], e.get("thr", 110))
-                for t in lg["draw"]:
+                for t, edge in zip(lg["draw"], edges):
                     draw_text(a, t["ko"], t["box"], t["px"], fonts_dir, t.get("fill", (255, 255, 255)),
-                              t.get("edge", (0, 0, 0)), t.get("width", 1), t.get("spacing", 0))
+                              edge, t.get("width", 1), t.get("spacing", 0), t.get("glow", 0))
     return {h: gim.remap(originals[h], a.tobytes()) for h, a in work.items()}
 
 

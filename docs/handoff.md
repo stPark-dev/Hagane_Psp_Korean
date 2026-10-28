@@ -31,7 +31,8 @@
 1. **그림 텍스트**(D20: A+B+C+D, 구현 완료 2026-10-27 — `docs/graphics.md` 구현 상태)
    - Linux: `pip install --user --break-system-packages numba`, 글꼴은 `https://github.com/notofonts/noto-cjk/raw/main/{Serif,Sans}/SubsetOTF/KR/<파일>`을 curl로 받음.
    - 글꼴: `../fonts/`에 notofonts/noto-cjk SubsetOTF/KR의 NotoSerifKR-Black·Bold, NotoSansKR-Bold·Black(OFL)과 LICENSE. 작은 UI 글자는 `../galmuri/`.
-   - 남은 것: 전투 UI 그림(m_menu #2, battle01 #0·#2)과 미션 시작 연출 로고(NEW GAME 직후 로딩 화면에도 보임, journal PoC-G1), 전투 준비 메뉴 화면 확인(장소 표시는 2026-10-28 확인), 컷인 그림 속 글씨 목록·범위, 작업자 판단 용어 검수(D20 끝).
+   - 2026-10-28 처리: 전투 UI 그림 3장, 로딩 화면 로고 22장, 전투 준비 메뉴 '미션 정보' 제목, 능력치 이름 정렬(`docs/graphics.md` 구현 상태).
+   - 남은 것: 전투 팝업(회피력 다운·체인 러시 등)의 게임 화면 확인(PPSSPP에서 공격 실행 입력이 먹지 않아 못 봄 — 공격 대상 선택 뒤 ○가 반응하지 않음, 조작법 확인 필요), 컷인 그림 속 글씨 목록·범위, 작업자 판단 용어 검수(D20 끝).
    - PPSSPP(Windows): 설정 `Documents/PPSSPP/PSP/SYSTEM/ppsspp.ini`의 [General] RemoteDebuggerOnStartup = True. 트리 폴더의 절대 경로로 실행. 시험 트리는 `work/poc/g1/tree`(원본 하드링크 + 새 DAT000), 부팅 확인 스크립트 `work/poc/boot_test.sh`(저장소 밖).
    - 그림 작업 스크립트는 work/gfx(저장소 밖)에 시험용으로만 있음. 재현에 필요한 것은 `scripts/gfx/`(gfx_index → gfx_sheets → gfx_label_score/crops, gfx_titles)와 `text/ko/graphics.json`의 상자 좌표.
 2. **실기 테스트용 ISO**
