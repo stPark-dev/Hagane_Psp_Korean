@@ -5,12 +5,12 @@ context (pronoun, omission), so each finding goes to a reviewer.
 
 - term:    source has an approved glossary term, Korean lacks its rendering
 - pending: source has an undecided term (state 결정필요) and the entry has no flag
-- width:   a visible line is longer than max_cells characters
+- width:   a visible line is wider than the dialogue box (max_bytes in the game's encoding)
 """
 import re
 from dataclasses import dataclass
 
-from tools import textcheck
+from tools import kofont, textcheck
 
 CHECKED_STATES = ("승인", "잠정승인")
 CHECKED_KINDS = ("name", "place", "term", "rank")
@@ -60,7 +60,7 @@ def _source_terms(src, compiled):
     return found
 
 
-def lint(entries, src, glossary, max_cells=22):
+def lint(entries, src, glossary, max_bytes=40):
     out = []
     compiled = _compiled(glossary)
     for e in entries:
@@ -74,7 +74,7 @@ def lint(entries, src, glossary, max_cells=22):
                 out.append(Finding(e["id"], "term", f"{row['ja']} → {row['ko']} not found"))
         for page in textcheck.pages(e["ko"]):
             for line in page:
-                cells = len(textcheck.PROTECTED.sub("", line))
-                if cells > max_cells:
-                    out.append(Finding(e["id"], "width", f"{cells} cells: {line}"))
+                width = len(kofont.encode(textcheck.PROTECTED.sub("", line)))
+                if width > max_bytes:
+                    out.append(Finding(e["id"], "width", f"{width} bytes: {line}"))
     return out

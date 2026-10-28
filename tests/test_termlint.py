@@ -45,11 +45,13 @@ def test_longest_matching_source_term_wins():
     assert out == []
 
 
-def test_long_line_is_reported_with_cell_count():
-    out = termlint.lint([e("a", "가" * 23 + "@n⊿@n"), e("b", "<~V1>@n" + "가" * 22 + "@n⊿@n")],
-                        {"a": "", "b": ""}, [], max_cells=22)
+def test_long_line_is_reported_by_its_width_in_the_game():
+    # the dialogue box holds 40 bytes a line (Hangul 2, ASCII and spaces 1); spaces don't make a line wide
+    out = termlint.lint([e("a", "가" * 21 + "@n⊿@n"), e("b", "<~V1>@n" + "가" * 20 + "@n⊿@n"),
+                         e("c", "가 " * 13 + "@n⊿@n")],
+                        {"a": "", "b": "", "c": ""}, [])
     assert [(f.id, f.kind) for f in out] == [("a", "width")]
-    assert "23" in out[0].message
+    assert "42" in out[0].message
 
 
 def test_katakana_term_inside_a_longer_katakana_word_is_ignored():
