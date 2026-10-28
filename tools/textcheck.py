@@ -23,7 +23,7 @@ def pages(text):
     return out
 
 
-def check(src, ko, max_lines=4):
+def check(src, ko, max_lines=3):
     errs = []
     if protected_tokens(src) != protected_tokens(ko):
         errs.append(f"protected token sequence differs: {protected_tokens(src)} != {protected_tokens(ko)}")

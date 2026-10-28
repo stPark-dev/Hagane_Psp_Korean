@@ -134,7 +134,7 @@ Bonus scenarios (IF and E series): short battle scenes outside the main timeline
   - `@n` is a line break; you may move it.
   - End each text the way the source does (usually `@n⊿@n`).
   - A voice cue opens its page and is followed by `@n`.
-- At most 4 visible lines per page. A page is the text between `⊥`/`⊿`; a line holding only a voice cue doesn't count.
+- At most 3 visible lines per page (the dialogue box shows 3; every source page has at most 3), each line at most 38 bytes (Hangul and full-width 2, ASCII and spaces 1; the widest source line). A page is the text between `⊥`/`⊿`; a line holding only a voice cue doesn't count.
   - **At most 22 characters per line**, counting spaces and punctuation; aim for 21.
 - Use only encodable characters:
   - All KS X 1001 Hangul is fine; rare syllables like 똠/햏/뷁 are not.

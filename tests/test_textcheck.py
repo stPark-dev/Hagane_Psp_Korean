@@ -36,3 +36,10 @@ def test_page_line_limit():
 
 def test_line_breaks_may_move():
     assert textcheck.check("あい@nう@n⊿@n", "가@n나다라@n⊿@n") == []
+
+
+def test_dialogue_pages_hold_three_lines_like_the_source():
+    # every source page in the srt scripts has at most 3 visible lines; the dialogue box shows 3
+    src = "あ@n⊿@n"
+    assert any("lines" in e for e in textcheck.check(src, "가@n나@n다@n라@n⊿@n"))
+    assert textcheck.check("<~v01>@nあ@n⊿@n", "<~v01>@n가@n나@n다@n⊿@n") == []
